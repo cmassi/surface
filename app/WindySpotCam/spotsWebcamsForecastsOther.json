@@ -1,0 +1,151 @@
+{
+    "webcams": [
+        {   "title": "Sardegna - Portopollo - Panoramicams Istmo",
+            "url": "https://panoramicams.com/porto-pollo-istmo/"
+        },
+        {   "title": "Sardegna - Portopollo - Panoramicams Kite Zone",
+            "url": "https://panoramicams.com/porto-pollo-kite-zone/"
+        },
+        {   "title": "Sardegna - Portopollo - ProCenter",
+            "url": "https://www.procenter.it/webcam/"
+        },
+        {   "title": "Sardegna - SanTeodoro - La Cinta",
+            "url": "https://www.santeodoro.it/web-cam-spiaggia-la-cinta/"
+        },
+        {   "title": "Sardegna - Olbia - Vedetta Murta Maria",
+            "url": "https://vedetta.org/webcam/italia/sardegna/sassari/olbia-marina-maria/"
+        },
+        {   "title": "Sardegna - Aglientu Naracu Nieddu Lu Litarroni - Panoramicams Marina delle Rose",
+            "url": "https://panoramicams.com/lu-litarroni-marina-delle-rose/"
+        },
+        {   "title": "Sardegna - Badesi - Vedetta",
+            "url": "https://vedetta.org/webcam/italia/sardegna/sassari/badesi/"
+        },
+        {   "title": "Sardegna - Vignola - Panoramicams Aglientu",
+            "url": "https://panoramicams.com/vignola-mare-aglientu/"
+        },
+        {   "title": "Sardegna - Valledoria - Vedetta La Ciaccia",
+            "url": "https://sardegnawebcam.it/webcam/valledoria-la-ciaccia-1/it#webcam"
+        },
+        
+        {   "title": "Como Lake - Colico - Vedetta",
+            "url": "https://vedetta.org/webcam/italia/lombardia/lecco/colico-piano/"
+        },
+        {   "title": "Como Lake - Colico - Nausika Yacht",
+            "url": "https://stream-meteoproject.eu/weathercam-player.php?code=87"
+        },
+        {   "title": "Como Lake - Colico e dintorni - Meteoblue",
+            "url": "https://www.meteoblue.com/it/tempo/webcams/colico_italia_3178451"
+        },
+        {   "title": "Como Lake - Cremia - Vedetta",
+            "url": "https://vedetta.org/webcam/italia/lombardia/como/cremia/"
+        },
+        {   "title": "Como Lake - Dervio - Vedetta",
+            "url": "https://vedetta.org/en/webcam/italia/lombardia/lecco/dervio-valmadrera/"
+        },
+        {   "title": "Como Lake - Gera Lario e dintorni",
+            "url": "https://www.meteoblue.com/it/tempo/webcams/gera-lario_italia_3176199"
+        },
+        
+        {   "title": "Garda Lake - Malcesine",
+            "url": "https://stream-meteoproject.eu/weathercam-player.php?code=14"
+        },
+        {   "title": "Garda Lake - Tignale - Vedetta Porto",
+            "url": "https://vedetta.org/webcam/italia/lombardia/brescia/porto-tignale/"
+        },
+        {   "title": "Garda Lake - Tignale - Vedetta PraDeLaFam",
+            "url": "https://vedetta.org/webcam/italia/lombardia/brescia/tignale-pra-de-la-fam/"
+        },
+        
+        {   "title": "Liguria - Andora - Tortuga Beach - Vedetta",
+            "url": "https://vedetta.org/webcam/italia/liguria/savona/andora/"
+        },
+        
+        {   "title": "Spagna - Tarifa",
+            "url": "https://www.spotfav.com/dashboard/home"
+        },
+        
+        {   "title": "Lanzarote - Famara",
+            "url": "https://www.redstarsurf.com/famara-live-web-cam/"
+        }
+    ],
+    
+    "forecasts": [
+        
+        {   "title": "Sardegna - PortoPollo - Windguru",
+            "url": "https://www.windguru.cz/278"
+        },
+        {   "title": "Sardegna - Vignola - Windguru",
+            "url": "https://www.windguru.cz/49166"
+        },
+        {   "title": "Sardegna - San Teodoro (La Cinta) - Windguru",
+            "url": "https://www.windguru.cz/49159"
+        },
+        {   "title": "Sardegna - Marina delle Rose - Windguru",
+            "url": "https://www.windguru.cz/49165"
+        },
+        
+        {   "title": "Como Lake - BrevaGuru",
+            "url": "https://brevaguru.com/it/comolake_winds_forecasts/map/"
+        },
+        {   "title": "Como Lake - Colico - Windguru",
+            "url": "https://www.windguru.cz/766"
+        },
+        {   "title": "Como Lake - Colico - Windfinder",
+            "url": "https://www.windfinder.com/forecast/lake_como_colico"
+        },
+        {   "title": "Como Lake - Gera Lario (La Punta) - Windguru",
+            "url": "https://www.windguru.cz/142053"
+        },
+        {   "title": "Como Lake - Gera Lario - Windfinder",
+            "url": "https://it.windfinder.com/forecast/lake_como_gera_lario"
+        },
+        {   "title": "Como Lake - Gera Lario - Meteo Aereonatica Militare",
+            "url": "https://www.meteoam.it/it/meteo-citta/gera-lario"
+        },
+        {   "title": "Como Lake - Gera Lario - CML - Tabo Surf",
+            "url": "http://www.centrometeolombardo.com/moduli/stazioni.php?geralario"
+        },
+        {   "title": "Como Lake - Mandello del Lario - CML - Lega Navale Mandello",
+            "url": "http://www.centrometeolombardo.com/moduli/stazioni.php?mandello"
+        },
+        {   "title": "Como Lake - Dervio - Windguru",
+            "url": "https://www.windguru.cz/186114"
+        },
+        {   "title": "Como Lake - Dervio - CML - Bar Pontile MeteoLecco.it",
+            "url": "http://www.centrometeolombardo.com/moduli/stazioni.php?dervio"
+        },
+        {   "title": "Como Lake - Dongo - CML - Circolo Velico Marvelia",
+            "url": "http://www.centrometeolombardo.com/moduli/stazioni.php?dongo"
+        },
+        {   "title": "Como Lake - Abbadia Lariana- Windfinder",
+            "url": "https://it.windfinder.com/weatherforecast/abbadia-lariana_lago-di-como"
+        },
+        {   "title": "Como Lake - Abbadia Lariana - CML - abbadiameteo.it",
+            "url": "http://www.centrometeolombardo.com/moduli/stazioni.php?abbadia"
+        },
+        
+        {   "title": "Garda Lake - Conca d'Oro - Windguru",
+            "url": "https://www.windguru.cz/49193"
+        },
+        
+        {   "title": "Liguria - Albenga - Windguru",
+            "url": "https://www.windguru.cz/48983"
+        }
+    ],
+    
+    "other": [
+        {   "title": "Windguru Forecasts",
+            "url": "https://www.windguru.cz/"
+        },
+        {   "title": "CML",
+            "url": "http://www.centrometeolombardo.com/"
+        },
+        {   "title": "Meteo Aereonatica Militare",
+            "url": "https://www.meteoam.it/it/home"
+        },
+        {   "title": "PraDeLaFam",
+            "url": "https://www.pradelafam.net/"
+        }
+    ]
+}
