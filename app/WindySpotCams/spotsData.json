@@ -28,8 +28,25 @@
             "url": "https://sardegnawebcam.it/webcam/valledoria-la-ciaccia-1/it#webcam"
         },
         
-        {   "title": "Como Lake - Colico - Vedetta",
-            "url": "https://vedetta.org/webcam/italia/lombardia/lecco/colico-piano/"
+        {
+            "title": "Como Lake - Colico - Vedetta",
+            "url": "https://vedetta.org/webcam/italia/lombardia/lecco/colico-piano/",
+            "location": {
+                "name": "Jordan'Surf"
+                "address": "Via Montecchio Nord 27"
+                "city": "Colico"
+                "code": 23823
+                "country": "Italy"
+                "coordinate": {
+                    "latitude": 46.14190
+                    "lonngitude": 9.37400
+                }
+            },
+            "id": 10,
+            "list": {
+                "id": 10,
+                "preferred": false
+            }
         },
         {   "title": "Como Lake - Colico - Nausika Yacht",
             "url": "https://stream-meteoproject.eu/weathercam-player.php?code=87"
