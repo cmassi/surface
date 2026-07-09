@@ -1,31 +1,85 @@
 {
     "webcams": [
         {   "title": "Sardegna - Portopollo - Panoramicams Istmo",
-            "url": "https://panoramicams.com/porto-pollo-istmo/"
+            "url": "https://panoramicams.com/porto-pollo-istmo/",
+            "id": 1,
+            "metadata": {
+                "id": 1,
+                "kind": "webcam",
+                "preferred": false
+            }
         },
         {   "title": "Sardegna - Portopollo - Panoramicams Kite Zone",
-            "url": "https://panoramicams.com/porto-pollo-kite-zone/"
+            "url": "https://panoramicams.com/porto-pollo-kite-zone/",
+            "id": 2,
+            "metadata": {
+                "id": 2,
+                "kind": "webcam",
+                "preferred": false
+            }
         },
         {   "title": "Sardegna - Portopollo - ProCenter",
-            "url": "https://www.procenter.it/webcam/"
+            "url": "https://www.procenter.it/webcam/",
+            "id": 3,
+            "metadata": {
+                "id": 3,
+                "kind": "webcam",
+                "preferred": false
+            }
         },
         {   "title": "Sardegna - SanTeodoro - La Cinta",
-            "url": "https://www.santeodoro.it/web-cam-spiaggia-la-cinta/"
+            "url": "https://www.santeodoro.it/web-cam-spiaggia-la-cinta/",
+            "id": 4,
+            "metadata": {
+                "id": 4,
+                "kind": "webcam",
+                "preferred": false
+            }
         },
         {   "title": "Sardegna - Olbia - Vedetta Murta Maria",
-            "url": "https://vedetta.org/webcam/italia/sardegna/sassari/olbia-marina-maria/"
+            "url": "https://vedetta.org/webcam/italia/sardegna/sassari/olbia-marina-maria/",
+            "id": 5,
+            "metadata": {
+                "id": 5,
+                "kind": "webcam",
+                "preferred": false
+            }
         },
         {   "title": "Sardegna - Aglientu Naracu Nieddu Lu Litarroni - Panoramicams Marina delle Rose",
-            "url": "https://panoramicams.com/lu-litarroni-marina-delle-rose/"
+            "url": "https://panoramicams.com/lu-litarroni-marina-delle-rose/",
+            "id": 6,
+            "metadata": {
+                "id": 6,
+                "kind": "webcam",
+                "preferred": false
+            }
         },
         {   "title": "Sardegna - Badesi - Vedetta",
-            "url": "https://vedetta.org/webcam/italia/sardegna/sassari/badesi/"
+            "url": "https://vedetta.org/webcam/italia/sardegna/sassari/badesi/",
+            "id": 7,
+            "metadata": {
+                "id": 7,
+                "kind": "webcam",
+                "preferred": false
+            }
         },
         {   "title": "Sardegna - Vignola - Panoramicams Aglientu",
-            "url": "https://panoramicams.com/vignola-mare-aglientu/"
+            "url": "https://panoramicams.com/vignola-mare-aglientu/",
+            "id": 8,
+            "metadata": {
+                "id": 8,
+                "kind": "webcam",
+                "preferred": false
+            }
         },
         {   "title": "Sardegna - Valledoria - Vedetta La Ciaccia",
-            "url": "https://sardegnawebcam.it/webcam/valledoria-la-ciaccia-1/it#webcam"
+            "url": "https://sardegnawebcam.it/webcam/valledoria-la-ciaccia-1/it#webcam",
+            "id": 9,
+            "metadata": {
+                "id": 9,
+                "kind": "webcam",
+                "preferred": false
+            }
         },
         
         {
@@ -43,47 +97,114 @@
                 }
             },
             "id": 10,
-            "list": {
+            "metadata": {
                 "id": 10,
+                "kind": "webcam",
                 "preferred": false
             }
         },
         {   "title": "Como Lake - Colico - Nausika Yacht",
-            "url": "https://stream-meteoproject.eu/weathercam-player.php?code=87"
+            "url": "https://stream-meteoproject.eu/weathercam-player.php?code=87",
+            "id": 11,
+            "metadata": {
+                "id": 11,
+                "kind": "webcam",
+                "preferred": false
+            }
         },
         {   "title": "Como Lake - Colico e dintorni - Meteoblue",
-            "url": "https://www.meteoblue.com/it/tempo/webcams/colico_italia_3178451"
+            "url": "https://www.meteoblue.com/it/tempo/webcams/colico_italia_3178451",
+            "id": 12,
+            "metadata": {
+                "id": 12,
+                "kind": "webcam",
+                "preferred": false
+            }
         },
         {   "title": "Como Lake - Cremia - Vedetta",
-            "url": "https://vedetta.org/webcam/italia/lombardia/como/cremia/"
+            "url": "https://vedetta.org/webcam/italia/lombardia/como/cremia/",
+            "id": 13,
+            "metadata": {
+                "id": 13,
+                "kind": "webcam",
+                "preferred": false
+            }
         },
         {   "title": "Como Lake - Dervio - Vedetta",
-            "url": "https://vedetta.org/en/webcam/italia/lombardia/lecco/dervio-valmadrera/"
+            "url": "https://vedetta.org/en/webcam/italia/lombardia/lecco/dervio-valmadrera/",
+            "id": 14,
+            "metadata": {
+                "id": 14,
+                "kind": "webcam",
+                "preferred": false
+            }
         },
         {   "title": "Como Lake - Gera Lario e dintorni",
-            "url": "https://www.meteoblue.com/it/tempo/webcams/gera-lario_italia_3176199"
+            "url": "https://www.meteoblue.com/it/tempo/webcams/gera-lario_italia_3176199",
+            "id": 15,
+            "metadata": {
+                "id": 15,
+                "kind": "webcam",
+                "preferred": false
+            }
         },
         
         {   "title": "Garda Lake - Malcesine",
-            "url": "https://stream-meteoproject.eu/weathercam-player.php?code=14"
+            "url": "https://stream-meteoproject.eu/weathercam-player.php?code=14",
+            "id": 16,
+            "metadata": {
+                "id": 16,
+                "kind": "webcam",
+                "preferred": false
+            }
         },
         {   "title": "Garda Lake - Tignale - Vedetta Porto",
-            "url": "https://vedetta.org/webcam/italia/lombardia/brescia/porto-tignale/"
+            "url": "https://vedetta.org/webcam/italia/lombardia/brescia/porto-tignale/",
+            "id": 17,
+            "metadata": {
+                "id": 17,
+                "kind": "webcam",
+                "preferred": false
+            }
         },
         {   "title": "Garda Lake - Tignale - Vedetta PraDeLaFam",
-            "url": "https://vedetta.org/webcam/italia/lombardia/brescia/tignale-pra-de-la-fam/"
+            "url": "https://vedetta.org/webcam/italia/lombardia/brescia/tignale-pra-de-la-fam/",
+            "id": 18,
+            "metadata": {
+                "id": 18,
+                "kind": "webcam",
+                "preferred": false
+            }
         },
         
         {   "title": "Liguria - Andora - Tortuga Beach - Vedetta",
-            "url": "https://vedetta.org/webcam/italia/liguria/savona/andora/"
+            "url": "https://vedetta.org/webcam/italia/liguria/savona/andora/",
+            "id": 19,
+            "metadata": {
+                "id": 19,
+                "kind": "webcam",
+                "preferred": false
+            }
         },
         
         {   "title": "Spagna - Tarifa",
-            "url": "https://www.spotfav.com/dashboard/home"
+            "url": "https://www.spotfav.com/dashboard/home",
+            "id": 20,
+            "metadata": {
+                "id": 20,
+                "kind": "webcam",
+                "preferred": false
+            }
         },
         
         {   "title": "Lanzarote - Famara",
-            "url": "https://www.redstarsurf.com/famara-live-web-cam/"
+            "url": "https://www.redstarsurf.com/famara-live-web-cam/",
+            "id": 21,
+            "metadata": {
+                "id": 21,
+                "kind": "webcam",
+                "preferred": false
+            }
         }
     ],
     
