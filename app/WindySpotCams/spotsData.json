@@ -32,13 +32,13 @@
             "title": "Como Lake - Colico - Vedetta",
             "url": "https://vedetta.org/webcam/italia/lombardia/lecco/colico-piano/",
             "location": {
-                "name": "Jordan'Surf"
-                "address": "Via Montecchio Nord 27"
-                "city": "Colico"
-                "code": 23823
-                "country": "Italy"
+                "name": "Jordan'Surf",
+                "address": "Via Montecchio Nord 27",
+                "city": "Colico",
+                "code": 23823,
+                "country": "Italy",
                 "coordinate": {
-                    "latitude": 46.14190
+                    "latitude": 46.14190,
                     "lonngitude": 9.37400
                 }
             },
