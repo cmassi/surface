@@ -36,7 +36,7 @@
                 "preferred": false
             }
         },
-        {   "title": "Sardegna - Olbia - Panoramicams Pittulunu",
+        {   "title": "Sardegna - Olbia - Panoramicams Pittulongu",
             "url": "https://panoramicams.com/pittulongu-olbia/",
             "id": 5,
             "metadata": {
@@ -109,6 +109,8 @@
                 "address": "Via Montecchio Nord 27",
                 "city": "Colico",
                 "code": 23823,
+                "province": "LC",
+                "region": "Lombardia",
                 "country": "Italy",
                 "coordinate": {
                     "latitude": 46.14190,
@@ -244,6 +246,9 @@
         {   "title": "Sardegna - Marina delle Rose - Windguru",
             "url": "https://www.windguru.cz/49165"
         },
+        {   "title": "Sardegna - Capo D'Orso - EasyWeather",
+            "url": "https://www.ecowitt.net/home/share?authorize=T58U8B&device_id=RWJRVXA1bnM2YkNtMEJDTjBkaW9HZz09"
+        },
         
         {   "title": "Como Lake - BrevaGuru",
             "url": "https://brevaguru.com/it/comolake_winds_forecasts/map/"
@@ -256,6 +261,22 @@
         },
         {   "title": "Como Lake - Gera Lario (La Punta) - Windguru",
             "url": "https://www.windguru.cz/142053"
+        },
+        {   "title": "Como Lake - Gera Lario (La Punta) - WeatherCloud",
+            "url": "https://app.weathercloud.net/map#9563786835",
+            "location": {
+                "name": "[Vicino] Base di Formazione Nautica Scout Scricciolo Tenace",
+                "address": "Via la Punta, 2",
+                "city": "La Punta",
+                "code": 22010,
+                "province": "CO",
+                "region": "Lombardia",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 46.1675,
+                    "longitude": 9.37916
+                }
+            }
         },
         {   "title": "Como Lake - Gera Lario - Windfinder Superforecast",
             "url": "https://it.windfinder.com/weatherforecast/lake_como_gera_lario"
