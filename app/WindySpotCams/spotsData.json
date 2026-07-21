@@ -232,40 +232,101 @@
     "forecasts": [
         
         {   "title": "Sardegna - PortoPollo - Windguru",
-            "url": "https://www.windguru.cz/278"
+            "url": "https://www.windguru.cz/278",
+            "id": 1,
+            "metadata": {
+                "id": 1,
+                "kind": "forecasts",
+                "preferred": false
+            }
         },
         {   "title": "Sardegna - PortoPollo - Windfinder Widget",
-            "url": "https://www.windfinder.com/widget/forecast/sardinia_porto_pollo?unit_wind=kts&unit_temperature=c&unit_wave=m&unit_rain=mm&unit_pressure=hPa&days=10&show_day=0&show_waves=0&domain=www.windfinder.com"
+            "url": "https://www.windfinder.com/widget/forecast/sardinia_porto_pollo?unit_wind=kts&unit_temperature=c&unit_wave=m&unit_rain=mm&unit_pressure=hPa&days=10&show_day=0&show_waves=0&domain=www.windfinder.com",
+            "id": 2,
+            "metadata": {
+                "id": 2,
+                "kind": "forecasts",
+                "preferred": false
+            }
         },
         {   "title": "Sardegna - Vignola - Windguru",
-            "url": "https://www.windguru.cz/49166"
+            "url": "https://www.windguru.cz/49166",
+            "id": 3,
+            "metadata": {
+                "id": 3,
+                "kind": "forecasts",
+                "preferred": false
+            }
         },
         {   "title": "Sardegna - San Teodoro (La Cinta) - Windguru",
-            "url": "https://www.windguru.cz/49159"
+            "url": "https://www.windguru.cz/49159",
+            "id": 4,
+            "metadata": {
+                "id": 4,
+                "kind": "forecasts",
+                "preferred": false
+            }
         },
         {   "title": "Sardegna - Marina delle Rose - Windguru",
-            "url": "https://www.windguru.cz/49165"
+            "url": "https://www.windguru.cz/49165",
+            "id": 5,
+            "metadata": {
+                "id": 5,
+                "kind": "forecasts",
+                "preferred": false
+            }
         },
         {   "title": "Sardegna - Capo D'Orso - EasyWeather",
-            "url": "https://www.ecowitt.net/home/share?authorize=T58U8B&device_id=RWJRVXA1bnM2YkNtMEJDTjBkaW9HZz09"
+            "url": "https://www.ecowitt.net/home/share?authorize=T58U8B&device_id=RWJRVXA1bnM2YkNtMEJDTjBkaW9HZz09",
+            "id": 6,
+            "metadata": {
+                "id": 6,
+                "kind": "forecasts",
+                "preferred": false
+            }
         },
         
         {   "title": "Como Lake - BrevaGuru",
-            "url": "https://brevaguru.com/it/comolake_winds_forecasts/map/"
+            "url": "https://brevaguru.com/it/comolake_winds_forecasts/map/",
+            "id": 7,
+            "metadata": {
+                "id": 7,
+                "kind": "forecasts",
+                "preferred": false
+            }
         },
         {   "title": "Como Lake - Colico - Windguru",
-            "url": "https://www.windguru.cz/766"
+            "url": "https://www.windguru.cz/766",
+            "id": 8,
+            "metadata": {
+                "id": 8,
+                "kind": "forecasts",
+                "preferred": false
+            }
         },
         {   "title": "Como Lake - Colico - Windfinder",
-            "url": "https://www.windfinder.com/forecast/lake_como_colico"
+            "url": "https://www.windfinder.com/forecast/lake_como_colico",
+            "id": 9,
+            "metadata": {
+                "id": 9,
+                "kind": "forecasts",
+                "preferred": false
+            }
         },
         {   "title": "Como Lake - Gera Lario (La Punta) - Windguru",
-            "url": "https://www.windguru.cz/142053"
+            "url": "https://www.windguru.cz/142053",
+            "id": 10,
+            "metadata": {
+                "id": 10,
+                "kind": "forecasts",
+                "preferred": false
+            }
         },
         {   "title": "Como Lake - Gera Lario (La Punta) - WeatherCloud",
             "url": "https://app.weathercloud.net/map#9563786835",
+            "id": 11,
             "location": {
-                "name": "[Vicino] Base di Formazione Nautica Scout Scricciolo Tenace",
+                "name": "Casa di Anna [Vicino a Base di Formazione Nautica Scout Scricciolo Tenace]",
                 "address": "Via la Punta, 2",
                 "city": "La Punta",
                 "code": 22010,
@@ -276,79 +337,216 @@
                     "latitude": 46.1675,
                     "longitude": 9.37916
                 }
+            },
+            "metadata": {
+                "id": 11,
+                "kind": "forecasts",
+                "preferred": false
             }
         },
         {   "title": "Como Lake - Gera Lario - Windfinder Superforecast",
-            "url": "https://it.windfinder.com/weatherforecast/lake_como_gera_lario"
+            "url": "https://it.windfinder.com/weatherforecast/lake_como_gera_lario",
+            "id": 12,
+            "metadata": {
+                "id": 12,
+                "kind": "forecasts",
+                "preferred": false
+            }
         },
         {   "title": "Como Lake - Gera Lario - Meteo Aereonatica Militare",
-            "url": "https://www.meteoam.it/it/meteo-citta/gera-lario"
+            "url": "https://www.meteoam.it/it/meteo-citta/gera-lario",
+            "id": 13,
+            "metadata": {
+                "id": 13,
+                "kind": "forecasts",
+                "preferred": false
+            }
         },
         {   "title": "Como Lake - Gera Lario - CML - Tabo Surf",
-            "url": "http://www.centrometeolombardo.com/moduli/stazioni.php?geralario"
+            "url": "http://www.centrometeolombardo.com/moduli/stazioni.php?geralario",
+            "id": 14,
+            "metadata": {
+                "id": 14,
+                "kind": "forecasts",
+                "preferred": false
+            }
         },
         {   "title": "Como Lake - Mandello del Lario - CML - Lega Navale Mandello",
-            "url": "http://www.centrometeolombardo.com/moduli/stazioni.php?mandello"
+            "url": "http://www.centrometeolombardo.com/moduli/stazioni.php?mandello",
+            "id": 15,
+            "metadata": {
+                "id": 15,
+                "kind": "forecasts",
+                "preferred": false
+            }
         },
         {   "title": "Como Lake - Dervio - Windguru",
-            "url": "https://www.windguru.cz/186114"
+            "url": "https://www.windguru.cz/186114",
+            "id": 16,
+            "metadata": {
+                "id": 16,
+                "kind": "forecasts",
+                "preferred": false
+            }
         },
         {   "title": "Como Lake - Dervio - Windfinder Superforecast",
-            "url": "https://it.windfinder.com/weatherforecast/dervio_lake_como"
+            "url": "https://it.windfinder.com/weatherforecast/dervio_lake_como",
+            "id": 17,
+            "metadata": {
+                "id": 17,
+                "kind": "forecasts",
+                "preferred": false
+            }
         },
         {   "title": "Como Lake - Dervio - Windfinder Widget",
-            "url": "https://www.windfinder.com/widget/forecast/dervio_lake_como?unit_wind=kts&unit_temperature=c&unit_wave=m&unit_rain=mm&unit_pressure=hPa&days=10&show_day=0&show_waves=0&domain=www.windfinder.com"
+            "url": "https://www.windfinder.com/widget/forecast/dervio_lake_como?unit_wind=kts&unit_temperature=c&unit_wave=m&unit_rain=mm&unit_pressure=hPa&days=10&show_day=0&show_waves=0&domain=www.windfinder.com",
+            "id": 18,
+            "metadata": {
+                "id": 18,
+                "kind": "forecasts",
+                "preferred": false
+            }
         },
         {   "title": "Como Lake - Dervio - CML - Bar Pontile MeteoLecco.it",
-            "url": "http://www.centrometeolombardo.com/moduli/stazioni.php?dervio"
+            "url": "http://www.centrometeolombardo.com/moduli/stazioni.php?dervio",
+            "id": 19,
+            "metadata": {
+                "id": 19,
+                "kind": "forecasts",
+                "preferred": false
+            }
         },
         {   "title": "Como Lake - Dongo - CML - Circolo Velico Marvelia",
-            "url": "http://www.centrometeolombardo.com/moduli/stazioni.php?dongo"
+            "url": "http://www.centrometeolombardo.com/moduli/stazioni.php?dongo",
+            "id": 20,
+            "metadata": {
+                "id": 20,
+                "kind": "forecasts",
+                "preferred": false
+            }
         },
         {   "title": "Como Lake - Abbadia Lariana - Windfinder Superforecast",
-            "url": "https://it.windfinder.com/weatherforecast/abbadia-lariana_lago-di-como"
+            "url": "https://it.windfinder.com/weatherforecast/abbadia-lariana_lago-di-como",
+            "id": 21,
+            "metadata": {
+                "id": 21,
+                "kind": "forecasts",
+                "preferred": false
+            }
         },
         {   "title": "Como Lake - Abbadia Lariana - Windfinder Widget",
-            "url": "https://www.windfinder.com/widget/forecast/abbadia-lariana_lago-di-como?unit_wind=kts&unit_temperature=c&unit_wave=m&unit_rain=mm&unit_pressure=hPa&days=10&show_day=0&show_waves=0&domain=www.windfinder.com"
+            "url": "https://www.windfinder.com/widget/forecast/abbadia-lariana_lago-di-como?unit_wind=kts&unit_temperature=c&unit_wave=m&unit_rain=mm&unit_pressure=hPa&days=10&show_day=0&show_waves=0&domain=www.windfinder.com",
+            "id": 22,
+            "metadata": {
+                "id": 22,
+                "kind": "forecasts",
+                "preferred": false
+            }
         },
         {   "title": "Como Lake - Abbadia Lariana - CML - abbadiameteo.it",
-            "url": "http://www.centrometeolombardo.com/moduli/stazioni.php?abbadia"
+            "url": "http://www.centrometeolombardo.com/moduli/stazioni.php?abbadia",
+            "id": 23,
+            "metadata": {
+                "id": 23,
+                "kind": "forecasts",
+                "preferred": false
+            }
         },
         
         {   "title": "Garda Lake - Conca d'Oro - Windguru",
-            "url": "https://www.windguru.cz/49193"
+            "url": "https://www.windguru.cz/49193",
+            "id": 24,
+            "metadata": {
+                "id": 24,
+                "kind": "forecasts",
+                "preferred": false
+            }
         },
         {   "title": "Garda Lake - Conca d'Oro - Windfinder Superforecast",
-            "url": "https://it.windfinder.com/weatherforecast/lake_garda_conca_d_oro_torbole"
+            "url": "https://it.windfinder.com/weatherforecast/lake_garda_conca_d_oro_torbole",
+            "id": 25,
+            "metadata": {
+                "id": 25,
+                "kind": "forecasts",
+                "preferred": false
+            }
         },
         {   "title": "Garda Lake - Conca d'Oro - Windfinder Widget",
-            "url": "https://www.windfinder.com/widget/forecast/lake_garda_conca_d_oro_torbole?unit_wind=kts&unit_temperature=c&unit_wave=m&unit_rain=mm&unit_pressure=hPa&days=10&show_day=0&show_waves=0&domain=www.windfinder.com"
+            "url": "https://www.windfinder.com/widget/forecast/lake_garda_conca_d_oro_torbole?unit_wind=kts&unit_temperature=c&unit_wave=m&unit_rain=mm&unit_pressure=hPa&days=10&show_day=0&show_waves=0&domain=www.windfinder.com",
+            "id": 26,
+            "metadata": {
+                "id": 26,
+                "kind": "forecasts",
+                "preferred": false
+            }
         },
         
         
         {   "title": "Liguria - Albenga - Windguru",
-            "url": "https://www.windguru.cz/48983"
+            "url": "https://www.windguru.cz/48983",
+            "id": 27,
+            "metadata": {
+                "id": 27,
+                "kind": "forecasts",
+                "preferred": false
+            }
         }
     ],
     
     "other": [
         {   "title": "Windguru Forecasts",
-            "url": "https://www.windguru.cz/"
+            "url": "https://www.windguru.cz/",
+            "id": 1,
+            "metadata": {
+                "id": 1,
+                "kind": "other",
+                "preferred": false
+            }
         },
         {   "title": "CML",
-            "url": "http://www.centrometeolombardo.com/"
+            "url": "http://www.centrometeolombardo.com/",
+            "id": 2,
+            "metadata": {
+                "id": 2,
+                "kind": "other",
+                "preferred": false
+            }
         },
         {   "title": "Meteo Aereonatica Militare",
-            "url": "https://www.meteoam.it/it/home"
+            "url": "https://www.meteoam.it/it/home",
+            "id": 3,
+            "metadata": {
+                "id": 3,
+                "kind": "other",
+                "preferred": false
+            }
         },
         {   "title": "PraDeLaFam",
-            "url": "https://www.pradelafam.net/"
+            "url": "https://www.pradelafam.net/",
+            "id": 4,
+            "metadata": {
+                "id": 4,
+                "kind": "other",
+                "preferred": false
+            }
         },
         {   "title": "Panoramicams Spiagge",
-            "url": "https://panoramicams.com/category/spiagge/"
+            "url": "https://panoramicams.com/category/spiagge/",
+            "id": 5,
+            "metadata": {
+                "id": 5,
+                "kind": "other",
+                "preferred": false
+            }
         },
         {   "title": "Panoramicams Spot",
-            "url": "https://panoramicams.com/surf-spot-sardegna/"
+            "url": "https://panoramicams.com/surf-spot-sardegna/",
+            "id": 6,
+            "metadata": {
+                "id": 6,
+                "kind": "other",
+                "preferred": false
+            }
         }
     ]
 }
