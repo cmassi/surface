@@ -1,8 +1,21 @@
 {
     "webcams": [
         {   "title": "Sardegna - Portopollo - Panoramicams Istmo",
-            "url": "https://panoramicams.com/porto-pollo-istmo/",
+            "url": "https://panoramicams.com/porto-pollo-istmo",
             "id": 1,
+            "location": {
+                "name": "Webcam Isuledda Isola dei Gabbiani",
+                "address": "Via per campeggio (fine)",
+                "city": "Palau",
+                "code": "07020",
+                "province": "OT",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 41.195931,
+                    "longitude": 9.319125
+                }
+            },
             "metadata": {
                 "id": 1,
                 "kind": "webcam",
@@ -10,72 +23,176 @@
             }
         },
         {   "title": "Sardegna - Portopollo - Panoramicams Kite Zone",
-            "url": "https://panoramicams.com/porto-pollo-kite-zone/",
+            "url": "https://panoramicams.com/porto-pollo-kite-zone",
             "id": 2,
+            "location": {
+                "name": "Wind Bar Portopollo",
+                "address": "Via per campeggio",
+                "city": "Palau",
+                "code": "07020",
+                "province": "OT",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 41.193853,
+                    "longitude": 9.318580
+                }
+            },
             "metadata": {
                 "id": 2,
                 "kind": "webcam",
                 "preferred": false
             }
         },
-        {   "title": "Sardegna - Portopollo - Panoramicams ProCenter",
-            "url": "https://panoramicams.com/iframe/windsurf-village-porto-pollo/",
+        {   "title": "Sardegna - Portopollo - Panoramicams Rupi's",
+            "url": "https://panoramicams.com/porto-pollo-rupis",
             "id": 3,
+            "location": {
+                "name": "Rupi's Chilling Out",
+                "address": "Via per campeggio",
+                "city": "Palau",
+                "code": "07020",
+                "province": "OT",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 41.193298,
+                    "longitude": 9.319201
+                }
+            },
             "metadata": {
                 "id": 3,
                 "kind": "webcam",
                 "preferred": false
             }
         },
-        {   "title": "Sardegna - Portopollo e dintorni - Meteoblue",
-            "url": "https://www.meteoblue.com/it/tempo/webcams/porto-pollo_italia_6544030",
+        {   "title": "Sardegna - Portopollo - Panoramicams ProCenter",
+            "url": "https://panoramicams.com/iframe/windsurf-village-porto-pollo",
             "id": 4,
+            "location": {
+                "name": "Porto Pollo Pro Center",
+                "address": "Località Porto Pollo, 1",
+                "city": "Palau",
+                "code": "07020",
+                "province": "OT",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 41.189973,
+                    "longitude": 9.325430
+                }
+            },
             "metadata": {
                 "id": 4,
                 "kind": "webcam",
                 "preferred": false
             }
         },
-        {   "title": "Sardegna - Olbia - Panoramicams Pittulongu",
-            "url": "https://panoramicams.com/pittulongu-olbia/",
+        {   "title": "Sardegna - Portopollo e dintorni - Meteoblue",
+            "url": "https://www.meteoblue.com/it/tempo/webcams/porto-pollo_italia_6544030",
             "id": 5,
+            "location": {
+                "name": "Rupi's Chilling Out",
+                "address": "Via per campeggio",
+                "city": "Palau",
+                "code": "07020",
+                "province": "OT",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 41.193371,
+                    "longitude": 9.318824
+                }
+            },
             "metadata": {
                 "id": 5,
                 "kind": "webcam",
                 "preferred": false
             }
         },
-        
-        {   "title": "Sardegna - SanTeodoro - La Cinta",
-            "url": "https://www.santeodoro.it/web-cam-spiaggia-la-cinta/",
+        {   "title": "Sardegna - Olbia - Panoramicams Pittulongu",
+            "url": "https://panoramicams.com/pittulongu-olbia",
             "id": 6,
+            "location": {
+                "name": "Mamabeach",
+                "address": "Via Tramontana, 10",
+                "city": "Pittulongu",
+                "code": "07026",
+                "province": "OT",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 40.939005,
+                    "longitude": 9.566924
+                }
+            },
             "metadata": {
                 "id": 6,
                 "kind": "webcam",
                 "preferred": false
             }
         },
-        {   "title": "Sardegna - Olbia - Vedetta Murta Maria",
-            "url": "https://vedetta.org/webcam/italia/sardegna/sassari/olbia-marina-maria/",
+        
+        {   "title": "Sardegna - San Teodoro - Whatsupcams La Cinta",
+            "url": "https://www.whatsupcams.com/it/webcams/italia/sardegna/san-teodoro-it/spiaggia-isuledda-san-teodoro-sardegna",
             "id": 7,
+            "location": {
+                "name": "La Cinta Beach",
+                "address": "Via Antonio Gramsci",
+                "city": "San Teodoro",
+                "code": "07052",
+                "province": "OT",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 40.785199,
+                    "longitude": 9.671015
+                }
+            },
             "metadata": {
                 "id": 7,
                 "kind": "webcam",
                 "preferred": false
             }
         },
-        {   "title": "Sardegna - Aglientu Naracu Nieddu Lu Litarroni - Panoramicams Marina delle Rose",
-            "url": "https://panoramicams.com/lu-litarroni-marina-delle-rose/",
+        {   "title": "Sardegna - Olbia - Vedetta Murta Maria",
+            "url": "https://vedetta.org/webcam/italia/sardegna/sassari/olbia-marina-maria",
             "id": 8,
+            "location": {
+                "name": "Marina Maria Beach",
+                "address": "Spiaggia Marina Maria",
+                "city": "Murta Maria",
+                "code": "07026",
+                "province": "OT",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 40.899934,
+                    "longitude": 9.585130
+                }
+            },
             "metadata": {
                 "id": 8,
                 "kind": "webcam",
                 "preferred": false
             }
         },
-        {   "title": "Sardegna - Badesi - Vedetta",
-            "url": "https://vedetta.org/webcam/italia/sardegna/sassari/badesi/",
+        {   "title": "Sardegna - Aglientu Naracu Nieddu Lu Litarroni - Panoramicams Marina delle Rose",
+            "url": "https://panoramicams.com/lu-litarroni-marina-delle-rose",
             "id": 9,
+            "location": {
+                "name": "La terrazza sul mare",
+                "address": "Località Naracu Nieddu",
+                "city": "Aglientu",
+                "code": "07020",
+                "province": "OT",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 41.133174,
+                    "longitude": 9.102509
+                }
+            },
             "metadata": {
                 "id": 9,
                 "kind": "webcam",
@@ -83,19 +200,67 @@
             }
         },
         {   "title": "Sardegna - Vignola - Panoramicams Aglientu",
-            "url": "https://panoramicams.com/vignola-mare-aglientu/",
+            "url": "https://panoramicams.com/vignola-mare-aglientu",
             "id": 10,
+            "location": {
+                "name": "Pirati dei Caraibi",
+                "address": "Lungomare",
+                "city": "Vignola Mare",
+                "code": "07020",
+                "province": "OT",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 41.127892,
+                    "longitude": 9.068762
+                }
+            },
             "metadata": {
                 "id": 10,
                 "kind": "webcam",
                 "preferred": false
             }
         },
-        {   "title": "Sardegna - Valledoria - Vedetta La Ciaccia",
-            "url": "https://sardegnawebcam.it/webcam/valledoria-la-ciaccia-1/it#webcam",
+        {   "title": "Sardegna - Badesi - Vedetta",
+            "url": "https://vedetta.org/webcam/italia/sardegna/sassari/badesi",
             "id": 11,
+            "location": {
+                "name": "Sardini Action",
+                "address": "Li Junchi",
+                "city": "Badesi Mare",
+                "code": "07030",
+                "province": "OT",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 40.979879,
+                    "longitude": 8.859506
+                }
+            },
             "metadata": {
                 "id": 11,
+                "kind": "webcam",
+                "preferred": false
+            }
+        },
+        {   "title": "Sardegna - Valledoria - Panoramicams La Ciaccia",
+            "url": "https://panoramicams.com/maragnani-valledoria",
+            "id": 12,
+            "location": {
+                "name": "International Camping Valledoria",
+                "address": "Via La Ciaccia, 39",
+                "city": "Valledoria",
+                "code": "07039",
+                "province": "SS",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 40.923302,
+                    "longitude": 8.795643
+                }
+            },
+            "metadata": {
+                "id": 12,
                 "kind": "webcam",
                 "preferred": false
             }
@@ -103,12 +268,12 @@
         
         {
             "title": "Como Lake - Colico - Vedetta",
-            "url": "https://vedetta.org/webcam/italia/lombardia/lecco/colico-piano/",
+            "url": "https://vedetta.org/webcam/italia/lombardia/lecco/colico-piano",
             "location": {
                 "name": "Jordan'Surf",
                 "address": "Via Montecchio Nord 27",
                 "city": "Colico",
-                "code": 23823,
+                "code": "23823",
                 "province": "LC",
                 "region": "Lombardia",
                 "country": "Italy",
@@ -117,15 +282,6 @@
                     "longitude": 9.37400
                 }
             },
-            "id": 12,
-            "metadata": {
-                "id": 12,
-                "kind": "webcam",
-                "preferred": false
-            }
-        },
-        {   "title": "Como Lake - Colico - Nausika Yacht",
-            "url": "https://stream-meteoproject.eu/weathercam-player.php?code=87",
             "id": 13,
             "metadata": {
                 "id": 13,
@@ -133,8 +289,8 @@
                 "preferred": false
             }
         },
-        {   "title": "Como Lake - Colico e dintorni - Meteoblue",
-            "url": "https://www.meteoblue.com/it/tempo/webcams/colico_italia_3178451",
+        {   "title": "Como Lake - Colico - Nausika Yacht",
+            "url": "https://stream-meteoproject.eu/weathercam-player.php?code=87",
             "id": 14,
             "metadata": {
                 "id": 14,
@@ -142,8 +298,8 @@
                 "preferred": false
             }
         },
-        {   "title": "Como Lake - Cremia - Vedetta",
-            "url": "https://vedetta.org/webcam/italia/lombardia/como/cremia/",
+        {   "title": "Como Lake - Colico e dintorni - Meteoblue",
+            "url": "https://www.meteoblue.com/it/tempo/webcams/colico_italia_3178451",
             "id": 15,
             "metadata": {
                 "id": 15,
@@ -151,8 +307,8 @@
                 "preferred": false
             }
         },
-        {   "title": "Como Lake - Dervio - Vedetta",
-            "url": "https://vedetta.org/en/webcam/italia/lombardia/lecco/dervio-valmadrera/",
+        {   "title": "Como Lake - Cremia - Vedetta",
+            "url": "https://vedetta.org/webcam/italia/lombardia/como/cremia",
             "id": 16,
             "metadata": {
                 "id": 16,
@@ -160,8 +316,8 @@
                 "preferred": false
             }
         },
-        {   "title": "Como Lake - Gera Lario e dintorni",
-            "url": "https://www.meteoblue.com/it/tempo/webcams/gera-lario_italia_3176199",
+        {   "title": "Como Lake - Dervio - Vedetta",
+            "url": "https://vedetta.org/en/webcam/italia/lombardia/lecco/dervio-valmadrera",
             "id": 17,
             "metadata": {
                 "id": 17,
@@ -169,9 +325,8 @@
                 "preferred": false
             }
         },
-        
-        {   "title": "Garda Lake - Malcesine",
-            "url": "https://stream-meteoproject.eu/weathercam-player.php?code=14",
+        {   "title": "Como Lake - Gera Lario e dintorni",
+            "url": "https://www.meteoblue.com/it/tempo/webcams/gera-lario_italia_3176199",
             "id": 18,
             "metadata": {
                 "id": 18,
@@ -179,8 +334,9 @@
                 "preferred": false
             }
         },
-        {   "title": "Garda Lake - Tignale - Vedetta Porto",
-            "url": "https://vedetta.org/webcam/italia/lombardia/brescia/porto-tignale/",
+        
+        {   "title": "Garda Lake - Malcesine",
+            "url": "https://stream-meteoproject.eu/weathercam-player.php?code=14",
             "id": 19,
             "metadata": {
                 "id": 19,
@@ -188,8 +344,8 @@
                 "preferred": false
             }
         },
-        {   "title": "Garda Lake - Tignale - Vedetta PraDeLaFam",
-            "url": "https://vedetta.org/webcam/italia/lombardia/brescia/tignale-pra-de-la-fam/",
+        {   "title": "Garda Lake - Tignale - Vedetta Porto",
+            "url": "https://vedetta.org/webcam/italia/lombardia/brescia/porto-tignale",
             "id": 20,
             "metadata": {
                 "id": 20,
@@ -197,9 +353,8 @@
                 "preferred": false
             }
         },
-        
-        {   "title": "Liguria - Andora - Tortuga Beach - Vedetta",
-            "url": "https://vedetta.org/webcam/italia/liguria/savona/andora/",
+        {   "title": "Garda Lake - Tignale - Vedetta PraDeLaFam",
+            "url": "https://vedetta.org/webcam/italia/lombardia/brescia/tignale-pra-de-la-fam",
             "id": 21,
             "metadata": {
                 "id": 21,
@@ -208,8 +363,8 @@
             }
         },
         
-        {   "title": "Spagna - Tarifa",
-            "url": "https://www.spotfav.com/dashboard/home",
+        {   "title": "Liguria - Andora - Tortuga Beach - Vedetta",
+            "url": "https://vedetta.org/webcam/italia/liguria/savona/andora",
             "id": 22,
             "metadata": {
                 "id": 22,
@@ -218,11 +373,21 @@
             }
         },
         
-        {   "title": "Lanzarote - Famara",
-            "url": "https://www.redstarsurf.com/famara-live-web-cam/",
+        {   "title": "Spagna - Tarifa",
+            "url": "https://www.spotfav.com/dashboard/home",
             "id": 23,
             "metadata": {
                 "id": 23,
+                "kind": "webcam",
+                "preferred": false
+            }
+        },
+        
+        {   "title": "Lanzarote - Famara",
+            "url": "https://www.redstarsurf.com/famara-live-web-cam",
+            "id": 24,
+            "metadata": {
+                "id": 24,
                 "kind": "webcam",
                 "preferred": false
             }
@@ -287,7 +452,7 @@
         },
         
         {   "title": "Como Lake - BrevaGuru",
-            "url": "https://brevaguru.com/it/comolake_winds_forecasts/map/",
+            "url": "https://brevaguru.com/it/comolake_winds_forecasts/map",
             "id": 7,
             "metadata": {
                 "id": 7,
@@ -495,7 +660,7 @@
     
     "other": [
         {   "title": "Windguru Forecasts",
-            "url": "https://www.windguru.cz/",
+            "url": "https://www.windguru.cz",
             "id": 1,
             "metadata": {
                 "id": 1,
@@ -504,7 +669,7 @@
             }
         },
         {   "title": "CML",
-            "url": "http://www.centrometeolombardo.com/",
+            "url": "http://www.centrometeolombardo.com",
             "id": 2,
             "metadata": {
                 "id": 2,
@@ -522,7 +687,7 @@
             }
         },
         {   "title": "PraDeLaFam",
-            "url": "https://www.pradelafam.net/",
+            "url": "https://www.pradelafam.net",
             "id": 4,
             "metadata": {
                 "id": 4,
@@ -531,7 +696,7 @@
             }
         },
         {   "title": "Panoramicams Spiagge",
-            "url": "https://panoramicams.com/category/spiagge/",
+            "url": "https://panoramicams.com/category/spiagge",
             "id": 5,
             "metadata": {
                 "id": 5,
@@ -540,7 +705,7 @@
             }
         },
         {   "title": "Panoramicams Spot",
-            "url": "https://panoramicams.com/surf-spot-sardegna/",
+            "url": "https://panoramicams.com/surf-spot-sardegna",
             "id": 6,
             "metadata": {
                 "id": 6,
