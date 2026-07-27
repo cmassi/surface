@@ -421,10 +421,32 @@
                 "preferred": false
             }
         },
+        {   "title": "Como Lake - Imbarcadero Lecco",
+            "url": "https://vedetta.org/webcam/italia/lombardia/lecco/vista-lecco",
+            "id": 20,
+            "location": {
+                "name": "Imbarcadero Lecco",
+                "address": "Lungolario Cesare Battisti, 3",
+                "city": "Lecco",
+                "code": "23900",
+                "province": "LC",
+                "region": "Lombardia",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 45.855830,
+                    "longitude": 9.387231
+                }
+            },
+            "metadata": {
+                "id": 20,
+                "kind": "webcam",
+                "preferred": false
+            }
+        },
         
         {   "title": "Garda Lake - Malcesine",
             "url": "https://stream-meteoproject.eu/weathercam-player.php?code=14",
-            "id": 20,
+            "id": 21,
             "location": {
                 "name": "Fraglia Vela Malcesine",
                 "address": "Via Gardesana, 205",
@@ -439,14 +461,14 @@
                 }
             },
             "metadata": {
-                "id": 20,
+                "id": 21,
                 "kind": "webcam",
                 "preferred": false
             }
         },
         {   "title": "Garda Lake - Tignale - Vedetta Porto",
             "url": "https://vedetta.org/webcam/italia/lombardia/brescia/porto-tignale",
-            "id": 21,
+            "id": 22,
             "location": {
                 "name": "Porto di Tignale - Pra Dela Fam",
                 "address": "Strada Statale Gardesana Occidentale, 92",
@@ -461,14 +483,14 @@
                 }
             },
             "metadata": {
-                "id": 21,
+                "id": 22,
                 "kind": "webcam",
                 "preferred": false
             }
         },
         {   "title": "Garda Lake - Tignale - Vedetta PraDeLaFam",
             "url": "https://vedetta.org/webcam/italia/lombardia/brescia/tignale-pra-de-la-fam",
-            "id": 22,
+            "id": 23,
             "location": {
                 "name": "B&B TorreDegliUlivi",
                 "address": "Via Gardesana Occidentale, Loc. Pra de la Fam, Porto di Tignale",
@@ -483,7 +505,7 @@
                 }
             },
             "metadata": {
-                "id": 22,
+                "id": 23,
                 "kind": "webcam",
                 "preferred": false
             }
@@ -491,7 +513,7 @@
         
         {   "title": "Liguria - Andora - Tortuga Beach - Vedetta",
             "url": "https://vedetta.org/webcam/italia/liguria/savona/andora",
-            "id": 23,
+            "id": 24,
             "location": {
                 "name": "Tortuga Beach",
                 "address": "V. Aurelia, 45",
@@ -506,7 +528,7 @@
                 }
             },
             "metadata": {
-                "id": 23,
+                "id": 24,
                 "kind": "webcam",
                 "preferred": false
             }
@@ -516,7 +538,7 @@
         
         {   "title": "Lanzarote - Famara",
             "url": "https://www.redstarsurf.com/famara-live-web-cam",
-            "id": 24,
+            "id": 25,
             "location": {
                 "name": "Red Star Surf School Lanzarote",
                 "address": "Avenida el Marinero 9",
@@ -531,7 +553,7 @@
                 }
             },
             "metadata": {
-                "id": 24,
+                "id": 25,
                 "kind": "webcam",
                 "preferred": false
             }
