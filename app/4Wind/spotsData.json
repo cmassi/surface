@@ -1,6 +1,6 @@
 {
     "webcams": [
-        {   "title": "Sardegna - PortoPollo - Panoramicams Istmo",
+        {   "title": "Sardegna - Porto Pollo - Panoramicams Istmo",
             "url": "https://panoramicams.com/porto-pollo-istmo",
             "id": 1,
             "location": {
@@ -12,8 +12,8 @@
                 "region": "Sardegna",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 41.195931,
-                    "longitude": 9.319125
+                    "latitude": 41.19580436423176,
+                    "longitude": 9.319113325000126
                 }
             },
             "metadata": {
@@ -23,11 +23,11 @@
                 "preferred": false
             }
         },
-        {   "title": "Sardegna - PortoPollo - Panoramicams Kite Zone",
+        {   "title": "Sardegna - Porto Pollo - Panoramicams Kite Zone",
             "url": "https://panoramicams.com/porto-pollo-kite-zone",
             "id": 2,
             "location": {
-                "name": "Wind Bar Portopollo",
+                "name": "Wind Bar",
                 "address": "Via per campeggio",
                 "city": "Palau",
                 "code": "07020",
@@ -35,8 +35,8 @@
                 "region": "Sardegna",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 41.193853,
-                    "longitude": 9.318580
+                    "latitude": 41.193866260835534,
+                    "longitude": 9.318479165033706
                 }
             },
             "metadata": {
@@ -46,7 +46,7 @@
                 "preferred": false
             }
         },
-        {   "title": "Sardegna - PortoPollo - Panoramicams Rupi's",
+        {   "title": "Sardegna - Porto Pollo - Panoramicams Rupi's",
             "url": "https://panoramicams.com/porto-pollo-rupis",
             "id": 3,
             "location": {
@@ -58,8 +58,8 @@
                 "region": "Sardegna",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 41.193298,
-                    "longitude": 9.319201
+                    "latitude": 41.1931245924566,
+                    "longitude": 9.319290576067766
                 }
             },
             "metadata": {
@@ -69,7 +69,7 @@
                 "preferred": false
             }
         },
-        {   "title": "Sardegna - PortoPollo - Panoramicams ProCenter",
+        {   "title": "Sardegna - Porto Pollo - Panoramicams ProCenter",
             "url": "https://panoramicams.com/iframe/windsurf-village-porto-pollo",
             "id": 4,
             "location": {
@@ -81,8 +81,8 @@
                 "region": "Sardegna",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 41.189973,
-                    "longitude": 9.325430
+                    "latitude": 41.19009388759681,
+                    "longitude": 9.325355240944488
                 }
             },
             "metadata": {
@@ -92,11 +92,11 @@
                 "preferred": false
             }
         },
-        {   "title": "Sardegna - PortoPollo e dintorni - Meteoblue",
+        {   "title": "Sardegna - Porto Pollo e dintorni - Meteoblue",
             "url": "https://www.meteoblue.com/it/tempo/webcams/porto-pollo_italia_6544030",
             "id": 5,
             "location": {
-                "name": "Rupi's Chilling Out",
+                "name": "Porto Pollo Beach",
                 "address": "Via per campeggio",
                 "city": "Palau",
                 "code": "07020",
@@ -104,8 +104,8 @@
                 "region": "Sardegna",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 41.193371,
-                    "longitude": 9.318824
+                    "latitude": 41.192872139462914,
+                    "longitude": 9.319814898106522
                 }
             },
             "metadata": {
@@ -127,8 +127,8 @@
                 "region": "Sardegna",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 40.939005,
-                    "longitude": 9.566924
+                    "latitude": 40.938987263429155,
+                    "longitude": 9.567353770618373
                 }
             },
             "metadata": {
@@ -151,8 +151,8 @@
                 "region": "Sardegna",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 40.785199,
-                    "longitude": 9.671015
+                    "latitude": 40.785798705245895,
+                    "longitude": 9.67090110896628
                 }
             },
             "metadata": {
@@ -174,8 +174,8 @@
                 "region": "Sardegna",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 40.899934,
-                    "longitude": 9.585130
+                    "latitude": 40.899998847828115,
+                    "longitude": 9.585156625566816
                 }
             },
             "metadata": {
@@ -197,8 +197,8 @@
                 "region": "Sardegna",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 41.133174,
-                    "longitude": 9.102509
+                    "latitude": 41.13335174798619,
+                    "longitude": 9.10250899528831
                 }
             },
             "metadata": {
@@ -220,8 +220,8 @@
                 "region": "Sardegna",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 41.127892,
-                    "longitude": 9.068762
+                    "latitude": 41.12796499539542,
+                    "longitude": 9.068772122917773
                 }
             },
             "metadata": {
@@ -243,8 +243,8 @@
                 "region": "Sardegna",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 40.979879,
-                    "longitude": 8.859506
+                    "latitude": 40.98006526239016,
+                    "longitude": 8.85952745295012
                 }
             },
             "metadata": {
@@ -266,8 +266,8 @@
                 "region": "Sardegna",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 40.923302,
-                    "longitude": 8.795643
+                    "latitude": 40.923383297538365,
+                    "longitude": 8.795652648844527
                 }
             },
             "metadata": {
@@ -290,8 +290,8 @@
                 "region": "Lombardia",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 46.14190,
-                    "longitude": 9.37400
+                    "latitude": 46.14194231104901,
+                    "longitude": 9.374003857275481
                 }
             },
             "id": 13,
@@ -314,8 +314,8 @@
                 "region": "Lombardia",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 46.13884,
-                    "longitude": 9.37258
+                    "latitude": 46.13900352208353,
+                    "longitude": 9.372590724470703
                 }
             },
             "metadata": {
@@ -337,8 +337,8 @@
                 "region": "Lombardia",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 46.13000,
-                    "longitude": 9.38000
+                    "latitude": 46.14222228403324,
+                    "longitude": 9.372656805160009
                 }
             },
             "metadata": {
@@ -360,8 +360,8 @@
                 "region": "Lombardia",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 46.08887,
-                    "longitude": 9.27926
+                    "latitude": 46.08877354192915,
+                    "longitude": 9.27950723372782
                 }
             },
             "metadata": {
@@ -383,8 +383,8 @@
                 "region": "Lombardia",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 46.07587,
-                    "longitude": 9.29828
+                    "latitude": 46.07570811979278,
+                    "longitude": 9.298120745802816
                 }
             },
             "metadata": {
@@ -406,8 +406,8 @@
                 "region": "Lombardia",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 46.07475,
-                    "longitude": 9.29846
+                    "latitude": 46.07467305279076,
+                    "longitude": 9.298350978827749
                 }
             },
             "metadata": {
@@ -429,8 +429,8 @@
                 "region": "Lombardia",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 46.16792,
-                    "longitude": 9.36901
+                    "latitude": 46.16852577880289,
+                    "longitude": 9.370277828224804
                 }
             },
             "metadata": {
@@ -452,8 +452,8 @@
                 "region": "Lombardia",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 45.855830,
-                    "longitude": 9.387231
+                    "latitude": 45.85600930519691,
+                    "longitude": 9.387220266778396
                 }
             },
             "metadata": {
@@ -476,8 +476,8 @@
                 "region": "Veneto",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 45.795478,
-                    "longitude": 10.834611
+                    "latitude": 45.79546034048822,
+                    "longitude": 10.834348741215509
                 }
             },
             "metadata": {
@@ -491,7 +491,7 @@
             "url": "https://vedetta.org/webcam/italia/lombardia/brescia/porto-tignale",
             "id": 22,
             "location": {
-                "name": "Porto di Tignale - Pra Dela Fam",
+                "name": "Porto di Tignale",
                 "address": "Strada Statale Gardesana Occidentale, 92",
                 "city": "Tignale",
                 "code": "25080",
@@ -499,8 +499,8 @@
                 "region": "Lombardia",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 45.72713,
-                    "longitude": 10.71692
+                    "latitude": 45.72603531215343,
+                    "longitude": 10.716581050400597
                 }
             },
             "metadata": {
@@ -514,7 +514,7 @@
             "url": "https://vedetta.org/webcam/italia/lombardia/brescia/tignale-pra-de-la-fam",
             "id": 23,
             "location": {
-                "name": "B&B TorreDegliUlivi",
+                "name": "B&B Torre Degli Ulivi",
                 "address": "Via Gardesana Occidentale, Loc. Pra de la Fam, Porto di Tignale",
                 "city": "Tignale",
                 "code": "25080",
@@ -522,8 +522,8 @@
                 "region": "Lombardia",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 45.72649,
-                    "longitude": 10.71603
+                    "latitude": 45.726135324649285,
+                    "longitude": 10.715912500703915
                 }
             },
             "metadata": {
@@ -546,8 +546,8 @@
                 "region": "Liguria",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 43.95090,
-                    "longitude": 8.15112
+                    "latitude": 43.95093559117685,
+                    "longitude": 8.151130724315076
                 }
             },
             "metadata": {
@@ -572,8 +572,8 @@
                 "region": "Canary Islands",
                 "country": "Spain",
                 "coordinate": {
-                    "latitude": 29.11724,
-                    "longitude": -13.56447
+                    "latitude": 29.117046007543074,
+                    "longitude": -13.564345340161154
                 }
             },
             "metadata": {
@@ -586,11 +586,11 @@
     
     "forecasts": [
         
-        {   "title": "Sardegna - PortoPollo - Windguru",
+        {   "title": "Sardegna - Porto Pollo - Windguru",
             "url": "https://www.windguru.cz/278",
             "id": 1,
             "location": {
-                "name": "PortoPollo (Windguru)",
+                "name": "Porto Pollo",
                 "address": "Via per campeggio (fine)",
                 "city": "Palau",
                 "code": "07020",
@@ -598,8 +598,8 @@
                 "region": "Sardegna",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 41.19311,
-                    "longitude": 9.319198
+                    "latitude": 41.19428722195336,
+                    "longitude": 9.318804374708689
                 }
             },
             "metadata": {
@@ -609,11 +609,11 @@
                 "preferred": false
             }
         },
-        {   "title": "Sardegna - PortoPollo - Windfinder Widget",
+        {   "title": "Sardegna - Porto Pollo - Windfinder Widget",
             "url": "https://www.windfinder.com/widget/forecast/sardinia_porto_pollo?unit_wind=kts&unit_temperature=c&unit_wave=m&unit_rain=mm&unit_pressure=hPa&days=10&show_day=0&show_waves=0&domain=www.windfinder.com",
             "id": 2,
             "location": {
-                "name": "PortoPollo (Windfinder)",
+                "name": "Porto Pollo",
                 "address": "Via per campeggio (fine)",
                 "city": "Palau",
                 "code": "07020",
@@ -621,8 +621,8 @@
                 "region": "Sardegna",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 41.193103,
-                    "longitude": 9.319116
+                    "latitude": 41.193898672712784,
+                    "longitude": 9.31822504812664
                 }
             },
             "metadata": {
@@ -644,8 +644,8 @@
                 "region": "Sardegna",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 41.12806,
-                    "longitude": 9.07060
+                    "latitude": 41.128322720557534,
+                    "longitude": 9.06986398439316
                 }
             },
             "metadata": {
@@ -667,8 +667,8 @@
                 "region": "Sardegna",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 40.78533,
-                    "longitude": 9.67105
+                    "latitude": 40.78532637177804,
+                    "longitude": 9.670685370419665
                 }
             },
             "metadata": {
@@ -690,8 +690,8 @@
                 "region": "Sardegna",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 41.13351,
-                    "longitude": 9.10627
+                    "latitude": 41.1345323603404,
+                    "longitude": 9.109464026856497
                 }
             },
             "metadata": {
@@ -713,8 +713,8 @@
                 "region": "Sardegna",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 41.16034,
-                    "longitude": 9.40780
+                    "latitude": 41.16035207547856,
+                    "longitude": 9.407820008187475
                 }
             },
             "metadata": {
@@ -736,8 +736,8 @@
                 "region": "Lombardia",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 45.98457,
-                    "longitude": 9.26630
+                    "latitude": 45.99024571868586,
+                    "longitude": 9.266863408673467
                 }
             },
             "metadata": {
@@ -750,7 +750,7 @@
             "url": "https://www.windguru.cz/766",
             "id": 8,
             "location": {
-                "name": "Spiaggia Ontano (Windguru)",
+                "name": "Spiaggia Ontano",
                 "address": "Via Montecchio Nord, 25",
                 "city": "Colico",
                 "code": "23823",
@@ -758,8 +758,8 @@
                 "region": "Lombardia",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 46.14233,
-                    "longitude": 9.37365
+                    "latitude": 46.14251417342196,
+                    "longitude": 9.373421167740146
                 }
             },
             "metadata": {
@@ -773,7 +773,7 @@
             "url": "https://www.windfinder.com/forecast/lake_como_colico",
             "id": 9,
             "location": {
-                "name": "Spiaggia Ontano (Windfinder)",
+                "name": "Spiaggia Ontano",
                 "address": "Via Montecchio Nord, 25",
                 "city": "Colico",
                 "code": "23823",
@@ -781,8 +781,8 @@
                 "region": "Lombardia",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 46.14236,
-                    "longitude": 9.37360
+                    "latitude": 46.14260341747373,
+                    "longitude": 9.37410812306204
                 }
             },
             "metadata": {
@@ -804,8 +804,8 @@
                 "region": "Lombardia",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 46.16544,
-                    "longitude": 9.37970
+                    "latitude": 46.163038240206255,
+                    "longitude": 9.38016031866073
                 }
             },
             "metadata": {
@@ -827,8 +827,8 @@
                 "region": "Lombardia",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 46.16758,
-                    "longitude": 9.37917
+                    "latitude": 46.16749100999076,
+                    "longitude": 9.379171269655393
                 }
             },
             "metadata": {
@@ -849,8 +849,8 @@
                 "region": "Lombardia",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 46.16796,
-                    "longitude": 9.36774
+                    "latitude": 46.16796391324408,
+                    "longitude": 9.367587573060787
                 }
             },
             "metadata": {
@@ -895,8 +895,8 @@
                 "region": "Lombardia",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 46.16863,
-                    "longitude": 9.37364
+                    "latitude": 46.168565377186056,
+                    "longitude": 9.373702743095665
                 }
             },
             "metadata": {
@@ -918,8 +918,8 @@
                 "region": "Lombardia",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 46.07583,
-                    "longitude": 9.29810
+                    "latitude": 46.075970334679525,
+                    "longitude": 9.298174484695197
                 }
             },
             "metadata": {
@@ -941,8 +941,8 @@
                 "region": "Lombardia",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 46.07589,
-                    "longitude": 9.29816
+                    "latitude": 46.076080922551135,
+                    "longitude": 9.298237206012024
                 }
             },
             "metadata": {
@@ -964,8 +964,8 @@
                 "region": "Lombardia",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 46.07583,
-                    "longitude": 9.29815
+                    "latitude": 46.07621326512257,
+                    "longitude": 9.298299927328848
                 }
             },
             "metadata": {
@@ -987,8 +987,8 @@
                 "region": "Lombardia",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 46.07586,
-                    "longitude": 9.29829
+                    "latitude": 46.07564407452053,
+                    "longitude": 9.297889649085308
                 }
             },
             "metadata": {
@@ -1002,7 +1002,7 @@
             "url": "http://www.centrometeolombardo.com/moduli/stazioni.php?dongo",
             "id": 19,
             "location": {
-                "name": "",
+                "name": "Circolo Velico Marvelia",
                 "address": "Località Bersaglio",
                 "city": "Dongo",
                 "code": "22014",
@@ -1010,8 +1010,8 @@
                 "region": "Lombardia",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 46.13464,
-                    "longitude": 9.29074
+                    "latitude": 46.13470830185372,
+                    "longitude": 9.290748459951637
                 }
             },
             "metadata": {
@@ -1025,7 +1025,7 @@
             "url": "http://www.centrometeolombardo.com/moduli/stazioni.php?mandello",
             "id": 20,
             "location": {
-                "name": "Lega Navale Italiana Sezione Mandello Del Lario",
+                "name": "Lega Navale Italiana",
                 "address": "Via Pra Magno, 8,   ",
                 "city": "Mandello del Lario",
                 "code": "23826",
@@ -1033,8 +1033,8 @@
                 "region": "Lombardia",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 45.91259,
-                    "longitude": 9.32272
+                    "latitude": 45.91229270868366,
+                    "longitude": 9.322702390082902
                 }
             },
             "metadata": {
@@ -1056,8 +1056,8 @@
                 "region": "Lombardia",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 45.89517,
-                    "longitude": 9.33226
+                    "latitude": 45.89523215881354,
+                    "longitude": 9.332268921346232
                 }
             },
             "metadata": {
@@ -1079,8 +1079,8 @@
                 "region": "Lombardia",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 45.89506,
-                    "longitude": 9.33241
+                    "latitude": 45.89502740786784,
+                    "longitude": 9.332357179382528
                 }
             },
             "metadata": {
@@ -1102,8 +1102,8 @@
                 "region": "Lombardia",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 45.89517,
-                    "longitude": 9.33301
+                    "latitude": 45.894875306676624,
+                    "longitude": 9.332470654000621
                 }
             },
             "metadata": {
@@ -1118,7 +1118,7 @@
             "url": "https://www.windguru.cz/49193",
             "id": 24,
             "location": {
-                "name": "Duotone Pro Center Torbole",
+                "name": "Duotone Pro Center",
                 "address": "Via Lungolago Conca d'Oro, 12",
                 "city": "Torbole sul Garda",
                 "code": "38069",
@@ -1126,8 +1126,8 @@
                 "region": "Veneto",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 45.86000,
-                    "longitude": 10.88000
+                    "latitude": 45.86251431103399,
+                    "longitude": 10.87523874689688
                 }
             },
             "metadata": {
@@ -1141,7 +1141,7 @@
             "url": "https://it.windfinder.com/weatherforecast/lake_garda_conca_d_oro_torbole",
             "id": 25,
             "location": {
-                "name": "Duotone Pro Center Torbole",
+                "name": "Duotone Pro Center",
                 "address": "Via Lungolago Conca d'Oro, 12",
                 "city": "Torbole sul Garda",
                 "code": "38069",
@@ -1149,8 +1149,8 @@
                 "region": "Veneto",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 45.86236,
-                    "longitude": 10.87589
+                    "latitude": 45.862295920416585,
+                    "longitude": 10.875032289173552
                 }
             },
             "metadata": {
@@ -1164,7 +1164,7 @@
             "url": "https://www.windfinder.com/widget/forecast/lake_garda_conca_d_oro_torbole?unit_wind=kts&unit_temperature=c&unit_wave=m&unit_rain=mm&unit_pressure=hPa&days=10&show_day=0&show_waves=0&domain=www.windfinder.com",
             "id": 26,
             "location": {
-                "name": "Duotone Pro Center Torbole",
+                "name": "Duotone Pro Center",
                 "address": "Via Lungolago Conca d'Oro, 12",
                 "city": "Torbole sul Garda",
                 "code": "38069",
@@ -1172,8 +1172,8 @@
                 "region": "Veneto",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 45.86219,
-                    "longitude": 10.87540
+                    "latitude": 45.86199381198168,
+                    "longitude": 10.875168185396502
                 }
             },
             "metadata": {
@@ -1197,8 +1197,8 @@
                 "region": "Liguria",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 44.05,
-                    "longitude": 8.23
+                    "latitude": 44.04353594273485,
+                    "longitude": 8.225126281848155
                 }
             },
             "metadata": {
@@ -1222,8 +1222,8 @@
                 "region": "Paros Island",
                 "country": "Greece",
                 "coordinate": {
-                    "latitude": 37.074936,
-                    "longitude": 25.258596
+                    "latitude": 37.0738516118003,
+                    "longitude": 25.258854245709752
                 }
             },
             "metadata": {
@@ -1245,8 +1245,8 @@
                 "region": "Paros Island",
                 "country": "Greece",
                 "coordinate": {
-                    "latitude": 37.01525,
-                    "longitude": 25.24929
+                    "latitude": 37.014986236994666,
+                    "longitude": 25.249581523758504
                 }
             },
             "metadata": {
@@ -1301,7 +1301,7 @@
             "url": "https://panoramicams.com/category/spiagge",
             "id": 5,
             "location": {
-                "name": "Panoramicams Spiagge Sardegna",
+                "name": "Spiagge Sardegna",
                 "address": "",
                 "city": "",
                 "code": "",
@@ -1309,8 +1309,8 @@
                 "region": "",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 41.198230,
-                    "longitude": 9.319151
+                    "latitude": 41.190583516649504,
+                    "longitude": 9.310005761387922
                 }
             },
             "metadata": {
@@ -1324,7 +1324,7 @@
             "url": "https://panoramicams.com/surf-spot-sardegna",
             "id": 6,
             "location": {
-                "name": "Panoramicams Spot Sardegna",
+                "name": "Spot Sardegna",
                 "address": "",
                 "city": "",
                 "code": "",
@@ -1332,8 +1332,8 @@
                 "region": "",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 41.198234,
-                    "longitude": 9.319151
+                    "latitude": 41.19171429777365,
+                    "longitude": 9.315793807891074
                 }
             },
             "metadata": {
