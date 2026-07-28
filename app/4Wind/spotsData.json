@@ -4,7 +4,7 @@
             "url": "https://panoramicams.com/porto-pollo-istmo",
             "id": 1,
             "location": {
-                "name": "Webcam Isuledda Isola dei Gabbiani",
+                "name": "Isuledda Isola dei Gabbiani",
                 "address": "Via per campeggio (fine)",
                 "city": "Palau",
                 "code": "07020",
@@ -19,6 +19,7 @@
             "metadata": {
                 "id": 1,
                 "kind": "webcam",
+                "service": "panoramicams",
                 "preferred": false
             }
         },
@@ -41,6 +42,7 @@
             "metadata": {
                 "id": 2,
                 "kind": "webcam",
+                "service": "panoramicams",
                 "preferred": false
             }
         },
@@ -63,6 +65,7 @@
             "metadata": {
                 "id": 3,
                 "kind": "webcam",
+                "service": "panoramicams",
                 "preferred": false
             }
         },
@@ -85,6 +88,7 @@
             "metadata": {
                 "id": 4,
                 "kind": "webcam",
+                "service": "panoramicams",
                 "preferred": false
             }
         },
@@ -107,6 +111,7 @@
             "metadata": {
                 "id": 5,
                 "kind": "webcam",
+                "service": "meteoblue",
                 "preferred": false
             }
         },
@@ -129,6 +134,7 @@
             "metadata": {
                 "id": 6,
                 "kind": "webcam",
+                "service": "panoramicams",
                 "preferred": false
             }
         },
@@ -152,6 +158,7 @@
             "metadata": {
                 "id": 7,
                 "kind": "webcam",
+                "service": "whatsupcams",
                 "preferred": false
             }
         },
@@ -174,6 +181,7 @@
             "metadata": {
                 "id": 8,
                 "kind": "webcam",
+                "service": "vedetta",
                 "preferred": false
             }
         },
@@ -196,6 +204,7 @@
             "metadata": {
                 "id": 9,
                 "kind": "webcam",
+                "service": "panoramicams",
                 "preferred": false
             }
         },
@@ -218,6 +227,7 @@
             "metadata": {
                 "id": 10,
                 "kind": "webcam",
+                "service": "panoramicams",
                 "preferred": false
             }
         },
@@ -240,6 +250,7 @@
             "metadata": {
                 "id": 11,
                 "kind": "webcam",
+                "service": "vedetta",
                 "preferred": false
             }
         },
@@ -262,6 +273,7 @@
             "metadata": {
                 "id": 12,
                 "kind": "webcam",
+                "service": "panoramicams",
                 "preferred": false
             }
         },
@@ -286,6 +298,7 @@
             "metadata": {
                 "id": 13,
                 "kind": "webcam",
+                "service": "vedetta",
                 "preferred": false
             }
         },
@@ -308,6 +321,7 @@
             "metadata": {
                 "id": 14,
                 "kind": "webcam",
+                "service": "weathercam",
                 "preferred": false
             }
         },
@@ -315,7 +329,7 @@
             "url": "https://www.meteoblue.com/it/tempo/webcams/colico_italia_3178451",
             "id": 15,
             "location": {
-                "name": "Webcams intorno a Colico",
+                "name": "Vicino a Colico",
                 "address": "",
                 "city": "Colico",
                 "code": "23823",
@@ -330,6 +344,7 @@
             "metadata": {
                 "id": 15,
                 "kind": "webcam",
+                "service": "meteoblue",
                 "preferred": false
             }
         },
@@ -352,6 +367,7 @@
             "metadata": {
                 "id": 16,
                 "kind": "webcam",
+                "service": "vedetta",
                 "preferred": false
             }
         },
@@ -374,6 +390,7 @@
             "metadata": {
                 "id": 17,
                 "kind": "webcam",
+                "service": "vedetta",
                 "preferred": false
             }
         },
@@ -396,6 +413,7 @@
             "metadata": {
                 "id": 18,
                 "kind": "webcam",
+                "service": "vedetta",
                 "preferred": false
             }
         },
@@ -403,7 +421,7 @@
             "url": "https://www.meteoblue.com/it/tempo/webcams/gera-lario_italia_3176199",
             "id": 19,
             "location": {
-                "name": "Webcams intorno a Gera Lario",
+                "name": "Vicino a Gera Lario",
                 "address": "",
                 "city": "Gera Lario",
                 "code": "22010",
@@ -418,6 +436,7 @@
             "metadata": {
                 "id": 19,
                 "kind": "webcam",
+                "service": "meteoblue",
                 "preferred": false
             }
         },
@@ -440,6 +459,7 @@
             "metadata": {
                 "id": 20,
                 "kind": "webcam",
+                "service": "vedetta",
                 "preferred": false
             }
         },
@@ -463,6 +483,7 @@
             "metadata": {
                 "id": 21,
                 "kind": "webcam",
+                "service": "weathercam",
                 "preferred": false
             }
         },
@@ -485,6 +506,7 @@
             "metadata": {
                 "id": 22,
                 "kind": "webcam",
+                "service": "vedetta",
                 "preferred": false
             }
         },
@@ -507,6 +529,7 @@
             "metadata": {
                 "id": 23,
                 "kind": "webcam",
+                "service": "vedetta",
                 "preferred": false
             }
         },
@@ -530,6 +553,7 @@
             "metadata": {
                 "id": 24,
                 "kind": "webcam",
+                "service": "vedetta",
                 "preferred": false
             }
         },
@@ -581,6 +605,7 @@
             "metadata": {
                 "id": 1,
                 "kind": "forecasts",
+                "service": "windguru",
                 "preferred": false
             }
         },
@@ -603,6 +628,7 @@
             "metadata": {
                 "id": 2,
                 "kind": "forecasts",
+                "service": "windfinder",
                 "preferred": false
             }
         },
@@ -625,6 +651,7 @@
             "metadata": {
                 "id": 3,
                 "kind": "forecasts",
+                "service": "windguru",
                 "preferred": false
             }
         },
@@ -647,6 +674,7 @@
             "metadata": {
                 "id": 4,
                 "kind": "forecasts",
+                "service": "windguru",
                 "preferred": false
             }
         },
@@ -669,6 +697,7 @@
             "metadata": {
                 "id": 5,
                 "kind": "forecasts",
+                "service": "windguru",
                 "preferred": false
             }
         },
@@ -736,6 +765,7 @@
             "metadata": {
                 "id": 8,
                 "kind": "forecasts",
+                "service": "windguru",
                 "preferred": false
             }
         },
@@ -758,6 +788,7 @@
             "metadata": {
                 "id": 9,
                 "kind": "forecasts",
+                "service": "windfinder",
                 "preferred": false
             }
         },
@@ -780,6 +811,7 @@
             "metadata": {
                 "id": 10,
                 "kind": "forecasts",
+                "service": "windguru",
                 "preferred": false
             }
         },
@@ -787,7 +819,7 @@
             "url": "https://app.weathercloud.net/map#9563786835",
             "id": 11,
             "location": {
-                "name": "Casa di Anna [Vicino a Base di Formazione Nautica Scout Scricciolo Tenace]",
+                "name": "Casa privata di Anna",
                 "address": "Via la Punta, 2",
                 "city": "La Punta",
                 "code": "22010",
@@ -824,6 +856,7 @@
             "metadata": {
                 "id": 12,
                 "kind": "forecasts",
+                "service": "windfinder",
                 "preferred": false
             }
         },
@@ -846,6 +879,7 @@
             "metadata": {
                 "id": 13,
                 "kind": "forecasts",
+                "service": "meteoam",
                 "preferred": false
             }
         },
@@ -868,6 +902,7 @@
             "metadata": {
                 "id": 14,
                 "kind": "forecasts",
+                "service": "centrometeolombardo",
                 "preferred": false
             }
         },
@@ -890,6 +925,7 @@
             "metadata": {
                 "id": 15,
                 "kind": "forecasts",
+                "service": "windguru",
                 "preferred": false
             }
         },
@@ -912,6 +948,7 @@
             "metadata": {
                 "id": 16,
                 "kind": "forecasts",
+                "service": "windfinder",
                 "preferred": false
             }
         },
@@ -934,6 +971,7 @@
             "metadata": {
                 "id": 17,
                 "kind": "forecasts",
+                "service": "windfinder",
                 "preferred": false
             }
         },
@@ -956,6 +994,7 @@
             "metadata": {
                 "id": 18,
                 "kind": "forecasts",
+                "service": "centrometeolombardo",
                 "preferred": false
             }
         },
@@ -978,6 +1017,7 @@
             "metadata": {
                 "id": 19,
                 "kind": "forecasts",
+                "service": "centrometeolombardo",
                 "preferred": false
             }
         },
@@ -1000,6 +1040,7 @@
             "metadata": {
                 "id": 20,
                 "kind": "forecasts",
+                "service": "centrometeolombardo",
                 "preferred": false
             }
         },
@@ -1022,6 +1063,7 @@
             "metadata": {
                 "id": 21,
                 "kind": "forecasts",
+                "service": "windfinder",
                 "preferred": false
             }
         },
@@ -1044,6 +1086,7 @@
             "metadata": {
                 "id": 22,
                 "kind": "forecasts",
+                "service": "windfinder",
                 "preferred": false
             }
         },
@@ -1066,6 +1109,7 @@
             "metadata": {
                 "id": 23,
                 "kind": "forecasts",
+                "service": "centrometeolombardo",
                 "preferred": false
             }
         },
@@ -1089,6 +1133,7 @@
             "metadata": {
                 "id": 24,
                 "kind": "forecasts",
+                "service": "windguru",
                 "preferred": false
             }
         },
@@ -1111,6 +1156,7 @@
             "metadata": {
                 "id": 25,
                 "kind": "forecasts",
+                "service": "windfinder",
                 "preferred": false
             }
         },
@@ -1133,6 +1179,7 @@
             "metadata": {
                 "id": 26,
                 "kind": "forecasts",
+                "service": "windfinder",
                 "preferred": false
             }
         },
@@ -1157,6 +1204,7 @@
             "metadata": {
                 "id": 27,
                 "kind": "forecasts",
+                "service": "windguru",
                 "preferred": false
             }
         },
@@ -1181,6 +1229,7 @@
             "metadata": {
                 "id": 28,
                 "kind": "forecasts",
+                "service": "windfinder",
                 "preferred": false
             }
         },
@@ -1203,6 +1252,7 @@
             "metadata": {
                 "id": 29,
                 "kind": "forecasts",
+                "service": "windfinder",
                 "preferred": false
             }
         }
@@ -1224,6 +1274,7 @@
             "metadata": {
                 "id": 2,
                 "kind": "other",
+                "service": "windguru",
                 "preferred": false
             }
         },
@@ -1233,6 +1284,7 @@
             "metadata": {
                 "id": 3,
                 "kind": "other",
+                "service": "centrometeolombardo",
                 "preferred": false
             }
         },
@@ -1245,20 +1297,34 @@
                 "preferred": false
             }
         },
-        {   "title": "Panoramicams Spiagge",
+        {   "title": "Panoramicams Spiagge Sardegna",
             "url": "https://panoramicams.com/category/spiagge",
             "id": 5,
+            "location": {
+                "name": "Panoramicams Spiagge Sardegna",
+                "address": "",
+                "city": "",
+                "code": "",
+                "province": "Sardegna",
+                "region": "",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 41.198230,
+                    "longitude": 9.319151
+                }
+            },
             "metadata": {
                 "id": 5,
                 "kind": "other",
+                "service": "panoramicams",
                 "preferred": false
             }
         },
-        {   "title": "Panoramicams Spot",
+        {   "title": "Panoramicams Spot Sardegna",
             "url": "https://panoramicams.com/surf-spot-sardegna",
             "id": 6,
             "location": {
-                "name": "Spot Panoramicams",
+                "name": "Panoramicams Spot Sardegna",
                 "address": "",
                 "city": "",
                 "code": "",
@@ -1273,6 +1339,7 @@
             "metadata": {
                 "id": 6,
                 "kind": "other",
+                "service": "panoramicams",
                 "preferred": false
             }
         },
