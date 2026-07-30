@@ -17,7 +17,7 @@
                 }
             },
             "metadata": {
-                "id": 1,
+                "id": 1001,
                 "kind": "webcam",
                 "service": "panoramicams",
                 "preferred": false
@@ -40,7 +40,7 @@
                 }
             },
             "metadata": {
-                "id": 2,
+                "id": 1002,
                 "kind": "webcam",
                 "service": "panoramicams",
                 "preferred": false
@@ -63,7 +63,7 @@
                 }
             },
             "metadata": {
-                "id": 3,
+                "id": 1003,
                 "kind": "webcam",
                 "service": "panoramicams",
                 "preferred": false
@@ -86,7 +86,7 @@
                 }
             },
             "metadata": {
-                "id": 4,
+                "id": 1004,
                 "kind": "webcam",
                 "service": "panoramicams",
                 "preferred": false
@@ -109,7 +109,7 @@
                 }
             },
             "metadata": {
-                "id": 5,
+                "id": 1005,
                 "kind": "webcam",
                 "service": "meteoblue",
                 "preferred": false
@@ -132,7 +132,7 @@
                 }
             },
             "metadata": {
-                "id": 6,
+                "id": 1006,
                 "kind": "webcam",
                 "service": "panoramicams",
                 "preferred": false
@@ -156,7 +156,7 @@
                 }
             },
             "metadata": {
-                "id": 7,
+                "id": 1007,
                 "kind": "webcam",
                 "service": "whatsupcams",
                 "preferred": false
@@ -179,7 +179,7 @@
                 }
             },
             "metadata": {
-                "id": 8,
+                "id": 1008,
                 "kind": "webcam",
                 "service": "vedetta",
                 "preferred": false
@@ -202,7 +202,7 @@
                 }
             },
             "metadata": {
-                "id": 9,
+                "id": 1009,
                 "kind": "webcam",
                 "service": "panoramicams",
                 "preferred": false
@@ -225,7 +225,7 @@
                 }
             },
             "metadata": {
-                "id": 10,
+                "id": 1010,
                 "kind": "webcam",
                 "service": "panoramicams",
                 "preferred": false
@@ -248,7 +248,7 @@
                 }
             },
             "metadata": {
-                "id": 11,
+                "id": 1011,
                 "kind": "webcam",
                 "service": "vedetta",
                 "preferred": false
@@ -271,7 +271,7 @@
                 }
             },
             "metadata": {
-                "id": 12,
+                "id": 1012,
                 "kind": "webcam",
                 "service": "panoramicams",
                 "preferred": false
@@ -296,7 +296,7 @@
             },
             "id": 13,
             "metadata": {
-                "id": 13,
+                "id": 1013,
                 "kind": "webcam",
                 "service": "vedetta",
                 "preferred": false
@@ -319,7 +319,7 @@
                 }
             },
             "metadata": {
-                "id": 14,
+                "id": 1014,
                 "kind": "webcam",
                 "service": "weathercam",
                 "preferred": false
@@ -342,7 +342,7 @@
                 }
             },
             "metadata": {
-                "id": 15,
+                "id": 1015,
                 "kind": "webcam",
                 "service": "meteoblue",
                 "preferred": false
@@ -365,7 +365,7 @@
                 }
             },
             "metadata": {
-                "id": 16,
+                "id": 1016,
                 "kind": "webcam",
                 "service": "vedetta",
                 "preferred": false
@@ -388,7 +388,7 @@
                 }
             },
             "metadata": {
-                "id": 17,
+                "id": 1017,
                 "kind": "webcam",
                 "service": "vedetta",
                 "preferred": false
@@ -411,7 +411,7 @@
                 }
             },
             "metadata": {
-                "id": 18,
+                "id": 1018,
                 "kind": "webcam",
                 "service": "vedetta",
                 "preferred": false
@@ -434,7 +434,7 @@
                 }
             },
             "metadata": {
-                "id": 19,
+                "id": 1019,
                 "kind": "webcam",
                 "service": "meteoblue",
                 "preferred": false
@@ -457,7 +457,7 @@
                 }
             },
             "metadata": {
-                "id": 20,
+                "id": 1020,
                 "kind": "webcam",
                 "service": "vedetta",
                 "preferred": false
@@ -481,7 +481,7 @@
                 }
             },
             "metadata": {
-                "id": 21,
+                "id": 1021,
                 "kind": "webcam",
                 "service": "weathercam",
                 "preferred": false
@@ -504,7 +504,7 @@
                 }
             },
             "metadata": {
-                "id": 22,
+                "id": 1022,
                 "kind": "webcam",
                 "service": "vedetta",
                 "preferred": false
@@ -522,12 +522,12 @@
                 "region": "Lombardia",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 45.726135324649285,
-                    "longitude": 10.715912500703915
+                    "latitude": 45.72782164049831,
+                    "longitude": 10.71979802803581
                 }
             },
             "metadata": {
-                "id": 23,
+                "id": 1023,
                 "kind": "webcam",
                 "service": "vedetta",
                 "preferred": false
@@ -551,7 +551,7 @@
                 }
             },
             "metadata": {
-                "id": 24,
+                "id": 1024,
                 "kind": "webcam",
                 "service": "vedetta",
                 "preferred": false
@@ -577,7 +577,7 @@
                 }
             },
             "metadata": {
-                "id": 25,
+                "id": 1025,
                 "kind": "webcam",
                 "preferred": false
             }
@@ -603,7 +603,7 @@
                 }
             },
             "metadata": {
-                "id": 1,
+                "id": 2001,
                 "kind": "forecasts",
                 "service": "windguru",
                 "preferred": false
@@ -626,7 +626,7 @@
                 }
             },
             "metadata": {
-                "id": 2,
+                "id": 2002,
                 "kind": "forecasts",
                 "service": "windfinder",
                 "preferred": false
@@ -649,7 +649,7 @@
                 }
             },
             "metadata": {
-                "id": 3,
+                "id": 2003,
                 "kind": "forecasts",
                 "service": "windguru",
                 "preferred": false
@@ -672,7 +672,7 @@
                 }
             },
             "metadata": {
-                "id": 4,
+                "id": 2004,
                 "kind": "forecasts",
                 "service": "windguru",
                 "preferred": false
@@ -695,7 +695,7 @@
                 }
             },
             "metadata": {
-                "id": 5,
+                "id": 2005,
                 "kind": "forecasts",
                 "service": "windguru",
                 "preferred": false
@@ -718,7 +718,7 @@
                 }
             },
             "metadata": {
-                "id": 6,
+                "id": 2006,
                 "kind": "forecasts",
                 "preferred": false
             }
@@ -741,7 +741,7 @@
                 }
             },
             "metadata": {
-                "id": 7,
+                "id": 2007,
                 "kind": "forecasts",
                 "preferred": false
             }
@@ -763,7 +763,7 @@
                 }
             },
             "metadata": {
-                "id": 8,
+                "id": 2008,
                 "kind": "forecasts",
                 "service": "windguru",
                 "preferred": false
@@ -786,7 +786,7 @@
                 }
             },
             "metadata": {
-                "id": 9,
+                "id": 2009,
                 "kind": "forecasts",
                 "service": "windfinder",
                 "preferred": false
@@ -809,7 +809,7 @@
                 }
             },
             "metadata": {
-                "id": 10,
+                "id": 2010,
                 "kind": "forecasts",
                 "service": "windguru",
                 "preferred": false
@@ -832,7 +832,7 @@
                 }
             },
             "metadata": {
-                "id": 11,
+                "id": 2011,
                 "kind": "forecasts",
                 "preferred": false
             }
@@ -854,7 +854,7 @@
                 }
             },
             "metadata": {
-                "id": 12,
+                "id": 2012,
                 "kind": "forecasts",
                 "service": "windfinder",
                 "preferred": false
@@ -877,7 +877,7 @@
                 }
             },
             "metadata": {
-                "id": 13,
+                "id": 2013,
                 "kind": "forecasts",
                 "service": "meteoam",
                 "preferred": false
@@ -900,7 +900,7 @@
                 }
             },
             "metadata": {
-                "id": 14,
+                "id": 2014,
                 "kind": "forecasts",
                 "service": "centrometeolombardo",
                 "preferred": false
@@ -923,7 +923,7 @@
                 }
             },
             "metadata": {
-                "id": 15,
+                "id": 2015,
                 "kind": "forecasts",
                 "service": "windguru",
                 "preferred": false
@@ -946,7 +946,7 @@
                 }
             },
             "metadata": {
-                "id": 16,
+                "id": 2016,
                 "kind": "forecasts",
                 "service": "windfinder",
                 "preferred": false
@@ -969,7 +969,7 @@
                 }
             },
             "metadata": {
-                "id": 17,
+                "id": 2017,
                 "kind": "forecasts",
                 "service": "windfinder",
                 "preferred": false
@@ -992,7 +992,7 @@
                 }
             },
             "metadata": {
-                "id": 18,
+                "id": 2018,
                 "kind": "forecasts",
                 "service": "centrometeolombardo",
                 "preferred": false
@@ -1015,7 +1015,7 @@
                 }
             },
             "metadata": {
-                "id": 19,
+                "id": 2019,
                 "kind": "forecasts",
                 "service": "centrometeolombardo",
                 "preferred": false
@@ -1038,7 +1038,7 @@
                 }
             },
             "metadata": {
-                "id": 20,
+                "id": 2020,
                 "kind": "forecasts",
                 "service": "centrometeolombardo",
                 "preferred": false
@@ -1061,7 +1061,7 @@
                 }
             },
             "metadata": {
-                "id": 21,
+                "id": 2021,
                 "kind": "forecasts",
                 "service": "windfinder",
                 "preferred": false
@@ -1084,7 +1084,7 @@
                 }
             },
             "metadata": {
-                "id": 22,
+                "id": 2022,
                 "kind": "forecasts",
                 "service": "windfinder",
                 "preferred": false
@@ -1107,7 +1107,7 @@
                 }
             },
             "metadata": {
-                "id": 23,
+                "id": 2023,
                 "kind": "forecasts",
                 "service": "centrometeolombardo",
                 "preferred": false
@@ -1131,7 +1131,7 @@
                 }
             },
             "metadata": {
-                "id": 24,
+                "id": 2024,
                 "kind": "forecasts",
                 "service": "windguru",
                 "preferred": false
@@ -1154,7 +1154,7 @@
                 }
             },
             "metadata": {
-                "id": 25,
+                "id": 2025,
                 "kind": "forecasts",
                 "service": "windfinder",
                 "preferred": false
@@ -1177,7 +1177,7 @@
                 }
             },
             "metadata": {
-                "id": 26,
+                "id": 2026,
                 "kind": "forecasts",
                 "service": "windfinder",
                 "preferred": false
@@ -1202,7 +1202,7 @@
                 }
             },
             "metadata": {
-                "id": 27,
+                "id": 2027,
                 "kind": "forecasts",
                 "service": "windguru",
                 "preferred": false
@@ -1227,7 +1227,7 @@
                 }
             },
             "metadata": {
-                "id": 28,
+                "id": 2028,
                 "kind": "forecasts",
                 "service": "windfinder",
                 "preferred": false
@@ -1250,7 +1250,7 @@
                 }
             },
             "metadata": {
-                "id": 29,
+                "id": 2029,
                 "kind": "forecasts",
                 "service": "windfinder",
                 "preferred": false
@@ -1263,7 +1263,7 @@
             "url": "https://www.windguru.cz",
             "id": 1,
             "metadata": {
-                "id": 1,
+                "id": 3001,
                 "kind": "other",
                 "preferred": false
             }
@@ -1272,7 +1272,7 @@
             "url": "http://www.centrometeolombardo.com",
             "id": 2,
             "metadata": {
-                "id": 2,
+                "id": 3002,
                 "kind": "other",
                 "service": "windguru",
                 "preferred": false
@@ -1282,7 +1282,7 @@
             "url": "https://www.meteoam.it/it/home",
             "id": 3,
             "metadata": {
-                "id": 3,
+                "id": 3003,
                 "kind": "other",
                 "service": "centrometeolombardo",
                 "preferred": false
@@ -1292,21 +1292,43 @@
             "url": "https://www.pradelafam.net",
             "id": 4,
             "metadata": {
-                "id": 4,
+                "id": 3004,
+                "kind": "other",
+                "preferred": false
+            }
+        },
+        {   "title": "Windsurf Club Valmadrera",
+            "url": "https://wcv.it",
+            "id": 5,
+            "location": {
+                "name": "WCV",
+                "address": "Frazione Parè, 87",
+                "city": "Valmadrera",
+                "code": "23868",
+                "province": "LC",
+                "region": "Lombardia",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 45.86382013021434,
+                    "longitude": 9.365802873095772
+                }
+            },
+            "metadata": {
+                "id": 3005,
                 "kind": "other",
                 "preferred": false
             }
         },
         {   "title": "Panoramicams Spiagge Sardegna",
             "url": "https://panoramicams.com/category/spiagge",
-            "id": 5,
+            "id": 6,
             "location": {
                 "name": "Spiagge Sardegna",
                 "address": "",
                 "city": "",
                 "code": "",
-                "province": "Sardegna",
-                "region": "",
+                "province": "",
+                "region": "Sardegna",
                 "country": "Italy",
                 "coordinate": {
                     "latitude": 41.190583516649504,
@@ -1314,7 +1336,7 @@
                 }
             },
             "metadata": {
-                "id": 5,
+                "id": 3006,
                 "kind": "other",
                 "service": "panoramicams",
                 "preferred": false
@@ -1322,14 +1344,14 @@
         },
         {   "title": "Panoramicams Spot Sardegna",
             "url": "https://panoramicams.com/surf-spot-sardegna",
-            "id": 6,
+            "id": 7,
             "location": {
                 "name": "Spot Sardegna",
                 "address": "",
                 "city": "",
                 "code": "",
-                "province": "Sardegna",
-                "region": "",
+                "province": "",
+                "region": "Sardegna",
                 "country": "Italy",
                 "coordinate": {
                     "latitude": 41.19171429777365,
@@ -1337,17 +1359,65 @@
                 }
             },
             "metadata": {
-                "id": 6,
+                "id": 3007,
                 "kind": "other",
                 "service": "panoramicams",
                 "preferred": false
             }
         },
+        {   "title": "Lamma Vento Sardegna",
+            "url": "https://www.lamma.toscana.it/mare/modelli/vento-mare.php?area=B",
+            "id": 8,
+            "location": {
+                "name": "Lamma",
+                "address": "",
+                "city": "",
+                "code": "",
+                "province": "",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 41.190501316805545,
+                    "longitude": 9.306714967209583
+                }
+            },
+            "metadata": {
+                "id": 3008,
+                "kind": "other",
+                "service": "panoramicams",
+                "preferred": false
+            }
+        },
+        
+        
+        {   "title": "MeteoSwiss Raffiche Vento",
+            "url": "https://www.meteosvizzera.admin.ch/servizi-e-pubblicazioni/applicazioni/vento.html#tab=animation-wind-gusts",
+            "id": 9,
+            "location": {
+                "name": "MeteoSvizzera",
+                "address": "Via ai Monti 146",
+                "city": "Locarno-Monti",
+                "code": "6605",
+                "province": "CH",
+                "region": "Svizzera Italiana",
+                "country": "Swizerland",
+                "coordinate": {
+                    "latitude": 46.173196198572384,
+                    "longitude": 8.787615889426508
+                }
+            },
+            "metadata": {
+                "id": 3009,
+                "kind": "other",
+                "service": "meteoswiss",
+                "preferred": false
+            }
+        },
         {   "title": "SpotFav Webcams",
             "url": "https://www.spotfav.com/dashboard/home",
-            "id": 7,
+            "id": 10,
             "metadata": {
-                "id": 7,
+                "id": 3010,
                 "kind": "other",
                 "preferred": false
             }
