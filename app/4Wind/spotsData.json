@@ -1392,8 +1392,8 @@
             "url": "https://www.lamma.toscana.it/previ/ita/widget_mare_500.php?area=B&width=500&height=480&frameBorder=0&scrolling=no",
             "id": 9,
             "location": {
-                "name": "",
-                "address": "Vento e Mare Sardegna",
+                "name": "Vento e Mare Sardegna",
+                "address": "",
                 "city": "",
                 "code": "",
                 "province": "",
