@@ -1319,7 +1319,7 @@
                 "preferred": false
             }
         },
-        {   "title": "Panoramicams Spiagge Sardegna",
+        {   "title": "Sardegna - Panoramicams Spiagge",
             "url": "https://panoramicams.com/category/spiagge",
             "id": 6,
             "location": {
@@ -1342,7 +1342,7 @@
                 "preferred": false
             }
         },
-        {   "title": "Panoramicams Spot Sardegna",
+        {   "title": "Sardegna - Panoramicams Spot",
             "url": "https://panoramicams.com/surf-spot-sardegna",
             "id": 7,
             "location": {
@@ -1365,12 +1365,35 @@
                 "preferred": false
             }
         },
-        {   "title": "Lamma Vento Sardegna",
-            "url": "https://www.lamma.toscana.it/mare/modelli/vento-mare.php?area=B",
+        {   "title": "Sardegna - Lamma (HR)",
+            "url": "https://www.lamma.toscana.it/mare/modelli/vento-e-mare-hr?area=F",
             "id": 8,
             "location": {
-                "name": "Lamma",
+                "name": "Stretto di Bonifacio",
                 "address": "",
+                "city": "",
+                "code": "",
+                "province": "",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 41.28803783515687,
+                    "longitude": 9.236186932887637
+                }
+            },
+            "metadata": {
+                "id": 3008,
+                "kind": "other",
+                "service": "lamma",
+                "preferred": false
+            }
+        },
+        {   "title": "Sardegna - Bonifacio - Lamma Widget",
+            "url": "https://www.lamma.toscana.it/previ/ita/widget_mare_500.php?area=B&width=500&height=480&frameBorder=0&scrolling=no",
+            "id": 9,
+            "location": {
+                "name": "",
+                "address": "Vento e Mare Sardegna",
                 "city": "",
                 "code": "",
                 "province": "",
@@ -1382,17 +1405,16 @@
                 }
             },
             "metadata": {
-                "id": 3008,
+                "id": 3009,
                 "kind": "other",
-                "service": "panoramicams",
+                "service": "lamma",
                 "preferred": false
             }
         },
         
-        
         {   "title": "MeteoSwiss Raffiche Vento",
             "url": "https://www.meteosvizzera.admin.ch/servizi-e-pubblicazioni/applicazioni/vento.html#tab=animation-wind-gusts",
-            "id": 9,
+            "id": 10,
             "location": {
                 "name": "MeteoSvizzera",
                 "address": "Via ai Monti 146",
@@ -1407,7 +1429,7 @@
                 }
             },
             "metadata": {
-                "id": 3009,
+                "id": 3010,
                 "kind": "other",
                 "service": "meteoswiss",
                 "preferred": false
@@ -1415,9 +1437,9 @@
         },
         {   "title": "SpotFav Webcams",
             "url": "https://www.spotfav.com/dashboard/home",
-            "id": 10,
+            "id": 11,
             "metadata": {
-                "id": 3010,
+                "id": 3011,
                 "kind": "other",
                 "preferred": false
             }
