@@ -187,7 +187,7 @@
         },
         {   "title": "Sardegna - Olbia - Panoramicams Spiaggia Le Saline",
             "url": "https://panoramicams.com/punta-saline-olbia",
-            "id": 8,
+            "id": 9,
             "location": {
                 "name": "Spiaggia Le Saline",
                 "address": "Via Isola Padron Fiaso",
@@ -202,7 +202,7 @@
                 }
             },
             "metadata": {
-                "id": 1008,
+                "id": 1009,
                 "kind": "webcam",
                 "service": "panoramicams",
                 "preferred": false
@@ -211,7 +211,7 @@
         
         {   "title": "Sardegna - Aglientu Naracu Nieddu Lu Litarroni - Panoramicams Marina delle Rose",
             "url": "https://panoramicams.com/lu-litarroni-marina-delle-rose",
-            "id": 9,
+            "id": 10,
             "location": {
                 "name": "La terrazza sul mare",
                 "address": "Località Naracu Nieddu",
@@ -226,7 +226,7 @@
                 }
             },
             "metadata": {
-                "id": 1009,
+                "id": 1010,
                 "kind": "webcam",
                 "service": "panoramicams",
                 "preferred": false
@@ -234,7 +234,7 @@
         },
         {   "title": "Sardegna - Vignola - Panoramicams Aglientu",
             "url": "https://panoramicams.com/vignola-mare-aglientu",
-            "id": 10,
+            "id": 11,
             "location": {
                 "name": "Pirati dei Caraibi",
                 "address": "Lungomare",
@@ -249,7 +249,7 @@
                 }
             },
             "metadata": {
-                "id": 1010,
+                "id": 1011,
                 "kind": "webcam",
                 "service": "panoramicams",
                 "preferred": false
@@ -257,7 +257,7 @@
         },
         {   "title": "Sardegna - Badesi - Vedetta",
             "url": "https://vedetta.org/webcam/italia/sardegna/sassari/badesi",
-            "id": 11,
+            "id": 12,
             "location": {
                 "name": "Sardini Action",
                 "address": "Li Junchi",
@@ -272,7 +272,7 @@
                 }
             },
             "metadata": {
-                "id": 1011,
+                "id": 1012,
                 "kind": "webcam",
                 "service": "vedetta",
                 "preferred": false
@@ -280,7 +280,7 @@
         },
         {   "title": "Sardegna - Valledoria - Panoramicams La Ciaccia",
             "url": "https://panoramicams.com/maragnani-valledoria",
-            "id": 12,
+            "id": 13,
             "location": {
                 "name": "International Camping Valledoria",
                 "address": "Via La Ciaccia, 39",
@@ -295,7 +295,7 @@
                 }
             },
             "metadata": {
-                "id": 1012,
+                "id": 1013,
                 "kind": "webcam",
                 "service": "panoramicams",
                 "preferred": false
@@ -318,9 +318,9 @@
                     "longitude": 9.374003857275481
                 }
             },
-            "id": 13,
+            "id": 14,
             "metadata": {
-                "id": 1013,
+                "id": 1014,
                 "kind": "webcam",
                 "service": "vedetta",
                 "preferred": false
@@ -328,7 +328,7 @@
         },
         {   "title": "Como Lake - Colico - Nausika Yacht",
             "url": "https://stream-meteoproject.eu/weathercam-player.php?code=87",
-            "id": 14,
+            "id": 15,
             "location": {
                 "name": "Nausika Yacht",
                 "address": "Via Montecchio Nord, 21",
@@ -343,7 +343,7 @@
                 }
             },
             "metadata": {
-                "id": 1014,
+                "id": 1015,
                 "kind": "webcam",
                 "service": "weathercam",
                 "preferred": false
@@ -351,7 +351,7 @@
         },
         {   "title": "Como Lake - Colico e dintorni - Meteoblue",
             "url": "https://www.meteoblue.com/it/tempo/webcams/colico_italia_3178451",
-            "id": 15,
+            "id": 16,
             "location": {
                 "name": "Vicino a Colico",
                 "address": "",
@@ -366,7 +366,7 @@
                 }
             },
             "metadata": {
-                "id": 1015,
+                "id": 1016,
                 "kind": "webcam",
                 "service": "meteoblue",
                 "preferred": false
@@ -374,7 +374,7 @@
         },
         {   "title": "Como Lake - Cremia - Vedetta",
             "url": "https://vedetta.org/webcam/italia/lombardia/como/cremia",
-            "id": 16,
+            "id": 17,
             "location": {
                 "name": "Hotel Lumin",
                 "address": "Frazione San Vito, 158",
@@ -389,7 +389,7 @@
                 }
             },
             "metadata": {
-                "id": 1016,
+                "id": 1017,
                 "kind": "webcam",
                 "service": "vedetta",
                 "preferred": false
@@ -397,7 +397,7 @@
         },
         {   "title": "Como Lake - Dervio - Vedetta",
             "url": "https://vedetta.org/en/webcam/italia/lombardia/lecco/dervio-valmadrera",
-            "id": 17,
+            "id": 18,
             "location": {
                 "name": "Bar Il Pontile",
                 "address": "Via alla Darsena, 16",
@@ -412,7 +412,7 @@
                 }
             },
             "metadata": {
-                "id": 1017,
+                "id": 1018,
                 "kind": "webcam",
                 "service": "vedetta",
                 "preferred": false
@@ -420,7 +420,7 @@
         },
         {   "title": "Como Lake - Dervio - Vedetta",
             "url": "https://vedetta.org/webcam/italia/lombardia/lecco/dervio-sud",
-            "id": 18,
+            "id": 19,
             "location": {
                 "name": "Adrena KiteSurf School",
                 "address": "Via degli Ulivi 5",
@@ -435,7 +435,7 @@
                 }
             },
             "metadata": {
-                "id": 1018,
+                "id": 1019,
                 "kind": "webcam",
                 "service": "vedetta",
                 "preferred": false
@@ -443,7 +443,7 @@
         },
         {   "title": "Como Lake - Gera Lario e dintorni",
             "url": "https://www.meteoblue.com/it/tempo/webcams/gera-lario_italia_3176199",
-            "id": 19,
+            "id": 20,
             "location": {
                 "name": "Vicino a Gera Lario",
                 "address": "",
@@ -458,7 +458,7 @@
                 }
             },
             "metadata": {
-                "id": 1019,
+                "id": 1020,
                 "kind": "webcam",
                 "service": "meteoblue",
                 "preferred": false
@@ -466,7 +466,7 @@
         },
         {   "title": "Como Lake - Imbarcadero Lecco",
             "url": "https://vedetta.org/webcam/italia/lombardia/lecco/vista-lecco",
-            "id": 20,
+            "id": 21,
             "location": {
                 "name": "Imbarcadero Lecco",
                 "address": "Lungolario Cesare Battisti, 3",
@@ -481,7 +481,7 @@
                 }
             },
             "metadata": {
-                "id": 1020,
+                "id": 1021,
                 "kind": "webcam",
                 "service": "vedetta",
                 "preferred": false
@@ -489,7 +489,7 @@
         },
         {   "title": "Como Lake - Windsurf Club Valmadrera",
             "url": "https://wcv.it/live-webcam",
-            "id": 21,
+            "id": 22,
             "location": {
                 "name": "Valmadrera Nord e Sud [WCV]",
                 "address": "Frazione Parè, 87",
@@ -504,7 +504,7 @@
                 }
             },
             "metadata": {
-                "id": 1021,
+                "id": 1022,
                 "kind": "webcam",
                 "preferred": false
             }
@@ -512,7 +512,7 @@
         
         {   "title": "Garda Lake - Malcesine",
             "url": "https://stream-meteoproject.eu/weathercam-player.php?code=14",
-            "id": 22,
+            "id": 23,
             "location": {
                 "name": "Fraglia Vela Malcesine",
                 "address": "Via Gardesana, 205",
@@ -527,7 +527,7 @@
                 }
             },
             "metadata": {
-                "id": 1022,
+                "id": 1023,
                 "kind": "webcam",
                 "service": "weathercam",
                 "preferred": false
@@ -535,7 +535,7 @@
         },
         {   "title": "Garda Lake - Tignale - Vedetta Porto",
             "url": "https://vedetta.org/webcam/italia/lombardia/brescia/porto-tignale",
-            "id": 23,
+            "id": 24,
             "location": {
                 "name": "Porto di Tignale",
                 "address": "Strada Statale Gardesana Occidentale, 92",
@@ -550,7 +550,7 @@
                 }
             },
             "metadata": {
-                "id": 1023,
+                "id": 1024,
                 "kind": "webcam",
                 "service": "vedetta",
                 "preferred": false
@@ -558,7 +558,7 @@
         },
         {   "title": "Garda Lake - Tignale - Vedetta PraDeLaFam",
             "url": "https://vedetta.org/webcam/italia/lombardia/brescia/tignale-pra-de-la-fam",
-            "id": 24,
+            "id": 25,
             "location": {
                 "name": "B&B Torre Degli Ulivi",
                 "address": "Via Gardesana Occidentale, Loc. Pra de la Fam, Porto di Tignale",
@@ -573,7 +573,7 @@
                 }
             },
             "metadata": {
-                "id": 1024,
+                "id": 1025,
                 "kind": "webcam",
                 "service": "vedetta",
                 "preferred": false
@@ -582,7 +582,7 @@
 
         {   "title": "Liguria - Andora - Tortuga Beach - Vedetta",
             "url": "https://vedetta.org/webcam/italia/liguria/savona/andora",
-            "id": 25,
+            "id": 26,
             "location": {
                 "name": "Tortuga Beach",
                 "address": "V. Aurelia, 45",
@@ -597,7 +597,7 @@
                 }
             },
             "metadata": {
-                "id": 1025,
+                "id": 1026,
                 "kind": "webcam",
                 "service": "vedetta",
                 "preferred": false
@@ -605,7 +605,7 @@
         },
         {   "title": "Liguria - Andora - La Baracca - IpCamLive",
             "url": "https://www.ipcamlive.com/labaraccaandora",
-            "id": 25,
+            "id": 27,
             "location": {
                 "name": "La Baracca",
                 "address": "SS 1",
@@ -620,14 +620,14 @@
                 }
             },
             "metadata": {
-                "id": 1025,
+                "id": 1027,
                 "kind": "webcam",
                 "preferred": false
             }
         },
-        {   "title": "Liguria - Imperia - La Baracca",
+        {   "title": "Liguria - Imperia - Bagni Oneglio",
             "url": "https://bagnioneglio.it/webcam-meteo-imperia",
-            "id": 25,
+            "id": 28,
             "location": {
                 "name": "Bagni Oneglio",
                 "address": "Via Scarincio, 31",
@@ -642,14 +642,14 @@
                 }
             },
             "metadata": {
-                "id": 1025,
+                "id": 1028,
                 "kind": "webcam",
                 "preferred": false
             }
         },
         {   "title": "Liguria - Sottomarina - Centro Astoria",
             "url": "https://www.centroastoria.it/webcam/",
-            "id": 25,
+            "id": 29,
             "location": {
                 "name": "Beach Astoria - Bagni Sottomarina",
                 "address": "Lungomare Adriatico, 29",
@@ -664,14 +664,14 @@
                 }
             },
             "metadata": {
-                "id": 1025,
+                "id": 1029,
                 "kind": "webcam",
                 "preferred": false
             }
         },
-        {   "title": "Liguria - Sottomarina - Vision Bagni Miki",
+        {   "title": "Liguria - Sottomarina - Visione Bagni Miki",
             "url": "https://www.vision-environnement.com/it/webcam/italia/venetie/3953-chioggia",
-            "id": 25,
+            "id": 30,
             "location": {
                 "name": "Bagni Miki Sottomarina",
                 "address": "Via Sebastiano Venier, 8",
@@ -686,7 +686,7 @@
                 }
             },
             "metadata": {
-                "id": 1025,
+                "id": 1030,
                 "kind": "webcam",
                 "service": "vision_environnement",
                 "preferred": false
@@ -695,7 +695,7 @@
         
         {   "title": "Liguria - Cavi di Lavagna - Vedetta",
             "url": "https://vedetta.org/webcam/italia/liguria/genova/cavi-di-lavagna",
-            "id": 25,
+            "id": 31,
             "location": {
                 "name": "La Baracca",
                 "address": "Via Alla Spiaggia, Piazza Nazario Sauro",
@@ -710,15 +710,15 @@
                 }
             },
             "metadata": {
-                "id": 1025,
+                "id": 1031,
                 "kind": "webcam",
                 "service": "vedetta",
                 "preferred": false
             }
         },
-        {   "title": "Liguria - Savona - Spiaggia di Zinola",
+        {   "title": "Liguria - Savona - Visione Spiaggia di Zinola",
             "url": "https://www.vision-environnement.com/it/webcam/italia/ligurie/3920-savona",
-            "id": 25,
+            "id": 32,
             "location": {
                 "name": "Spiaggia di Zinola",
                 "address": "Lungomare dei Ceramisti",
@@ -733,7 +733,7 @@
                 }
             },
             "metadata": {
-                "id": 1025,
+                "id": 1032,
                 "kind": "webcam",
                 "service": "vision_environnement",
                 "preferred": false
@@ -741,7 +741,7 @@
         },
         {   "title": "Liguria - Sori - Vedetta",
             "url": "https://vedetta.org/webcam/italia/liguria/genova/sori",
-            "id": 25,
+            "id": 33,
             "location": {
                 "name": "Spiaggia Libera di Sori",
                 "address": "Via Cavour, 1",
@@ -756,16 +756,16 @@
                 }
             },
             "metadata": {
-                "id": 1025,
+                "id": 1033,
                 "kind": "webcam",
                 "service": "vedetta",
                 "preferred": false
             }
         },
         
-        {   "title": "Francia - Hyères - L’Almanarre (Sito Archeologico d'Olbia)",
+        {   "title": "Francia - Hyères - Visione L’Almanarre (Sito Archeologico d'Olbia)",
             "url": "https://www.vision-environnement.com/live/player/hyeres30.php",
-            "id": 25,
+            "id": 34,
             "location": {
                 "name": "L’Almanarre (Olbia)",
                 "address": "Rte du Sel",
@@ -780,15 +780,15 @@
                 }
             },
             "metadata": {
-                "id": 1025,
+                "id": 1034,
                 "kind": "webcam",
                 "service": "vision_environnement",
                 "preferred": false
             }
         },
-        {   "title": "Francia - Hyères - L’Almanarre - Les Estagnets (La Mandrague)",
+        {   "title": "Francia - Hyères - L’Almanarre - Visione Les Estagnets (La Mandrague)",
             "url": "https://www.vision-environnement.com/live/player/hyereskite.php",
-            "id": 25,
+            "id": 35,
             "location": {
                 "name": "Kite Center",
                 "address": "Rte du Sel",
@@ -803,15 +803,15 @@
                 }
             },
             "metadata": {
-                "id": 1025,
+                "id": 1035,
                 "kind": "webcam",
                 "service": "vision_environnement",
                 "preferred": false
             }
         },
-        {   "title": "Francia - Hyères - Plage de l'Ayguade (La Bergerie)",
+        {   "title": "Francia - Hyères - Visione Plage de l'Ayguade (La Bergerie)",
             "url": "https://www.vision-environnement.com/live/player/hyeres20.php",
-            "id": 25,
+            "id": 36,
             "location": {
                 "name": "Hyères Ayguade",
                 "address": "Plage de l'Ayguade, Bd des Girelles",
@@ -826,7 +826,7 @@
                 }
             },
             "metadata": {
-                "id": 1025,
+                "id": 1036,
                 "kind": "webcam",
                 "service": "vision_environnement",
                 "preferred": false
@@ -835,7 +835,7 @@
         
         {   "title": "Lanzarote - Famara",
             "url": "https://www.redstarsurf.com/famara-live-web-cam",
-            "id": 26,
+            "id": 37,
             "location": {
                 "name": "Red Star Surf School Lanzarote",
                 "address": "Avenida el Marinero 9",
@@ -850,7 +850,7 @@
                 }
             },
             "metadata": {
-                "id": 1026,
+                "id": 1037,
                 "kind": "webcam",
                 "preferred": false
             }
@@ -1428,6 +1428,7 @@
             "metadata": {
                 "id": 2025,
                 "kind": "forecast",
+                "service": "windguru",
                 "preferred": false
             }
         },
@@ -1450,6 +1451,7 @@
             "metadata": {
                 "id": 2026,
                 "kind": "forecast",
+                "service": "windfinder",
                 "preferred": false
             }
         },
@@ -1622,7 +1624,7 @@
         },
         {   "title": "Hyeres - La Mandrague - Windguru",
             "url": "https://www.windguru.cz/48627",
-            "id": 33,
+            "id": 34,
             "location": {
                 "name": "Spiaggia La Mandrague",
                 "address": "",
@@ -1637,7 +1639,7 @@
                 }
             },
             "metadata": {
-                "id": 2033,
+                "id": 2034,
                 "kind": "forecast",
                 "service": "windguru",
                 "preferred": false
