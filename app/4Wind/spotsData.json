@@ -185,6 +185,30 @@
                 "preferred": false
             }
         },
+        {   "title": "Sardegna - Olbia - Panoramicams Spiaggia Le Saline",
+            "url": "https://panoramicams.com/punta-saline-olbia",
+            "id": 8,
+            "location": {
+                "name": "Spiaggia Le Saline",
+                "address": "Via Isola Padron Fiaso",
+                "city": "Olbia",
+                "code": "07026",
+                "province": "OT",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 40.904621471630435,
+                    "longitude": 9.574956840714773
+                }
+            },
+            "metadata": {
+                "id": 1008,
+                "kind": "webcam",
+                "service": "panoramicams",
+                "preferred": false
+            }
+        },
+        
         {   "title": "Sardegna - Aglientu Naracu Nieddu Lu Litarroni - Panoramicams Marina delle Rose",
             "url": "https://panoramicams.com/lu-litarroni-marina-delle-rose",
             "id": 9,
@@ -463,10 +487,32 @@
                 "preferred": false
             }
         },
+        {   "title": "Como Lake - Windsurf Club Valmadrera",
+            "url": "https://wcv.it/live-webcam",
+            "id": 21,
+            "location": {
+                "name": "Valmadrera Nord e Sud [WCV]",
+                "address": "Frazione Parè, 87",
+                "city": "Valmadrera",
+                "code": "23868",
+                "province": "LC",
+                "region": "Lombardia",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 45.86382013021434,
+                    "longitude": 9.365802873095772
+                }
+            },
+            "metadata": {
+                "id": 1021,
+                "kind": "webcam",
+                "preferred": false
+            }
+        },
         
         {   "title": "Garda Lake - Malcesine",
             "url": "https://stream-meteoproject.eu/weathercam-player.php?code=14",
-            "id": 21,
+            "id": 22,
             "location": {
                 "name": "Fraglia Vela Malcesine",
                 "address": "Via Gardesana, 205",
@@ -481,7 +527,7 @@
                 }
             },
             "metadata": {
-                "id": 1021,
+                "id": 1022,
                 "kind": "webcam",
                 "service": "weathercam",
                 "preferred": false
@@ -489,7 +535,7 @@
         },
         {   "title": "Garda Lake - Tignale - Vedetta Porto",
             "url": "https://vedetta.org/webcam/italia/lombardia/brescia/porto-tignale",
-            "id": 22,
+            "id": 23,
             "location": {
                 "name": "Porto di Tignale",
                 "address": "Strada Statale Gardesana Occidentale, 92",
@@ -504,7 +550,7 @@
                 }
             },
             "metadata": {
-                "id": 1022,
+                "id": 1023,
                 "kind": "webcam",
                 "service": "vedetta",
                 "preferred": false
@@ -512,7 +558,7 @@
         },
         {   "title": "Garda Lake - Tignale - Vedetta PraDeLaFam",
             "url": "https://vedetta.org/webcam/italia/lombardia/brescia/tignale-pra-de-la-fam",
-            "id": 23,
+            "id": 24,
             "location": {
                 "name": "B&B Torre Degli Ulivi",
                 "address": "Via Gardesana Occidentale, Loc. Pra de la Fam, Porto di Tignale",
@@ -527,16 +573,16 @@
                 }
             },
             "metadata": {
-                "id": 1023,
+                "id": 1024,
                 "kind": "webcam",
                 "service": "vedetta",
                 "preferred": false
             }
         },
-        
+
         {   "title": "Liguria - Andora - Tortuga Beach - Vedetta",
             "url": "https://vedetta.org/webcam/italia/liguria/savona/andora",
-            "id": 24,
+            "id": 25,
             "location": {
                 "name": "Tortuga Beach",
                 "address": "V. Aurelia, 45",
@@ -551,18 +597,245 @@
                 }
             },
             "metadata": {
-                "id": 1024,
+                "id": 1025,
+                "kind": "webcam",
+                "service": "vedetta",
+                "preferred": false
+            }
+        },
+        {   "title": "Liguria - Andora - La Baracca - IpCamLive",
+            "url": "https://www.ipcamlive.com/labaraccaandora",
+            "id": 25,
+            "location": {
+                "name": "La Baracca",
+                "address": "SS 1",
+                "city": "Marina di Andora",
+                "code": "17051",
+                "province": "SV",
+                "region": "Liguria",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 43.94932298801853,
+                    "longitude": 8.146098094841435
+                }
+            },
+            "metadata": {
+                "id": 1025,
+                "kind": "webcam",
+                "preferred": false
+            }
+        },
+        {   "title": "Liguria - Imperia - La Baracca",
+            "url": "https://bagnioneglio.it/webcam-meteo-imperia",
+            "id": 25,
+            "location": {
+                "name": "Bagni Oneglio",
+                "address": "Via Scarincio, 31",
+                "city": "Imperia",
+                "code": "18100",
+                "province": "IM",
+                "region": "Liguria",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 43.94932298801853,
+                    "longitude": 8.146098094841435
+                }
+            },
+            "metadata": {
+                "id": 1025,
+                "kind": "webcam",
+                "preferred": false
+            }
+        },
+        {   "title": "Liguria - Sottomarina - Centro Astoria",
+            "url": "https://www.centroastoria.it/webcam/",
+            "id": 25,
+            "location": {
+                "name": "Beach Astoria - Bagni Sottomarina",
+                "address": "Lungomare Adriatico, 29",
+                "city": "Chioggia",
+                "code": "30015",
+                "province": "VE",
+                "region": "Veneto",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 45.214796191688976,
+                    "longitude": 12.299571556595692
+                }
+            },
+            "metadata": {
+                "id": 1025,
+                "kind": "webcam",
+                "preferred": false
+            }
+        },
+        {   "title": "Liguria - Sottomarina - Vision Bagni Miki",
+            "url": "https://www.vision-environnement.com/it/webcam/italia/venetie/3953-chioggia",
+            "id": 25,
+            "location": {
+                "name": "Bagni Miki Sottomarina",
+                "address": "Via Sebastiano Venier, 8",
+                "city": "Chioggia",
+                "code": "30015",
+                "province": "VE",
+                "region": "Veneto",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 45.19748308583519,
+                    "longitude": 12.30252558976361
+                }
+            },
+            "metadata": {
+                "id": 1025,
+                "kind": "webcam",
+                "service": "vision_environnement",
+                "preferred": false
+            }
+        },
+        
+        {   "title": "Liguria - Cavi di Lavagna - Vedetta",
+            "url": "https://vedetta.org/webcam/italia/liguria/genova/cavi-di-lavagna",
+            "id": 25,
+            "location": {
+                "name": "La Baracca",
+                "address": "Via Alla Spiaggia, Piazza Nazario Sauro",
+                "city": "Cavi",
+                "code": "16033",
+                "province": "GE",
+                "region": "Liguria",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 44.289997158598496,
+                    "longitude": 9.377928924506982
+                }
+            },
+            "metadata": {
+                "id": 1025,
+                "kind": "webcam",
+                "service": "vedetta",
+                "preferred": false
+            }
+        },
+        {   "title": "Liguria - Savona - Spiaggia di Zinola",
+            "url": "https://www.vision-environnement.com/it/webcam/italia/ligurie/3920-savona",
+            "id": 25,
+            "location": {
+                "name": "Spiaggia di Zinola",
+                "address": "Lungomare dei Ceramisti",
+                "city": "Savona",
+                "code": "17100",
+                "province": "SV",
+                "region": "Liguria",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 44.28195976323415,
+                    "longitude": 8.445978383899291
+                }
+            },
+            "metadata": {
+                "id": 1025,
+                "kind": "webcam",
+                "service": "vision_environnement",
+                "preferred": false
+            }
+        },
+        {   "title": "Liguria - Sori - Vedetta",
+            "url": "https://vedetta.org/webcam/italia/liguria/genova/sori",
+            "id": 25,
+            "location": {
+                "name": "Spiaggia Libera di Sori",
+                "address": "Via Cavour, 1",
+                "city": "Sori",
+                "code": "16031",
+                "province": "GE",
+                "region": "Liguria",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 44.3709635556225,
+                    "longitude": 9.102685754102618
+                }
+            },
+            "metadata": {
+                "id": 1025,
                 "kind": "webcam",
                 "service": "vedetta",
                 "preferred": false
             }
         },
         
-
+        {   "title": "Francia - Hyères - L’Almanarre (Sito Archeologico d'Olbia)",
+            "url": "https://www.vision-environnement.com/live/player/hyeres30.php",
+            "id": 25,
+            "location": {
+                "name": "L’Almanarre (Olbia)",
+                "address": "Rte du Sel",
+                "city": "Hyères",
+                "code": "83400",
+                "province": "",
+                "region": "",
+                "country": "France",
+                "coordinate": {
+                    "latitude": 43.080171460589845,
+                    "longitude": 6.12307966468899
+                }
+            },
+            "metadata": {
+                "id": 1025,
+                "kind": "webcam",
+                "service": "vision_environnement",
+                "preferred": false
+            }
+        },
+        {   "title": "Francia - Hyères - L’Almanarre - Les Estagnets (La Mandrague)",
+            "url": "https://www.vision-environnement.com/live/player/hyereskite.php",
+            "id": 25,
+            "location": {
+                "name": "Kite Center",
+                "address": "Rte du Sel",
+                "city": "Hyères",
+                "code": "83400",
+                "province": "",
+                "region": "",
+                "country": "France",
+                "coordinate": {
+                    "latitude": 43.05508375427677,
+                    "longitude": 6.133172008285075
+                }
+            },
+            "metadata": {
+                "id": 1025,
+                "kind": "webcam",
+                "service": "vision_environnement",
+                "preferred": false
+            }
+        },
+        {   "title": "Francia - Hyères - Plage de l'Ayguade (La Bergerie)",
+            "url": "https://www.vision-environnement.com/live/player/hyeres20.php",
+            "id": 25,
+            "location": {
+                "name": "Hyères Ayguade",
+                "address": "Plage de l'Ayguade, Bd des Girelles",
+                "city": "Hyères",
+                "code": "83400",
+                "province": "",
+                "region": "",
+                "country": "France",
+                "coordinate": {
+                    "latitude": 43.103240594215634,
+                    "longitude": 6.175756311706254
+                }
+            },
+            "metadata": {
+                "id": 1025,
+                "kind": "webcam",
+                "service": "vision_environnement",
+                "preferred": false
+            }
+        },
         
         {   "title": "Lanzarote - Famara",
             "url": "https://www.redstarsurf.com/famara-live-web-cam",
-            "id": 25,
+            "id": 26,
             "location": {
                 "name": "Red Star Surf School Lanzarote",
                 "address": "Avenida el Marinero 9",
@@ -577,7 +850,7 @@
                 }
             },
             "metadata": {
-                "id": 1025,
+                "id": 1026,
                 "kind": "webcam",
                 "preferred": false
             }
@@ -604,7 +877,7 @@
             },
             "metadata": {
                 "id": 2001,
-                "kind": "forecasts",
+                "kind": "forecast",
                 "service": "windguru",
                 "preferred": false
             }
@@ -627,7 +900,7 @@
             },
             "metadata": {
                 "id": 2002,
-                "kind": "forecasts",
+                "kind": "forecast",
                 "service": "windfinder",
                 "preferred": false
             }
@@ -650,7 +923,7 @@
             },
             "metadata": {
                 "id": 2003,
-                "kind": "forecasts",
+                "kind": "forecast",
                 "service": "windguru",
                 "preferred": false
             }
@@ -673,7 +946,7 @@
             },
             "metadata": {
                 "id": 2004,
-                "kind": "forecasts",
+                "kind": "forecast",
                 "service": "windguru",
                 "preferred": false
             }
@@ -696,7 +969,7 @@
             },
             "metadata": {
                 "id": 2005,
-                "kind": "forecasts",
+                "kind": "forecast",
                 "service": "windguru",
                 "preferred": false
             }
@@ -719,7 +992,7 @@
             },
             "metadata": {
                 "id": 2006,
-                "kind": "forecasts",
+                "kind": "forecast",
                 "preferred": false
             }
         },
@@ -741,7 +1014,7 @@
             },
             "metadata": {
                 "id": 2007,
-                "kind": "forecasts",
+                "kind": "forecast",
                 "service": "windguru",
                 "preferred": false
             }
@@ -765,7 +1038,7 @@
             },
             "metadata": {
                 "id": 2008,
-                "kind": "forecasts",
+                "kind": "forecast",
                 "preferred": false
             }
         },
@@ -787,7 +1060,7 @@
             },
             "metadata": {
                 "id": 2009,
-                "kind": "forecasts",
+                "kind": "forecast",
                 "service": "windguru",
                 "preferred": false
             }
@@ -810,7 +1083,7 @@
             },
             "metadata": {
                 "id": 2010,
-                "kind": "forecasts",
+                "kind": "forecast",
                 "service": "windfinder",
                 "preferred": false
             }
@@ -833,7 +1106,7 @@
             },
             "metadata": {
                 "id": 2011,
-                "kind": "forecasts",
+                "kind": "forecast",
                 "service": "windguru",
                 "preferred": false
             }
@@ -856,7 +1129,7 @@
             },
             "metadata": {
                 "id": 2012,
-                "kind": "forecasts",
+                "kind": "forecast",
                 "preferred": false
             }
         },
@@ -878,7 +1151,7 @@
             },
             "metadata": {
                 "id": 2013,
-                "kind": "forecasts",
+                "kind": "forecast",
                 "service": "windfinder",
                 "preferred": false
             }
@@ -901,7 +1174,7 @@
             },
             "metadata": {
                 "id": 2014,
-                "kind": "forecasts",
+                "kind": "forecast",
                 "service": "meteoam",
                 "preferred": false
             }
@@ -924,7 +1197,7 @@
             },
             "metadata": {
                 "id": 2015,
-                "kind": "forecasts",
+                "kind": "forecast",
                 "service": "centrometeolombardo",
                 "preferred": false
             }
@@ -947,7 +1220,7 @@
             },
             "metadata": {
                 "id": 2016,
-                "kind": "forecasts",
+                "kind": "forecast",
                 "service": "windguru",
                 "preferred": false
             }
@@ -970,7 +1243,7 @@
             },
             "metadata": {
                 "id": 2017,
-                "kind": "forecasts",
+                "kind": "forecast",
                 "service": "windfinder",
                 "preferred": false
             }
@@ -993,7 +1266,7 @@
             },
             "metadata": {
                 "id": 2018,
-                "kind": "forecasts",
+                "kind": "forecast",
                 "service": "windfinder",
                 "preferred": false
             }
@@ -1016,7 +1289,7 @@
             },
             "metadata": {
                 "id": 2019,
-                "kind": "forecasts",
+                "kind": "forecast",
                 "service": "centrometeolombardo",
                 "preferred": false
             }
@@ -1039,7 +1312,7 @@
             },
             "metadata": {
                 "id": 2020,
-                "kind": "forecasts",
+                "kind": "forecast",
                 "service": "centrometeolombardo",
                 "preferred": false
             }
@@ -1062,7 +1335,7 @@
             },
             "metadata": {
                 "id": 2021,
-                "kind": "forecasts",
+                "kind": "forecast",
                 "service": "centrometeolombardo",
                 "preferred": false
             }
@@ -1085,7 +1358,7 @@
             },
             "metadata": {
                 "id": 2022,
-                "kind": "forecasts",
+                "kind": "forecast",
                 "service": "windfinder",
                 "preferred": false
             }
@@ -1108,7 +1381,7 @@
             },
             "metadata": {
                 "id": 2023,
-                "kind": "forecasts",
+                "kind": "forecast",
                 "service": "windfinder",
                 "preferred": false
             }
@@ -1131,15 +1404,60 @@
             },
             "metadata": {
                 "id": 2024,
-                "kind": "forecasts",
+                "kind": "forecast",
                 "service": "centrometeolombardo",
                 "preferred": false
             }
         },
+        {   "title": "Como Lake - Valmadrera - Windguru",
+            "url": "https://www.windguru.cz/1585",
+            "id": 25,
+            "location": {
+                "name": "Valmadrera",
+                "address": "Frazione Parè",
+                "city": "Valmadrera",
+                "code": "23868",
+                "province": "LC",
+                "region": "Lombardia",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 45.86406161326966,
+                    "longitude": 9.366167693653678
+                }
+            },
+            "metadata": {
+                "id": 2025,
+                "kind": "forecast",
+                "preferred": false
+            }
+        },
+        {   "title": "Como Lake - Valmadrera - Windfinder",
+            "url": "https://it.windfinder.com/weatherforecast/valmadrera_caserta_lombardy_italy",
+            "id": 26,
+            "location": {
+                "name": "Valmadrera",
+                "address": "Frazione Parè",
+                "city": "Valmadrera",
+                "code": "23868",
+                "province": "LC",
+                "region": "Lombardia",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 45.86380086761848,
+                    "longitude": 9.366267378531939
+                }
+            },
+            "metadata": {
+                "id": 2026,
+                "kind": "forecast",
+                "preferred": false
+            }
+        },
+        
         
         {   "title": "Garda Lake - Conca d'Oro - Windguru",
             "url": "https://www.windguru.cz/49193",
-            "id": 25,
+            "id": 27,
             "location": {
                 "name": "Duotone Pro Center",
                 "address": "Via Lungolago Conca d'Oro, 12",
@@ -1154,15 +1472,15 @@
                 }
             },
             "metadata": {
-                "id": 2025,
-                "kind": "forecasts",
+                "id": 2027,
+                "kind": "forecast",
                 "service": "windguru",
                 "preferred": false
             }
         },
         {   "title": "Garda Lake - Conca d'Oro - Windfinder Superforecast",
             "url": "https://it.windfinder.com/weatherforecast/lake_garda_conca_d_oro_torbole",
-            "id": 26,
+            "id": 28,
             "location": {
                 "name": "Duotone Pro Center",
                 "address": "Via Lungolago Conca d'Oro, 12",
@@ -1177,15 +1495,15 @@
                 }
             },
             "metadata": {
-                "id": 2026,
-                "kind": "forecasts",
+                "id": 2028,
+                "kind": "forecast",
                 "service": "windfinder",
                 "preferred": false
             }
         },
         {   "title": "Garda Lake - Conca d'Oro - Windfinder Widget",
             "url": "https://www.windfinder.com/widget/forecast/lake_garda_conca_d_oro_torbole?unit_wind=kts&unit_temperature=c&unit_wave=m&unit_rain=mm&unit_pressure=hPa&days=10&show_day=0&show_waves=0&domain=www.windfinder.com",
-            "id": 27,
+            "id": 29,
             "location": {
                 "name": "Duotone Pro Center",
                 "address": "Via Lungolago Conca d'Oro, 12",
@@ -1200,8 +1518,8 @@
                 }
             },
             "metadata": {
-                "id": 2027,
-                "kind": "forecasts",
+                "id": 2029,
+                "kind": "forecast",
                 "service": "windfinder",
                 "preferred": false
             }
@@ -1210,7 +1528,7 @@
         
         {   "title": "Liguria - Albenga - Windguru",
             "url": "https://www.windguru.cz/48983",
-            "id": 28,
+            "id": 30,
             "location": {
                 "name": "Albenga",
                 "address": "Lungomare Cristoforo Colombo, 24",
@@ -1225,8 +1543,8 @@
                 }
             },
             "metadata": {
-                "id": 2028,
-                "kind": "forecasts",
+                "id": 2030,
+                "kind": "forecast",
                 "service": "windguru",
                 "preferred": false
             }
@@ -1235,7 +1553,7 @@
         
         {   "title": "Paros - Tsoukalia - Windfinder Superforecast",
             "url": "https://www.windfinder.com/weatherforecast/tsoukalia",
-            "id": 29,
+            "id": 31,
             "location": {
                 "name": "Tsoukalia Beach",
                 "address": "",
@@ -1250,15 +1568,15 @@
                 }
             },
             "metadata": {
-                "id": 2029,
-                "kind": "forecasts",
+                "id": 2031,
+                "kind": "forecast",
                 "service": "windfinder",
                 "preferred": false
             }
         },
         {   "title": "Paros - New Golden Beach - Windfinder Superforecast",
             "url": "https://www.windfinder.com/weatherforecast/paros_new_golden_beach",
-            "id": 30,
+            "id": 32,
             "location": {
                 "name": "New Golden Beach",
                 "address": "",
@@ -1273,9 +1591,55 @@
                 }
             },
             "metadata": {
-                "id": 2030,
-                "kind": "forecasts",
+                "id": 2032,
+                "kind": "forecast",
                 "service": "windfinder",
+                "preferred": false
+            }
+        },
+        {   "title": "Hyeres - L'Almanarre - Windguru",
+            "url": "https://www.windguru.cz/501010",
+            "id": 33,
+            "location": {
+                "name": "Spiaggia L'Almanarre",
+                "address": "",
+                "city": "Hyeres",
+                "code": "",
+                "province": "",
+                "region": "",
+                "country": "France",
+                "coordinate": {
+                    "latitude": 43.078788673320254,
+                    "longitude": 6.125307212855503
+                }
+            },
+            "metadata": {
+                "id": 2033,
+                "kind": "forecast",
+                "service": "windguru",
+                "preferred": false
+            }
+        },
+        {   "title": "Hyeres - La Mandrague - Windguru",
+            "url": "https://www.windguru.cz/48627",
+            "id": 33,
+            "location": {
+                "name": "Spiaggia La Mandrague",
+                "address": "",
+                "city": "Hyeres",
+                "code": "",
+                "province": "",
+                "region": "",
+                "country": "France",
+                "coordinate": {
+                    "latitude": 43.04929435639388,
+                    "longitude": 6.132101738516118
+                }
+            },
+            "metadata": {
+                "id": 2033,
+                "kind": "forecast",
+                "service": "windguru",
                 "preferred": false
             }
         }
@@ -1332,8 +1696,8 @@
                 "region": "Lombardia",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 45.86382013021434,
-                    "longitude": 9.365802873095772
+                    "latitude": 45.8635483052599,
+                    "longitude": 9.365769557731724
                 }
             },
             "metadata": {
@@ -1458,11 +1822,40 @@
                 "preferred": false
             }
         },
-        {   "title": "SpotFav Webcams",
-            "url": "https://www.spotfav.com/dashboard/home",
+        {   "title": "SurfDose",
+            "url": "https://www.surfdose.com",
             "id": 11,
             "metadata": {
                 "id": 3011,
+                "kind": "other",
+                "preferred": false
+            }
+        },
+
+        {   "title": "Francia - Hyeres Almanarre, Hyeres Ayguade - ProvenceMed Webcams",
+            "url": "https://www.provencemed.com/it/webcam/",
+            "id": 12,
+            "metadata": {
+                "id": 3012,
+                "kind": "other",
+                "preferred": false
+            }
+        },
+        {   "title": "Vision Environment",
+            "url": "https://www.vision-environnement.com/webcams/italia",
+            "id": 13,
+            "metadata": {
+                "id": 3013,
+                "kind": "other",
+                "service": "vision_environnement",
+                "preferred": false
+            }
+        },
+        {   "title": "SpotFav Webcams",
+            "url": "https://www.spotfav.com/dashboard/home",
+            "id": 14,
+            "metadata": {
+                "id": 3014,
                 "kind": "other",
                 "preferred": false
             }
