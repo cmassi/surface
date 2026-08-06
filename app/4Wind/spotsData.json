@@ -905,9 +905,33 @@
                 "preferred": false
             }
         },
+        {   "title": "Sardegna - Porto Pollo - Windy",
+            "url": "https://www.windy.com/41.204/9.313/arome?arome,gust,41.135,9.313,11,p:wind",
+            "id": 3,
+            "location": {
+                "name": "Porto Pollo",
+                "address": "Via per campeggio",
+                "city": "Palau",
+                "code": "07020",
+                "province": "OT",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 41.20411534378623,
+                    "longitude": 9.313144875776702
+                }
+            },
+            "metadata": {
+                "id": 2003,
+                "kind": "forecast",
+                "service": "windycom",
+                "preferred": false
+            }
+        },
+        
         {   "title": "Sardegna - Vignola - Windguru",
             "url": "https://www.windguru.cz/49166",
-            "id": 3,
+            "id": 4,
             "location": {
                 "name": "Vignola",
                 "address": "Lungomare",
@@ -922,7 +946,7 @@
                 }
             },
             "metadata": {
-                "id": 2003,
+                "id": 2004,
                 "kind": "forecast",
                 "service": "windguru",
                 "preferred": false
@@ -930,7 +954,7 @@
         },
         {   "title": "Sardegna - San Teodoro (La Cinta) - Windguru",
             "url": "https://www.windguru.cz/49159",
-            "id": 4,
+            "id": 5,
             "location": {
                 "name": "La Cinta San Teodoro",
                 "address": "Via del Pettirosso",
@@ -945,7 +969,7 @@
                 }
             },
             "metadata": {
-                "id": 2004,
+                "id": 2005,
                 "kind": "forecast",
                 "service": "windguru",
                 "preferred": false
@@ -953,7 +977,7 @@
         },
         {   "title": "Sardegna - Marina delle Rose - Windguru",
             "url": "https://www.windguru.cz/49165",
-            "id": 5,
+            "id": 6,
             "location": {
                 "name": "Spiaggia Lu Litarroni",
                 "address": "Strada Provinciale 90",
@@ -968,7 +992,7 @@
                 }
             },
             "metadata": {
-                "id": 2005,
+                "id": 2006,
                 "kind": "forecast",
                 "service": "windguru",
                 "preferred": false
@@ -976,7 +1000,7 @@
         },
         {   "title": "Sardegna - Capo D'Orso - EasyWeather",
             "url": "https://www.ecowitt.net/home/share?authorize=T58U8B&device_id=RWJRVXA1bnM2YkNtMEJDTjBkaW9HZz09",
-            "id": 6,
+            "id": 7,
             "location": {
                 "name": "Silvestri Surf School",
                 "address": "Via Villaggio degli Svedesi, 1",
@@ -991,14 +1015,14 @@
                 }
             },
             "metadata": {
-                "id": 2006,
+                "id": 2007,
                 "kind": "forecast",
                 "preferred": false
             }
         },
         {   "title": "Sardegna - Capo D'Orso Caprera Sud - Windguru",
             "url": "https://www.windguru.cz/145532",
-            "id": 7,
+            "id": 8,
             "location": {
                 "name": "Capo D'Orso",
                 "address": "Capo D'Orso",
@@ -1013,7 +1037,53 @@
                 }
             },
             "metadata": {
-                "id": 2007,
+                "id": 2008,
+                "kind": "forecast",
+                "service": "windguru",
+                "preferred": false
+            }
+        },
+        {   "title": "Sardegna - Olbia - Marina Maria - Windfinder",
+            "url": "https://it.windfinder.com/weatherforecast/marina_maria",
+            "id": 9,
+            "location": {
+                "name": "Marina Maria Beach",
+                "address": "Spiaggia Marina Maria",
+                "city": "Murta Maria",
+                "code": "07026",
+                "province": "OT",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 40.90103129534896,
+                    "longitude": 9.582277509813178
+                }
+            },
+            "metadata": {
+                "id": 2009,
+                "kind": "forecast",
+                "service": "windfinder",
+                "preferred": false
+            }
+        },
+        {   "title": "Sardegna - Olbia - Marina Maria - Windguru",
+            "url": "https://www.windguru.cz/151128",
+            "id": 10,
+            "location": {
+                "name": "Marina Maria Beach",
+                "address": "Spiaggia Marina Maria",
+                "city": "Murta Maria",
+                "code": "07026",
+                "province": "OT",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 40.89943371966967,
+                    "longitude": 9.588510949169319
+                }
+            },
+            "metadata": {
+                "id": 2010,
                 "kind": "forecast",
                 "service": "windguru",
                 "preferred": false
@@ -1022,7 +1092,7 @@
         
         {   "title": "Como Lake - BrevaGuru",
             "url": "https://brevaguru.com/it/comolake_winds_forecasts/map",
-            "id": 8,
+            "id": 11,
             "location": {
                 "name": "BrevaGuru",
                 "address": "",
@@ -1037,14 +1107,14 @@
                 }
             },
             "metadata": {
-                "id": 2008,
+                "id": 2011,
                 "kind": "forecast",
                 "preferred": false
             }
         },
         {   "title": "Como Lake - Colico - Windguru",
             "url": "https://www.windguru.cz/766",
-            "id": 9,
+            "id": 12,
             "location": {
                 "name": "Spiaggia Ontano",
                 "address": "Via Montecchio Nord, 25",
@@ -1059,7 +1129,7 @@
                 }
             },
             "metadata": {
-                "id": 2009,
+                "id": 2012,
                 "kind": "forecast",
                 "service": "windguru",
                 "preferred": false
@@ -1067,7 +1137,7 @@
         },
         {   "title": "Como Lake - Colico - Windfinder",
             "url": "https://www.windfinder.com/forecast/lake_como_colico",
-            "id": 10,
+            "id": 13,
             "location": {
                 "name": "Spiaggia Ontano",
                 "address": "Via Montecchio Nord, 25",
@@ -1082,7 +1152,7 @@
                 }
             },
             "metadata": {
-                "id": 2010,
+                "id": 2013,
                 "kind": "forecast",
                 "service": "windfinder",
                 "preferred": false
@@ -1090,7 +1160,7 @@
         },
         {   "title": "Como Lake - Gera Lario (La Punta) - Windguru",
             "url": "https://www.windguru.cz/142053",
-            "id": 11,
+            "id": 14,
             "location": {
                 "name": "Gera Lario (La Punta)",
                 "address": "Via la Punta",
@@ -1105,7 +1175,7 @@
                 }
             },
             "metadata": {
-                "id": 2011,
+                "id": 2014,
                 "kind": "forecast",
                 "service": "windguru",
                 "preferred": false
@@ -1113,7 +1183,7 @@
         },
         {   "title": "Como Lake - Gera Lario (La Punta) - WeatherCloud",
             "url": "https://app.weathercloud.net/map#9563786835",
-            "id": 12,
+            "id": 15,
             "location": {
                 "name": "Casa privata di Anna",
                 "address": "Via la Punta, 2",
@@ -1128,14 +1198,14 @@
                 }
             },
             "metadata": {
-                "id": 2012,
+                "id": 2015,
                 "kind": "forecast",
                 "preferred": false
             }
         },
         {   "title": "Como Lake - Gera Lario - Windfinder Superforecast",
             "url": "https://it.windfinder.com/weatherforecast/lake_como_gera_lario",
-            "id": 13,
+            "id": 16,
             "location": {
                 "name": "Spiaggetta Al Pontile",
                 "address": "",
@@ -1150,15 +1220,38 @@
                 }
             },
             "metadata": {
-                "id": 2013,
+                "id": 2016,
                 "kind": "forecast",
                 "service": "windfinder",
                 "preferred": false
             }
         },
+        {   "title": "Como Lake - Gera Lario - Windy",
+            "url": "https://www.windy.com/46.167/9.374/arome?arome,gust,46.049,9.374,10,p:wind",
+            "id": 17,
+            "location": {
+                "name": "Windy Gera Lario",
+                "address": "",
+                "city": "Gera Lario",
+                "code": "22010",
+                "province": "CO",
+                "region": "Lombardia",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 46.1671411475557,
+                    "longitude": 9.374032182240285
+                }
+            },
+            "metadata": {
+                "id": 2017,
+                "kind": "forecast",
+                "service": "windycom",
+                "preferred": false
+            }
+        },
         {   "title": "Como Lake - Gera Lario - Meteo Aereonatica Militare",
             "url": "https://www.meteoam.it/it/meteo-citta/gera-lario",
-            "id": 14,
+            "id": 18,
             "location": {
                 "name": "Meteo Aereonatica Militare",
                 "address": "",
@@ -1173,7 +1266,7 @@
                 }
             },
             "metadata": {
-                "id": 2014,
+                "id": 2018,
                 "kind": "forecast",
                 "service": "meteoam",
                 "preferred": false
@@ -1181,7 +1274,7 @@
         },
         {   "title": "Como Lake - Gera Lario - CML - Tabo Surf",
             "url": "http://www.centrometeolombardo.com/moduli/stazioni.php?geralario",
-            "id": 15,
+            "id": 19,
             "location": {
                 "name": "Tabo Surf",
                 "address": "Via Prato del Vento, 6",
@@ -1196,7 +1289,7 @@
                 }
             },
             "metadata": {
-                "id": 2015,
+                "id": 2019,
                 "kind": "forecast",
                 "service": "centrometeolombardo",
                 "preferred": false
@@ -1204,7 +1297,7 @@
         },
         {   "title": "Como Lake - Dervio - Windguru",
             "url": "https://www.windguru.cz/186114",
-            "id": 16,
+            "id": 20,
             "location": {
                 "name": "Bar Il Pontile",
                 "address": "Via alla Darsena, 16",
@@ -1219,7 +1312,7 @@
                 }
             },
             "metadata": {
-                "id": 2016,
+                "id": 2020,
                 "kind": "forecast",
                 "service": "windguru",
                 "preferred": false
@@ -1227,7 +1320,7 @@
         },
         {   "title": "Como Lake - Dervio - Windfinder Superforecast",
             "url": "https://it.windfinder.com/weatherforecast/dervio_lake_como",
-            "id": 17,
+            "id": 21,
             "location": {
                 "name": "Bar Il Pontile",
                 "address": "Via alla Darsena, 16",
@@ -1242,7 +1335,7 @@
                 }
             },
             "metadata": {
-                "id": 2017,
+                "id": 2021,
                 "kind": "forecast",
                 "service": "windfinder",
                 "preferred": false
@@ -1250,7 +1343,7 @@
         },
         {   "title": "Como Lake - Dervio - Windfinder Widget",
             "url": "https://www.windfinder.com/widget/forecast/dervio_lake_como?unit_wind=kts&unit_temperature=c&unit_wave=m&unit_rain=mm&unit_pressure=hPa&days=10&show_day=0&show_waves=0&domain=www.windfinder.com",
-            "id": 18,
+            "id": 22,
             "location": {
                 "name": "Bar Il Pontile",
                 "address": "Via alla Darsena, 16",
@@ -1265,7 +1358,7 @@
                 }
             },
             "metadata": {
-                "id": 2018,
+                "id": 2022,
                 "kind": "forecast",
                 "service": "windfinder",
                 "preferred": false
@@ -1273,7 +1366,7 @@
         },
         {   "title": "Como Lake - Dervio - CML - Bar Pontile MeteoLecco.it",
             "url": "http://www.centrometeolombardo.com/moduli/stazioni.php?dervio",
-            "id": 19,
+            "id": 23,
             "location": {
                 "name": "Bar Il Pontile",
                 "address": "Via alla Darsena, 16",
@@ -1288,7 +1381,7 @@
                 }
             },
             "metadata": {
-                "id": 2019,
+                "id": 2023,
                 "kind": "forecast",
                 "service": "centrometeolombardo",
                 "preferred": false
@@ -1296,7 +1389,7 @@
         },
         {   "title": "Como Lake - Dongo - CML - Circolo Velico Marvelia",
             "url": "http://www.centrometeolombardo.com/moduli/stazioni.php?dongo",
-            "id": 20,
+            "id": 24,
             "location": {
                 "name": "Circolo Velico Marvelia",
                 "address": "Località Bersaglio",
@@ -1311,7 +1404,7 @@
                 }
             },
             "metadata": {
-                "id": 2020,
+                "id": 2024,
                 "kind": "forecast",
                 "service": "centrometeolombardo",
                 "preferred": false
@@ -1319,7 +1412,7 @@
         },
         {   "title": "Como Lake - Mandello del Lario - CML - Lega Navale Mandello",
             "url": "http://www.centrometeolombardo.com/moduli/stazioni.php?mandello",
-            "id": 21,
+            "id": 25,
             "location": {
                 "name": "Lega Navale Italiana",
                 "address": "Via Pra Magno, 8,   ",
@@ -1334,7 +1427,7 @@
                 }
             },
             "metadata": {
-                "id": 2021,
+                "id": 2025,
                 "kind": "forecast",
                 "service": "centrometeolombardo",
                 "preferred": false
@@ -1342,7 +1435,7 @@
         },
         {   "title": "Como Lake - Abbadia Lariana - Windfinder Superforecast",
             "url": "https://it.windfinder.com/weatherforecast/abbadia-lariana_lago-di-como",
-            "id": 22,
+            "id": 26,
             "location": {
                 "name": "Parco Ulisse Guzzi",
                 "address": "Piazza della Costituzione Repubblicana, 135",
@@ -1357,7 +1450,7 @@
                 }
             },
             "metadata": {
-                "id": 2022,
+                "id": 2026,
                 "kind": "forecast",
                 "service": "windfinder",
                 "preferred": false
@@ -1365,7 +1458,7 @@
         },
         {   "title": "Como Lake - Abbadia Lariana - Windfinder Widget",
             "url": "https://www.windfinder.com/widget/forecast/abbadia-lariana_lago-di-como?unit_wind=kts&unit_temperature=c&unit_wave=m&unit_rain=mm&unit_pressure=hPa&days=10&show_day=0&show_waves=0&domain=www.windfinder.com",
-            "id": 23,
+            "id": 27,
             "location": {
                 "name": "Parco Ulisse Guzzi",
                 "address": "Piazza della Costituzione Repubblicana, 135",
@@ -1380,7 +1473,7 @@
                 }
             },
             "metadata": {
-                "id": 2023,
+                "id": 2027,
                 "kind": "forecast",
                 "service": "windfinder",
                 "preferred": false
@@ -1388,7 +1481,7 @@
         },
         {   "title": "Como Lake - Abbadia Lariana - CML - abbadiameteo.it",
             "url": "http://www.centrometeolombardo.com/moduli/stazioni.php?abbadia",
-            "id": 24,
+            "id": 28,
             "location": {
                 "name": "Parco Ulisse Guzzi",
                 "address": "Piazza della Costituzione Repubblicana, 135",
@@ -1403,7 +1496,7 @@
                 }
             },
             "metadata": {
-                "id": 2024,
+                "id": 2028,
                 "kind": "forecast",
                 "service": "centrometeolombardo",
                 "preferred": false
@@ -1411,7 +1504,7 @@
         },
         {   "title": "Como Lake - Valmadrera - Windguru",
             "url": "https://www.windguru.cz/1585",
-            "id": 25,
+            "id": 29,
             "location": {
                 "name": "Valmadrera",
                 "address": "Frazione Parè",
@@ -1426,7 +1519,7 @@
                 }
             },
             "metadata": {
-                "id": 2025,
+                "id": 2029,
                 "kind": "forecast",
                 "service": "windguru",
                 "preferred": false
@@ -1434,7 +1527,7 @@
         },
         {   "title": "Como Lake - Valmadrera - Windfinder",
             "url": "https://it.windfinder.com/weatherforecast/valmadrera_caserta_lombardy_italy",
-            "id": 26,
+            "id": 30,
             "location": {
                 "name": "Valmadrera",
                 "address": "Frazione Parè",
@@ -1449,7 +1542,7 @@
                 }
             },
             "metadata": {
-                "id": 2026,
+                "id": 2030,
                 "kind": "forecast",
                 "service": "windfinder",
                 "preferred": false
@@ -1459,7 +1552,7 @@
         
         {   "title": "Garda Lake - Conca d'Oro - Windguru",
             "url": "https://www.windguru.cz/49193",
-            "id": 27,
+            "id": 31,
             "location": {
                 "name": "Duotone Pro Center",
                 "address": "Via Lungolago Conca d'Oro, 12",
@@ -1474,7 +1567,7 @@
                 }
             },
             "metadata": {
-                "id": 2027,
+                "id": 2031,
                 "kind": "forecast",
                 "service": "windguru",
                 "preferred": false
@@ -1482,7 +1575,7 @@
         },
         {   "title": "Garda Lake - Conca d'Oro - Windfinder Superforecast",
             "url": "https://it.windfinder.com/weatherforecast/lake_garda_conca_d_oro_torbole",
-            "id": 28,
+            "id": 32,
             "location": {
                 "name": "Duotone Pro Center",
                 "address": "Via Lungolago Conca d'Oro, 12",
@@ -1497,7 +1590,7 @@
                 }
             },
             "metadata": {
-                "id": 2028,
+                "id": 2032,
                 "kind": "forecast",
                 "service": "windfinder",
                 "preferred": false
@@ -1505,7 +1598,7 @@
         },
         {   "title": "Garda Lake - Conca d'Oro - Windfinder Widget",
             "url": "https://www.windfinder.com/widget/forecast/lake_garda_conca_d_oro_torbole?unit_wind=kts&unit_temperature=c&unit_wave=m&unit_rain=mm&unit_pressure=hPa&days=10&show_day=0&show_waves=0&domain=www.windfinder.com",
-            "id": 29,
+            "id": 33,
             "location": {
                 "name": "Duotone Pro Center",
                 "address": "Via Lungolago Conca d'Oro, 12",
@@ -1520,7 +1613,7 @@
                 }
             },
             "metadata": {
-                "id": 2029,
+                "id": 2033,
                 "kind": "forecast",
                 "service": "windfinder",
                 "preferred": false
@@ -1530,7 +1623,7 @@
         
         {   "title": "Liguria - Albenga - Windguru",
             "url": "https://www.windguru.cz/48983",
-            "id": 30,
+            "id": 34,
             "location": {
                 "name": "Albenga",
                 "address": "Lungomare Cristoforo Colombo, 24",
@@ -1545,7 +1638,7 @@
                 }
             },
             "metadata": {
-                "id": 2030,
+                "id": 2034,
                 "kind": "forecast",
                 "service": "windguru",
                 "preferred": false
@@ -1555,7 +1648,7 @@
         
         {   "title": "Paros - Tsoukalia - Windfinder Superforecast",
             "url": "https://www.windfinder.com/weatherforecast/tsoukalia",
-            "id": 31,
+            "id": 35,
             "location": {
                 "name": "Tsoukalia Beach",
                 "address": "",
@@ -1570,7 +1663,7 @@
                 }
             },
             "metadata": {
-                "id": 2031,
+                "id": 2035,
                 "kind": "forecast",
                 "service": "windfinder",
                 "preferred": false
@@ -1578,7 +1671,7 @@
         },
         {   "title": "Paros - New Golden Beach - Windfinder Superforecast",
             "url": "https://www.windfinder.com/weatherforecast/paros_new_golden_beach",
-            "id": 32,
+            "id": 36,
             "location": {
                 "name": "New Golden Beach",
                 "address": "",
@@ -1593,7 +1686,7 @@
                 }
             },
             "metadata": {
-                "id": 2032,
+                "id": 2036,
                 "kind": "forecast",
                 "service": "windfinder",
                 "preferred": false
@@ -1601,7 +1694,7 @@
         },
         {   "title": "Hyeres - L'Almanarre - Windguru",
             "url": "https://www.windguru.cz/501010",
-            "id": 33,
+            "id": 37,
             "location": {
                 "name": "Spiaggia L'Almanarre",
                 "address": "",
@@ -1616,7 +1709,7 @@
                 }
             },
             "metadata": {
-                "id": 2033,
+                "id": 2037,
                 "kind": "forecast",
                 "service": "windguru",
                 "preferred": false
@@ -1624,7 +1717,7 @@
         },
         {   "title": "Hyeres - La Mandrague - Windguru",
             "url": "https://www.windguru.cz/48627",
-            "id": 34,
+            "id": 38,
             "location": {
                 "name": "Spiaggia La Mandrague",
                 "address": "",
@@ -1639,7 +1732,7 @@
                 }
             },
             "metadata": {
-                "id": 2034,
+                "id": 2038,
                 "kind": "forecast",
                 "service": "windguru",
                 "preferred": false
@@ -1754,9 +1847,34 @@
                 "preferred": false
             }
         },
+        {   "title": "Sardegna - Webcam Galore",
+            "url": "https://www.webcamgalore.com/Italy/Sardinia/statecam-0.html",
+            "id": 8,
+            "location": {
+                "name": "Sardegna",
+                "address": "",
+                "city": "",
+                "code": "",
+                "province": "",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 41.19472082918228,
+                    "longitude": 9.022297084425142
+                }
+            },
+            "metadata": {
+                "id": 3008,
+                "kind": "other",
+                "service": "whatsupcams",
+                "preferred": false
+            }
+        },
+        
+        
         {   "title": "Sardegna - Lamma (HR)",
             "url": "https://www.lamma.toscana.it/mare/modelli/vento-e-mare-hr?area=F",
-            "id": 8,
+            "id": 9,
             "location": {
                 "name": "Stretto di Bonifacio",
                 "address": "",
@@ -1771,7 +1889,7 @@
                 }
             },
             "metadata": {
-                "id": 3008,
+                "id": 3009,
                 "kind": "other",
                 "service": "lamma",
                 "preferred": false
@@ -1779,7 +1897,7 @@
         },
         {   "title": "Sardegna - Bonifacio - Lamma Widget",
             "url": "https://www.lamma.toscana.it/previ/ita/widget_mare_500.php?area=B&width=500&height=480&frameBorder=0&scrolling=no",
-            "id": 9,
+            "id": 10,
             "location": {
                 "name": "Vento e Mare Sardegna",
                 "address": "",
@@ -1794,7 +1912,30 @@
                 }
             },
             "metadata": {
-                "id": 3009,
+                "id": 3010,
+                "kind": "other",
+                "service": "lamma",
+                "preferred": false
+            }
+        },
+        {   "title": "Sardegna - Bonifacio - Lamma Widget",
+            "url": "https://it.windfinder.com/webcams/sardinia_porto_pollo",
+            "id": 11,
+            "location": {
+                "name": "Sardegna",
+                "address": "",
+                "city": "",
+                "code": "",
+                "province": "",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 41.20882807766811,
+                    "longitude": 9.31917997532136
+                }
+            },
+            "metadata": {
+                "id": 3011,
                 "kind": "other",
                 "service": "lamma",
                 "preferred": false
@@ -1803,7 +1944,7 @@
         
         {   "title": "MeteoSwiss Raffiche Vento",
             "url": "https://www.meteosvizzera.admin.ch/servizi-e-pubblicazioni/applicazioni/vento.html#tab=animation-wind-gusts",
-            "id": 10,
+            "id": 12,
             "location": {
                 "name": "MeteoSvizzera",
                 "address": "Via ai Monti 146",
@@ -1818,7 +1959,7 @@
                 }
             },
             "metadata": {
-                "id": 3010,
+                "id": 3012,
                 "kind": "other",
                 "service": "meteoswiss",
                 "preferred": false
@@ -1826,9 +1967,9 @@
         },
         {   "title": "SurfDose",
             "url": "https://www.surfdose.com",
-            "id": 11,
+            "id": 13,
             "metadata": {
-                "id": 3011,
+                "id": 3013,
                 "kind": "other",
                 "preferred": false
             }
@@ -1836,18 +1977,18 @@
 
         {   "title": "Francia - Hyeres Almanarre, Hyeres Ayguade - ProvenceMed Webcams",
             "url": "https://www.provencemed.com/it/webcam/",
-            "id": 12,
+            "id": 14,
             "metadata": {
-                "id": 3012,
+                "id": 3014,
                 "kind": "other",
                 "preferred": false
             }
         },
         {   "title": "Vision Environment",
             "url": "https://www.vision-environnement.com/webcams/italia",
-            "id": 13,
+            "id": 15,
             "metadata": {
-                "id": 3013,
+                "id": 3015,
                 "kind": "other",
                 "service": "vision_environnement",
                 "preferred": false
@@ -1855,9 +1996,9 @@
         },
         {   "title": "SpotFav Webcams",
             "url": "https://www.spotfav.com/dashboard/home",
-            "id": 14,
+            "id": 16,
             "metadata": {
-                "id": 3014,
+                "id": 3016,
                 "kind": "other",
                 "preferred": false
             }
