@@ -1,0 +1,2008 @@
+{
+    "webcams": [
+        {   "title": "Sardegna - Porto Pollo - Panoramicams Istmo",
+            "url": "https://panoramicams.com/porto-pollo-istmo",
+            "id": 1,
+            "location": {
+                "name": "Isuledda Isola dei Gabbiani",
+                "address": "Via per campeggio (fine)",
+                "city": "Palau",
+                "code": "07020",
+                "province": "OT",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 41.19580436423176,
+                    "longitude": 9.319113325000126
+                }
+            },
+            "metadata": {
+                "id": 1001,
+                "kind": "webcam",
+                "service": "panoramicams",
+                "preferred": false
+            }
+        },
+        {   "title": "Sardegna - Porto Pollo - Panoramicams Kite Zone",
+            "url": "https://panoramicams.com/porto-pollo-kite-zone",
+            "id": 2,
+            "location": {
+                "name": "Wind Bar",
+                "address": "Via per campeggio",
+                "city": "Palau",
+                "code": "07020",
+                "province": "OT",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 41.193866260835534,
+                    "longitude": 9.318479165033706
+                }
+            },
+            "metadata": {
+                "id": 1002,
+                "kind": "webcam",
+                "service": "panoramicams",
+                "preferred": false
+            }
+        },
+        {   "title": "Sardegna - Porto Pollo - Panoramicams Rupi's",
+            "url": "https://panoramicams.com/porto-pollo-rupis",
+            "id": 3,
+            "location": {
+                "name": "Rupi's Chilling Out",
+                "address": "Via per campeggio",
+                "city": "Palau",
+                "code": "07020",
+                "province": "OT",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 41.1931245924566,
+                    "longitude": 9.319290576067766
+                }
+            },
+            "metadata": {
+                "id": 1003,
+                "kind": "webcam",
+                "service": "panoramicams",
+                "preferred": false
+            }
+        },
+        {   "title": "Sardegna - Porto Pollo - Panoramicams ProCenter",
+            "url": "https://panoramicams.com/iframe/windsurf-village-porto-pollo",
+            "id": 4,
+            "location": {
+                "name": "Porto Pollo Pro Center",
+                "address": "Località Porto Pollo, 1",
+                "city": "Palau",
+                "code": "07020",
+                "province": "OT",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 41.19009388759681,
+                    "longitude": 9.325355240944488
+                }
+            },
+            "metadata": {
+                "id": 1004,
+                "kind": "webcam",
+                "service": "panoramicams",
+                "preferred": false
+            }
+        },
+        {   "title": "Sardegna - Porto Pollo e dintorni - Meteoblue",
+            "url": "https://www.meteoblue.com/it/tempo/webcams/porto-pollo_italia_6544030",
+            "id": 5,
+            "location": {
+                "name": "Porto Pollo Beach",
+                "address": "Via per campeggio",
+                "city": "Palau",
+                "code": "07020",
+                "province": "OT",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 41.192872139462914,
+                    "longitude": 9.319814898106522
+                }
+            },
+            "metadata": {
+                "id": 1005,
+                "kind": "webcam",
+                "service": "meteoblue",
+                "preferred": false
+            }
+        },
+        {   "title": "Sardegna - Olbia - Panoramicams Pittulongu",
+            "url": "https://panoramicams.com/pittulongu-olbia",
+            "id": 6,
+            "location": {
+                "name": "Mamabeach",
+                "address": "Via Tramontana, 10",
+                "city": "Pittulongu",
+                "code": "07026",
+                "province": "OT",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 40.938987263429155,
+                    "longitude": 9.567353770618373
+                }
+            },
+            "metadata": {
+                "id": 1006,
+                "kind": "webcam",
+                "service": "panoramicams",
+                "preferred": false
+            }
+        },
+        
+        {   "title": "Sardegna - San Teodoro - Whatsupcams La Cinta",
+            "url": "https://www.whatsupcams.com/it/webcams/italia/sardegna/san-teodoro-it/spiaggia-isuledda-san-teodoro-sardegna",
+            "id": 7,
+            "location": {
+                "name": "La Cinta Beach",
+                "address": "Via Antonio Gramsci",
+                "city": "San Teodoro",
+                "code": "07052",
+                "province": "OT",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 40.785798705245895,
+                    "longitude": 9.67090110896628
+                }
+            },
+            "metadata": {
+                "id": 1007,
+                "kind": "webcam",
+                "service": "whatsupcams",
+                "preferred": false
+            }
+        },
+        {   "title": "Sardegna - Olbia - Vedetta Murta Maria",
+            "url": "https://vedetta.org/webcam/italia/sardegna/sassari/olbia-marina-maria",
+            "id": 8,
+            "location": {
+                "name": "Marina Maria Beach",
+                "address": "Spiaggia Marina Maria",
+                "city": "Murta Maria",
+                "code": "07026",
+                "province": "OT",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 40.899998847828115,
+                    "longitude": 9.585156625566816
+                }
+            },
+            "metadata": {
+                "id": 1008,
+                "kind": "webcam",
+                "service": "vedetta",
+                "preferred": false
+            }
+        },
+        {   "title": "Sardegna - Olbia - Panoramicams Spiaggia Le Saline",
+            "url": "https://panoramicams.com/punta-saline-olbia",
+            "id": 9,
+            "location": {
+                "name": "Spiaggia Le Saline",
+                "address": "Via Isola Padron Fiaso",
+                "city": "Olbia",
+                "code": "07026",
+                "province": "OT",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 40.904621471630435,
+                    "longitude": 9.574956840714773
+                }
+            },
+            "metadata": {
+                "id": 1009,
+                "kind": "webcam",
+                "service": "panoramicams",
+                "preferred": false
+            }
+        },
+        
+        {   "title": "Sardegna - Aglientu Naracu Nieddu Lu Litarroni - Panoramicams Marina delle Rose",
+            "url": "https://panoramicams.com/lu-litarroni-marina-delle-rose",
+            "id": 10,
+            "location": {
+                "name": "La terrazza sul mare",
+                "address": "Località Naracu Nieddu",
+                "city": "Aglientu",
+                "code": "07020",
+                "province": "OT",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 41.13335174798619,
+                    "longitude": 9.10250899528831
+                }
+            },
+            "metadata": {
+                "id": 1010,
+                "kind": "webcam",
+                "service": "panoramicams",
+                "preferred": false
+            }
+        },
+        {   "title": "Sardegna - Vignola - Panoramicams Aglientu",
+            "url": "https://panoramicams.com/vignola-mare-aglientu",
+            "id": 11,
+            "location": {
+                "name": "Pirati dei Caraibi",
+                "address": "Lungomare",
+                "city": "Vignola Mare",
+                "code": "07020",
+                "province": "OT",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 41.12796499539542,
+                    "longitude": 9.068772122917773
+                }
+            },
+            "metadata": {
+                "id": 1011,
+                "kind": "webcam",
+                "service": "panoramicams",
+                "preferred": false
+            }
+        },
+        {   "title": "Sardegna - Badesi - Vedetta",
+            "url": "https://vedetta.org/webcam/italia/sardegna/sassari/badesi",
+            "id": 12,
+            "location": {
+                "name": "Sardini Action",
+                "address": "Li Junchi",
+                "city": "Badesi Mare",
+                "code": "07030",
+                "province": "OT",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 40.98006526239016,
+                    "longitude": 8.85952745295012
+                }
+            },
+            "metadata": {
+                "id": 1012,
+                "kind": "webcam",
+                "service": "vedetta",
+                "preferred": false
+            }
+        },
+        {   "title": "Sardegna - Valledoria - Panoramicams La Ciaccia",
+            "url": "https://panoramicams.com/maragnani-valledoria",
+            "id": 13,
+            "location": {
+                "name": "International Camping Valledoria",
+                "address": "Via La Ciaccia, 39",
+                "city": "Valledoria",
+                "code": "07039",
+                "province": "SS",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 40.923383297538365,
+                    "longitude": 8.795652648844527
+                }
+            },
+            "metadata": {
+                "id": 1013,
+                "kind": "webcam",
+                "service": "panoramicams",
+                "preferred": false
+            }
+        },
+        
+        {
+            "title": "Como Lake - Colico - Vedetta",
+            "url": "https://vedetta.org/webcam/italia/lombardia/lecco/colico-piano",
+            "location": {
+                "name": "Jordan'Surf",
+                "address": "Via Montecchio Nord 27",
+                "city": "Colico",
+                "code": "23823",
+                "province": "LC",
+                "region": "Lombardia",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 46.14194231104901,
+                    "longitude": 9.374003857275481
+                }
+            },
+            "id": 14,
+            "metadata": {
+                "id": 1014,
+                "kind": "webcam",
+                "service": "vedetta",
+                "preferred": false
+            }
+        },
+        {   "title": "Como Lake - Colico - Nausika Yacht",
+            "url": "https://stream-meteoproject.eu/weathercam-player.php?code=87",
+            "id": 15,
+            "location": {
+                "name": "Nausika Yacht",
+                "address": "Via Montecchio Nord, 21",
+                "city": "Colico",
+                "code": "23823",
+                "province": "LC",
+                "region": "Lombardia",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 46.13900352208353,
+                    "longitude": 9.372590724470703
+                }
+            },
+            "metadata": {
+                "id": 1015,
+                "kind": "webcam",
+                "service": "weathercam",
+                "preferred": false
+            }
+        },
+        {   "title": "Como Lake - Colico e dintorni - Meteoblue",
+            "url": "https://www.meteoblue.com/it/tempo/webcams/colico_italia_3178451",
+            "id": 16,
+            "location": {
+                "name": "Vicino a Colico",
+                "address": "",
+                "city": "Colico",
+                "code": "23823",
+                "province": "LC",
+                "region": "Lombardia",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 46.14222228403324,
+                    "longitude": 9.372656805160009
+                }
+            },
+            "metadata": {
+                "id": 1016,
+                "kind": "webcam",
+                "service": "meteoblue",
+                "preferred": false
+            }
+        },
+        {   "title": "Como Lake - Cremia - Vedetta",
+            "url": "https://vedetta.org/webcam/italia/lombardia/como/cremia",
+            "id": 17,
+            "location": {
+                "name": "Hotel Lumin",
+                "address": "Frazione San Vito, 158",
+                "city": "Cremia",
+                "code": "22010",
+                "province": "CO",
+                "region": "Lombardia",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 46.08877354192915,
+                    "longitude": 9.27950723372782
+                }
+            },
+            "metadata": {
+                "id": 1017,
+                "kind": "webcam",
+                "service": "vedetta",
+                "preferred": false
+            }
+        },
+        {   "title": "Como Lake - Dervio - Vedetta",
+            "url": "https://vedetta.org/en/webcam/italia/lombardia/lecco/dervio-valmadrera",
+            "id": 18,
+            "location": {
+                "name": "Bar Il Pontile",
+                "address": "Via alla Darsena, 16",
+                "city": "Dervio",
+                "code": "23824",
+                "province": "LC",
+                "region": "Lombardia",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 46.07570811979278,
+                    "longitude": 9.298120745802816
+                }
+            },
+            "metadata": {
+                "id": 1018,
+                "kind": "webcam",
+                "service": "vedetta",
+                "preferred": false
+            }
+        },
+        {   "title": "Como Lake - Dervio - Vedetta",
+            "url": "https://vedetta.org/webcam/italia/lombardia/lecco/dervio-sud",
+            "id": 19,
+            "location": {
+                "name": "Adrena KiteSurf School",
+                "address": "Via degli Ulivi 5",
+                "city": "Dervio",
+                "code": "23824",
+                "province": "LC",
+                "region": "Lombardia",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 46.07467305279076,
+                    "longitude": 9.298350978827749
+                }
+            },
+            "metadata": {
+                "id": 1019,
+                "kind": "webcam",
+                "service": "vedetta",
+                "preferred": false
+            }
+        },
+        {   "title": "Como Lake - Gera Lario e dintorni",
+            "url": "https://www.meteoblue.com/it/tempo/webcams/gera-lario_italia_3176199",
+            "id": 20,
+            "location": {
+                "name": "Vicino a Gera Lario",
+                "address": "",
+                "city": "Gera Lario",
+                "code": "22010",
+                "province": "CO",
+                "region": "Lombardia",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 46.16852577880289,
+                    "longitude": 9.370277828224804
+                }
+            },
+            "metadata": {
+                "id": 1020,
+                "kind": "webcam",
+                "service": "meteoblue",
+                "preferred": false
+            }
+        },
+        {   "title": "Como Lake - Imbarcadero Lecco",
+            "url": "https://vedetta.org/webcam/italia/lombardia/lecco/vista-lecco",
+            "id": 21,
+            "location": {
+                "name": "Imbarcadero Lecco",
+                "address": "Lungolario Cesare Battisti, 3",
+                "city": "Lecco",
+                "code": "23900",
+                "province": "LC",
+                "region": "Lombardia",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 45.85600930519691,
+                    "longitude": 9.387220266778396
+                }
+            },
+            "metadata": {
+                "id": 1021,
+                "kind": "webcam",
+                "service": "vedetta",
+                "preferred": false
+            }
+        },
+        {   "title": "Como Lake - Windsurf Club Valmadrera",
+            "url": "https://wcv.it/live-webcam",
+            "id": 22,
+            "location": {
+                "name": "Valmadrera Nord e Sud [WCV]",
+                "address": "Frazione Parè, 87",
+                "city": "Valmadrera",
+                "code": "23868",
+                "province": "LC",
+                "region": "Lombardia",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 45.86382013021434,
+                    "longitude": 9.365802873095772
+                }
+            },
+            "metadata": {
+                "id": 1022,
+                "kind": "webcam",
+                "preferred": false
+            }
+        },
+        
+        {   "title": "Garda Lake - Malcesine",
+            "url": "https://stream-meteoproject.eu/weathercam-player.php?code=14",
+            "id": 23,
+            "location": {
+                "name": "Fraglia Vela Malcesine",
+                "address": "Via Gardesana, 205",
+                "city": "Frazione Navene di Malcesine",
+                "code": "37018",
+                "province": "VR",
+                "region": "Veneto",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 45.79546034048822,
+                    "longitude": 10.834348741215509
+                }
+            },
+            "metadata": {
+                "id": 1023,
+                "kind": "webcam",
+                "service": "weathercam",
+                "preferred": false
+            }
+        },
+        {   "title": "Garda Lake - Tignale - Vedetta Porto",
+            "url": "https://vedetta.org/webcam/italia/lombardia/brescia/porto-tignale",
+            "id": 24,
+            "location": {
+                "name": "Porto di Tignale",
+                "address": "Strada Statale Gardesana Occidentale, 92",
+                "city": "Tignale",
+                "code": "25080",
+                "province": "BS",
+                "region": "Lombardia",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 45.72603531215343,
+                    "longitude": 10.716581050400597
+                }
+            },
+            "metadata": {
+                "id": 1024,
+                "kind": "webcam",
+                "service": "vedetta",
+                "preferred": false
+            }
+        },
+        {   "title": "Garda Lake - Tignale - Vedetta PraDeLaFam",
+            "url": "https://vedetta.org/webcam/italia/lombardia/brescia/tignale-pra-de-la-fam",
+            "id": 25,
+            "location": {
+                "name": "B&B Torre Degli Ulivi",
+                "address": "Via Gardesana Occidentale, Loc. Pra de la Fam, Porto di Tignale",
+                "city": "Tignale",
+                "code": "25080",
+                "province": "BS",
+                "region": "Lombardia",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 45.72782164049831,
+                    "longitude": 10.71979802803581
+                }
+            },
+            "metadata": {
+                "id": 1025,
+                "kind": "webcam",
+                "service": "vedetta",
+                "preferred": false
+            }
+        },
+
+        {   "title": "Liguria - Andora - Tortuga Beach - Vedetta",
+            "url": "https://vedetta.org/webcam/italia/liguria/savona/andora",
+            "id": 26,
+            "location": {
+                "name": "Tortuga Beach",
+                "address": "V. Aurelia, 45",
+                "city": "Marina di Andora",
+                "code": "17051",
+                "province": "SV",
+                "region": "Liguria",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 43.95093559117685,
+                    "longitude": 8.151130724315076
+                }
+            },
+            "metadata": {
+                "id": 1026,
+                "kind": "webcam",
+                "service": "vedetta",
+                "preferred": false
+            }
+        },
+        {   "title": "Liguria - Andora - La Baracca - IpCamLive",
+            "url": "https://www.ipcamlive.com/labaraccaandora",
+            "id": 27,
+            "location": {
+                "name": "La Baracca",
+                "address": "SS 1",
+                "city": "Marina di Andora",
+                "code": "17051",
+                "province": "SV",
+                "region": "Liguria",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 43.94932298801853,
+                    "longitude": 8.146098094841435
+                }
+            },
+            "metadata": {
+                "id": 1027,
+                "kind": "webcam",
+                "preferred": false
+            }
+        },
+        {   "title": "Liguria - Imperia - Bagni Oneglio",
+            "url": "https://bagnioneglio.it/webcam-meteo-imperia",
+            "id": 28,
+            "location": {
+                "name": "Bagni Oneglio",
+                "address": "Via Scarincio, 31",
+                "city": "Imperia",
+                "code": "18100",
+                "province": "IM",
+                "region": "Liguria",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 43.94932298801853,
+                    "longitude": 8.146098094841435
+                }
+            },
+            "metadata": {
+                "id": 1028,
+                "kind": "webcam",
+                "preferred": false
+            }
+        },
+        {   "title": "Liguria - Sottomarina - Centro Astoria",
+            "url": "https://www.centroastoria.it/webcam/",
+            "id": 29,
+            "location": {
+                "name": "Beach Astoria - Bagni Sottomarina",
+                "address": "Lungomare Adriatico, 29",
+                "city": "Chioggia",
+                "code": "30015",
+                "province": "VE",
+                "region": "Veneto",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 45.214796191688976,
+                    "longitude": 12.299571556595692
+                }
+            },
+            "metadata": {
+                "id": 1029,
+                "kind": "webcam",
+                "preferred": false
+            }
+        },
+        {   "title": "Liguria - Sottomarina - Visione Bagni Miki",
+            "url": "https://www.vision-environnement.com/it/webcam/italia/venetie/3953-chioggia",
+            "id": 30,
+            "location": {
+                "name": "Bagni Miki Sottomarina",
+                "address": "Via Sebastiano Venier, 8",
+                "city": "Chioggia",
+                "code": "30015",
+                "province": "VE",
+                "region": "Veneto",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 45.19748308583519,
+                    "longitude": 12.30252558976361
+                }
+            },
+            "metadata": {
+                "id": 1030,
+                "kind": "webcam",
+                "service": "vision_environnement",
+                "preferred": false
+            }
+        },
+        
+        {   "title": "Liguria - Cavi di Lavagna - Vedetta",
+            "url": "https://vedetta.org/webcam/italia/liguria/genova/cavi-di-lavagna",
+            "id": 31,
+            "location": {
+                "name": "La Baracca",
+                "address": "Via Alla Spiaggia, Piazza Nazario Sauro",
+                "city": "Cavi",
+                "code": "16033",
+                "province": "GE",
+                "region": "Liguria",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 44.289997158598496,
+                    "longitude": 9.377928924506982
+                }
+            },
+            "metadata": {
+                "id": 1031,
+                "kind": "webcam",
+                "service": "vedetta",
+                "preferred": false
+            }
+        },
+        {   "title": "Liguria - Savona - Visione Spiaggia di Zinola",
+            "url": "https://www.vision-environnement.com/it/webcam/italia/ligurie/3920-savona",
+            "id": 32,
+            "location": {
+                "name": "Spiaggia di Zinola",
+                "address": "Lungomare dei Ceramisti",
+                "city": "Savona",
+                "code": "17100",
+                "province": "SV",
+                "region": "Liguria",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 44.28195976323415,
+                    "longitude": 8.445978383899291
+                }
+            },
+            "metadata": {
+                "id": 1032,
+                "kind": "webcam",
+                "service": "vision_environnement",
+                "preferred": false
+            }
+        },
+        {   "title": "Liguria - Sori - Vedetta",
+            "url": "https://vedetta.org/webcam/italia/liguria/genova/sori",
+            "id": 33,
+            "location": {
+                "name": "Spiaggia Libera di Sori",
+                "address": "Via Cavour, 1",
+                "city": "Sori",
+                "code": "16031",
+                "province": "GE",
+                "region": "Liguria",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 44.3709635556225,
+                    "longitude": 9.102685754102618
+                }
+            },
+            "metadata": {
+                "id": 1033,
+                "kind": "webcam",
+                "service": "vedetta",
+                "preferred": false
+            }
+        },
+        
+        {   "title": "Francia - Hyères - Visione L’Almanarre (Sito Archeologico d'Olbia)",
+            "url": "https://www.vision-environnement.com/live/player/hyeres30.php",
+            "id": 34,
+            "location": {
+                "name": "L’Almanarre (Olbia)",
+                "address": "Rte du Sel",
+                "city": "Hyères",
+                "code": "83400",
+                "province": "",
+                "region": "",
+                "country": "France",
+                "coordinate": {
+                    "latitude": 43.080171460589845,
+                    "longitude": 6.12307966468899
+                }
+            },
+            "metadata": {
+                "id": 1034,
+                "kind": "webcam",
+                "service": "vision_environnement",
+                "preferred": false
+            }
+        },
+        {   "title": "Francia - Hyères - L’Almanarre - Visione Les Estagnets (La Mandrague)",
+            "url": "https://www.vision-environnement.com/live/player/hyereskite.php",
+            "id": 35,
+            "location": {
+                "name": "Kite Center",
+                "address": "Rte du Sel",
+                "city": "Hyères",
+                "code": "83400",
+                "province": "",
+                "region": "",
+                "country": "France",
+                "coordinate": {
+                    "latitude": 43.05508375427677,
+                    "longitude": 6.133172008285075
+                }
+            },
+            "metadata": {
+                "id": 1035,
+                "kind": "webcam",
+                "service": "vision_environnement",
+                "preferred": false
+            }
+        },
+        {   "title": "Francia - Hyères - Visione Plage de l'Ayguade (La Bergerie)",
+            "url": "https://www.vision-environnement.com/live/player/hyeres20.php",
+            "id": 36,
+            "location": {
+                "name": "Hyères Ayguade",
+                "address": "Plage de l'Ayguade, Bd des Girelles",
+                "city": "Hyères",
+                "code": "83400",
+                "province": "",
+                "region": "",
+                "country": "France",
+                "coordinate": {
+                    "latitude": 43.103240594215634,
+                    "longitude": 6.175756311706254
+                }
+            },
+            "metadata": {
+                "id": 1036,
+                "kind": "webcam",
+                "service": "vision_environnement",
+                "preferred": false
+            }
+        },
+        
+        {   "title": "Lanzarote - Famara",
+            "url": "https://www.redstarsurf.com/famara-live-web-cam",
+            "id": 37,
+            "location": {
+                "name": "Red Star Surf School Lanzarote",
+                "address": "Avenida el Marinero 9",
+                "city": "Caleta de Famara",
+                "code": "35558",
+                "province": "Las Palmas",
+                "region": "Canary Islands",
+                "country": "Spain",
+                "coordinate": {
+                    "latitude": 29.117046007543074,
+                    "longitude": -13.564345340161154
+                }
+            },
+            "metadata": {
+                "id": 1037,
+                "kind": "webcam",
+                "preferred": false
+            }
+        }
+    ],
+    
+    "forecasts": [
+        
+        {   "title": "Sardegna - Porto Pollo - Windguru",
+            "url": "https://www.windguru.cz/278",
+            "id": 1,
+            "location": {
+                "name": "Porto Pollo",
+                "address": "Via per campeggio (fine)",
+                "city": "Palau",
+                "code": "07020",
+                "province": "OT",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 41.19428722195336,
+                    "longitude": 9.318804374708689
+                }
+            },
+            "metadata": {
+                "id": 2001,
+                "kind": "forecast",
+                "service": "windguru",
+                "preferred": false
+            }
+        },
+        {   "title": "Sardegna - Porto Pollo - Windfinder Widget",
+            "url": "https://www.windfinder.com/widget/forecast/sardinia_porto_pollo?unit_wind=kts&unit_temperature=c&unit_wave=m&unit_rain=mm&unit_pressure=hPa&days=10&show_day=0&show_waves=0&domain=www.windfinder.com",
+            "id": 2,
+            "location": {
+                "name": "Porto Pollo",
+                "address": "Via per campeggio (fine)",
+                "city": "Palau",
+                "code": "07020",
+                "province": "OT",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 41.193898672712784,
+                    "longitude": 9.31822504812664
+                }
+            },
+            "metadata": {
+                "id": 2002,
+                "kind": "forecast",
+                "service": "windfinder",
+                "preferred": false
+            }
+        },
+        {   "title": "Sardegna - Porto Pollo - Windy",
+            "url": "https://www.windy.com/41.204/9.313/arome?arome,gust,41.135,9.313,11,p:wind",
+            "id": 3,
+            "location": {
+                "name": "Porto Pollo",
+                "address": "Via per campeggio",
+                "city": "Palau",
+                "code": "07020",
+                "province": "OT",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 41.20411534378623,
+                    "longitude": 9.313144875776702
+                }
+            },
+            "metadata": {
+                "id": 2003,
+                "kind": "forecast",
+                "service": "windycom",
+                "preferred": false
+            }
+        },
+        
+        {   "title": "Sardegna - Vignola - Windguru",
+            "url": "https://www.windguru.cz/49166",
+            "id": 4,
+            "location": {
+                "name": "Vignola",
+                "address": "Lungomare",
+                "city": "Vignola Mare",
+                "code": "07020",
+                "province": "OT",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 41.128322720557534,
+                    "longitude": 9.06986398439316
+                }
+            },
+            "metadata": {
+                "id": 2004,
+                "kind": "forecast",
+                "service": "windguru",
+                "preferred": false
+            }
+        },
+        {   "title": "Sardegna - San Teodoro (La Cinta) - Windguru",
+            "url": "https://www.windguru.cz/49159",
+            "id": 5,
+            "location": {
+                "name": "La Cinta San Teodoro",
+                "address": "Via del Pettirosso",
+                "city": "San Teodoro",
+                "code": "07052",
+                "province": "OT",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 40.78532637177804,
+                    "longitude": 9.670685370419665
+                }
+            },
+            "metadata": {
+                "id": 2005,
+                "kind": "forecast",
+                "service": "windguru",
+                "preferred": false
+            }
+        },
+        {   "title": "Sardegna - Marina delle Rose - Windguru",
+            "url": "https://www.windguru.cz/49165",
+            "id": 6,
+            "location": {
+                "name": "Spiaggia Lu Litarroni",
+                "address": "Strada Provinciale 90",
+                "city": "Aglientu",
+                "code": "07020",
+                "province": "OT",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 41.1345323603404,
+                    "longitude": 9.109464026856497
+                }
+            },
+            "metadata": {
+                "id": 2006,
+                "kind": "forecast",
+                "service": "windguru",
+                "preferred": false
+            }
+        },
+        {   "title": "Sardegna - Capo D'Orso - EasyWeather",
+            "url": "https://www.ecowitt.net/home/share?authorize=T58U8B&device_id=RWJRVXA1bnM2YkNtMEJDTjBkaW9HZz09",
+            "id": 7,
+            "location": {
+                "name": "Silvestri Surf School",
+                "address": "Via Villaggio degli Svedesi, 1",
+                "city": "Palau",
+                "code": "07020",
+                "province": "OT",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 41.16035207547856,
+                    "longitude": 9.407820008187475
+                }
+            },
+            "metadata": {
+                "id": 2007,
+                "kind": "forecast",
+                "preferred": false
+            }
+        },
+        {   "title": "Sardegna - Capo D'Orso Caprera Sud - Windguru",
+            "url": "https://www.windguru.cz/145532",
+            "id": 8,
+            "location": {
+                "name": "Capo D'Orso",
+                "address": "Capo D'Orso",
+                "city": "Palau",
+                "code": "07020",
+                "province": "OT",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 41.176126386745125,
+                    "longitude": 9.433210555099759
+                }
+            },
+            "metadata": {
+                "id": 2008,
+                "kind": "forecast",
+                "service": "windguru",
+                "preferred": false
+            }
+        },
+        {   "title": "Sardegna - Olbia - Marina Maria - Windfinder",
+            "url": "https://it.windfinder.com/weatherforecast/marina_maria",
+            "id": 9,
+            "location": {
+                "name": "Marina Maria Beach",
+                "address": "Spiaggia Marina Maria",
+                "city": "Murta Maria",
+                "code": "07026",
+                "province": "OT",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 40.90103129534896,
+                    "longitude": 9.582277509813178
+                }
+            },
+            "metadata": {
+                "id": 2009,
+                "kind": "forecast",
+                "service": "windfinder",
+                "preferred": false
+            }
+        },
+        {   "title": "Sardegna - Olbia - Marina Maria - Windguru",
+            "url": "https://www.windguru.cz/151128",
+            "id": 10,
+            "location": {
+                "name": "Marina Maria Beach",
+                "address": "Spiaggia Marina Maria",
+                "city": "Murta Maria",
+                "code": "07026",
+                "province": "OT",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 40.89943371966967,
+                    "longitude": 9.588510949169319
+                }
+            },
+            "metadata": {
+                "id": 2010,
+                "kind": "forecast",
+                "service": "windguru",
+                "preferred": false
+            }
+        },
+        
+        {   "title": "Como Lake - BrevaGuru",
+            "url": "https://brevaguru.com/it/comolake_winds_forecasts/map",
+            "id": 11,
+            "location": {
+                "name": "BrevaGuru",
+                "address": "",
+                "city": "",
+                "code": "",
+                "province": "LC",
+                "region": "Lombardia",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 45.99024571868586,
+                    "longitude": 9.266863408673467
+                }
+            },
+            "metadata": {
+                "id": 2011,
+                "kind": "forecast",
+                "preferred": false
+            }
+        },
+        {   "title": "Como Lake - Colico - Windguru",
+            "url": "https://www.windguru.cz/766",
+            "id": 12,
+            "location": {
+                "name": "Spiaggia Ontano",
+                "address": "Via Montecchio Nord, 25",
+                "city": "Colico",
+                "code": "23823",
+                "province": "LC",
+                "region": "Lombardia",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 46.14251417342196,
+                    "longitude": 9.373421167740146
+                }
+            },
+            "metadata": {
+                "id": 2012,
+                "kind": "forecast",
+                "service": "windguru",
+                "preferred": false
+            }
+        },
+        {   "title": "Como Lake - Colico - Windfinder",
+            "url": "https://www.windfinder.com/forecast/lake_como_colico",
+            "id": 13,
+            "location": {
+                "name": "Spiaggia Ontano",
+                "address": "Via Montecchio Nord, 25",
+                "city": "Colico",
+                "code": "23823",
+                "province": "LC",
+                "region": "Lombardia",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 46.14260341747373,
+                    "longitude": 9.37410812306204
+                }
+            },
+            "metadata": {
+                "id": 2013,
+                "kind": "forecast",
+                "service": "windfinder",
+                "preferred": false
+            }
+        },
+        {   "title": "Como Lake - Gera Lario (La Punta) - Windguru",
+            "url": "https://www.windguru.cz/142053",
+            "id": 14,
+            "location": {
+                "name": "Gera Lario (La Punta)",
+                "address": "Via la Punta",
+                "city": "La Punta",
+                "code": "22010",
+                "province": "CO",
+                "region": "Lombardia",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 46.163038240206255,
+                    "longitude": 9.38016031866073
+                }
+            },
+            "metadata": {
+                "id": 2014,
+                "kind": "forecast",
+                "service": "windguru",
+                "preferred": false
+            }
+        },
+        {   "title": "Como Lake - Gera Lario (La Punta) - WeatherCloud",
+            "url": "https://app.weathercloud.net/map#9563786835",
+            "id": 15,
+            "location": {
+                "name": "Casa privata di Anna",
+                "address": "Via la Punta, 2",
+                "city": "La Punta",
+                "code": "22010",
+                "province": "CO",
+                "region": "Lombardia",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 46.16749100999076,
+                    "longitude": 9.379171269655393
+                }
+            },
+            "metadata": {
+                "id": 2015,
+                "kind": "forecast",
+                "preferred": false
+            }
+        },
+        {   "title": "Como Lake - Gera Lario - Windfinder Superforecast",
+            "url": "https://it.windfinder.com/weatherforecast/lake_como_gera_lario",
+            "id": 16,
+            "location": {
+                "name": "Spiaggetta Al Pontile",
+                "address": "",
+                "city": "Gera Lario",
+                "code": "22010",
+                "province": "CO",
+                "region": "Lombardia",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 46.16796391324408,
+                    "longitude": 9.367587573060787
+                }
+            },
+            "metadata": {
+                "id": 2016,
+                "kind": "forecast",
+                "service": "windfinder",
+                "preferred": false
+            }
+        },
+        {   "title": "Como Lake - Gera Lario - Windy",
+            "url": "https://www.windy.com/46.167/9.374/arome?arome,gust,46.049,9.374,10,p:wind",
+            "id": 17,
+            "location": {
+                "name": "Windy Gera Lario",
+                "address": "",
+                "city": "Gera Lario",
+                "code": "22010",
+                "province": "CO",
+                "region": "Lombardia",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 46.1671411475557,
+                    "longitude": 9.374032182240285
+                }
+            },
+            "metadata": {
+                "id": 2017,
+                "kind": "forecast",
+                "service": "windycom",
+                "preferred": false
+            }
+        },
+        {   "title": "Como Lake - Gera Lario - Meteo Aereonatica Militare",
+            "url": "https://www.meteoam.it/it/meteo-citta/gera-lario",
+            "id": 18,
+            "location": {
+                "name": "Meteo Aereonatica Militare",
+                "address": "",
+                "city": "Gera Lario",
+                "code": "22010",
+                "province": "CO",
+                "region": "Lombardia",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 46.169014,
+                    "longitude": 9.371487
+                }
+            },
+            "metadata": {
+                "id": 2018,
+                "kind": "forecast",
+                "service": "meteoam",
+                "preferred": false
+            }
+        },
+        {   "title": "Como Lake - Gera Lario - CML - Tabo Surf",
+            "url": "http://www.centrometeolombardo.com/moduli/stazioni.php?geralario",
+            "id": 19,
+            "location": {
+                "name": "Tabo Surf",
+                "address": "Via Prato del Vento, 6",
+                "city": "Gera Lario",
+                "code": "22010",
+                "province": "CO",
+                "region": "Lombardia",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 46.168565377186056,
+                    "longitude": 9.373702743095665
+                }
+            },
+            "metadata": {
+                "id": 2019,
+                "kind": "forecast",
+                "service": "centrometeolombardo",
+                "preferred": false
+            }
+        },
+        {   "title": "Como Lake - Dervio - Windguru",
+            "url": "https://www.windguru.cz/186114",
+            "id": 20,
+            "location": {
+                "name": "Bar Il Pontile",
+                "address": "Via alla Darsena, 16",
+                "city": "Dervio",
+                "code": "23824",
+                "province": "LC",
+                "region": "Lombardia",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 46.075970334679525,
+                    "longitude": 9.298174484695197
+                }
+            },
+            "metadata": {
+                "id": 2020,
+                "kind": "forecast",
+                "service": "windguru",
+                "preferred": false
+            }
+        },
+        {   "title": "Como Lake - Dervio - Windfinder Superforecast",
+            "url": "https://it.windfinder.com/weatherforecast/dervio_lake_como",
+            "id": 21,
+            "location": {
+                "name": "Bar Il Pontile",
+                "address": "Via alla Darsena, 16",
+                "city": "Dervio",
+                "code": "23824",
+                "province": "LC",
+                "region": "Lombardia",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 46.076080922551135,
+                    "longitude": 9.298237206012024
+                }
+            },
+            "metadata": {
+                "id": 2021,
+                "kind": "forecast",
+                "service": "windfinder",
+                "preferred": false
+            }
+        },
+        {   "title": "Como Lake - Dervio - Windfinder Widget",
+            "url": "https://www.windfinder.com/widget/forecast/dervio_lake_como?unit_wind=kts&unit_temperature=c&unit_wave=m&unit_rain=mm&unit_pressure=hPa&days=10&show_day=0&show_waves=0&domain=www.windfinder.com",
+            "id": 22,
+            "location": {
+                "name": "Bar Il Pontile",
+                "address": "Via alla Darsena, 16",
+                "city": "Dervio",
+                "code": "23824",
+                "province": "LC",
+                "region": "Lombardia",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 46.07621326512257,
+                    "longitude": 9.298299927328848
+                }
+            },
+            "metadata": {
+                "id": 2022,
+                "kind": "forecast",
+                "service": "windfinder",
+                "preferred": false
+            }
+        },
+        {   "title": "Como Lake - Dervio - CML - Bar Pontile MeteoLecco.it",
+            "url": "http://www.centrometeolombardo.com/moduli/stazioni.php?dervio",
+            "id": 23,
+            "location": {
+                "name": "Bar Il Pontile",
+                "address": "Via alla Darsena, 16",
+                "city": "Dervio",
+                "code": "23824",
+                "province": "LC",
+                "region": "Lombardia",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 46.07564407452053,
+                    "longitude": 9.297889649085308
+                }
+            },
+            "metadata": {
+                "id": 2023,
+                "kind": "forecast",
+                "service": "centrometeolombardo",
+                "preferred": false
+            }
+        },
+        {   "title": "Como Lake - Dongo - CML - Circolo Velico Marvelia",
+            "url": "http://www.centrometeolombardo.com/moduli/stazioni.php?dongo",
+            "id": 24,
+            "location": {
+                "name": "Circolo Velico Marvelia",
+                "address": "Località Bersaglio",
+                "city": "Dongo",
+                "code": "22014",
+                "province": "CO",
+                "region": "Lombardia",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 46.13470830185372,
+                    "longitude": 9.290748459951637
+                }
+            },
+            "metadata": {
+                "id": 2024,
+                "kind": "forecast",
+                "service": "centrometeolombardo",
+                "preferred": false
+            }
+        },
+        {   "title": "Como Lake - Mandello del Lario - CML - Lega Navale Mandello",
+            "url": "http://www.centrometeolombardo.com/moduli/stazioni.php?mandello",
+            "id": 25,
+            "location": {
+                "name": "Lega Navale Italiana",
+                "address": "Via Pra Magno, 8,   ",
+                "city": "Mandello del Lario",
+                "code": "23826",
+                "province": "LC",
+                "region": "Lombardia",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 45.91229270868366,
+                    "longitude": 9.322702390082902
+                }
+            },
+            "metadata": {
+                "id": 2025,
+                "kind": "forecast",
+                "service": "centrometeolombardo",
+                "preferred": false
+            }
+        },
+        {   "title": "Como Lake - Abbadia Lariana - Windfinder Superforecast",
+            "url": "https://it.windfinder.com/weatherforecast/abbadia-lariana_lago-di-como",
+            "id": 26,
+            "location": {
+                "name": "Parco Ulisse Guzzi",
+                "address": "Piazza della Costituzione Repubblicana, 135",
+                "city": "Abbadia Lariana",
+                "code": "23821",
+                "province": "LC",
+                "region": "Lombardia",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 45.89523215881354,
+                    "longitude": 9.332268921346232
+                }
+            },
+            "metadata": {
+                "id": 2026,
+                "kind": "forecast",
+                "service": "windfinder",
+                "preferred": false
+            }
+        },
+        {   "title": "Como Lake - Abbadia Lariana - Windfinder Widget",
+            "url": "https://www.windfinder.com/widget/forecast/abbadia-lariana_lago-di-como?unit_wind=kts&unit_temperature=c&unit_wave=m&unit_rain=mm&unit_pressure=hPa&days=10&show_day=0&show_waves=0&domain=www.windfinder.com",
+            "id": 27,
+            "location": {
+                "name": "Parco Ulisse Guzzi",
+                "address": "Piazza della Costituzione Repubblicana, 135",
+                "city": "Abbadia Lariana",
+                "code": "23821",
+                "province": "LC",
+                "region": "Lombardia",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 45.89502740786784,
+                    "longitude": 9.332357179382528
+                }
+            },
+            "metadata": {
+                "id": 2027,
+                "kind": "forecast",
+                "service": "windfinder",
+                "preferred": false
+            }
+        },
+        {   "title": "Como Lake - Abbadia Lariana - CML - abbadiameteo.it",
+            "url": "http://www.centrometeolombardo.com/moduli/stazioni.php?abbadia",
+            "id": 28,
+            "location": {
+                "name": "Parco Ulisse Guzzi",
+                "address": "Piazza della Costituzione Repubblicana, 135",
+                "city": "Abbadia Lariana",
+                "code": "23821",
+                "province": "LC",
+                "region": "Lombardia",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 45.894875306676624,
+                    "longitude": 9.332470654000621
+                }
+            },
+            "metadata": {
+                "id": 2028,
+                "kind": "forecast",
+                "service": "centrometeolombardo",
+                "preferred": false
+            }
+        },
+        {   "title": "Como Lake - Valmadrera - Windguru",
+            "url": "https://www.windguru.cz/1585",
+            "id": 29,
+            "location": {
+                "name": "Valmadrera",
+                "address": "Frazione Parè",
+                "city": "Valmadrera",
+                "code": "23868",
+                "province": "LC",
+                "region": "Lombardia",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 45.86406161326966,
+                    "longitude": 9.366167693653678
+                }
+            },
+            "metadata": {
+                "id": 2029,
+                "kind": "forecast",
+                "service": "windguru",
+                "preferred": false
+            }
+        },
+        {   "title": "Como Lake - Valmadrera - Windfinder",
+            "url": "https://it.windfinder.com/weatherforecast/valmadrera_caserta_lombardy_italy",
+            "id": 30,
+            "location": {
+                "name": "Valmadrera",
+                "address": "Frazione Parè",
+                "city": "Valmadrera",
+                "code": "23868",
+                "province": "LC",
+                "region": "Lombardia",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 45.86380086761848,
+                    "longitude": 9.366267378531939
+                }
+            },
+            "metadata": {
+                "id": 2030,
+                "kind": "forecast",
+                "service": "windfinder",
+                "preferred": false
+            }
+        },
+        
+        
+        {   "title": "Garda Lake - Conca d'Oro - Windguru",
+            "url": "https://www.windguru.cz/49193",
+            "id": 31,
+            "location": {
+                "name": "Duotone Pro Center",
+                "address": "Via Lungolago Conca d'Oro, 12",
+                "city": "Torbole sul Garda",
+                "code": "38069",
+                "province": "TN",
+                "region": "Veneto",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 45.86251431103399,
+                    "longitude": 10.87523874689688
+                }
+            },
+            "metadata": {
+                "id": 2031,
+                "kind": "forecast",
+                "service": "windguru",
+                "preferred": false
+            }
+        },
+        {   "title": "Garda Lake - Conca d'Oro - Windfinder Superforecast",
+            "url": "https://it.windfinder.com/weatherforecast/lake_garda_conca_d_oro_torbole",
+            "id": 32,
+            "location": {
+                "name": "Duotone Pro Center",
+                "address": "Via Lungolago Conca d'Oro, 12",
+                "city": "Torbole sul Garda",
+                "code": "38069",
+                "province": "TN",
+                "region": "Veneto",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 45.862295920416585,
+                    "longitude": 10.875032289173552
+                }
+            },
+            "metadata": {
+                "id": 2032,
+                "kind": "forecast",
+                "service": "windfinder",
+                "preferred": false
+            }
+        },
+        {   "title": "Garda Lake - Conca d'Oro - Windfinder Widget",
+            "url": "https://www.windfinder.com/widget/forecast/lake_garda_conca_d_oro_torbole?unit_wind=kts&unit_temperature=c&unit_wave=m&unit_rain=mm&unit_pressure=hPa&days=10&show_day=0&show_waves=0&domain=www.windfinder.com",
+            "id": 33,
+            "location": {
+                "name": "Duotone Pro Center",
+                "address": "Via Lungolago Conca d'Oro, 12",
+                "city": "Torbole sul Garda",
+                "code": "38069",
+                "province": "TN",
+                "region": "Veneto",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 45.86199381198168,
+                    "longitude": 10.875168185396502
+                }
+            },
+            "metadata": {
+                "id": 2033,
+                "kind": "forecast",
+                "service": "windfinder",
+                "preferred": false
+            }
+        },
+        
+        
+        {   "title": "Liguria - Albenga - Windguru",
+            "url": "https://www.windguru.cz/48983",
+            "id": 34,
+            "location": {
+                "name": "Albenga",
+                "address": "Lungomare Cristoforo Colombo, 24",
+                "city": "Albenga",
+                "code": "17031",
+                "province": "SV",
+                "region": "Liguria",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 44.04353594273485,
+                    "longitude": 8.225126281848155
+                }
+            },
+            "metadata": {
+                "id": 2034,
+                "kind": "forecast",
+                "service": "windguru",
+                "preferred": false
+            }
+        },
+        
+        
+        {   "title": "Paros - Tsoukalia - Windfinder Superforecast",
+            "url": "https://www.windfinder.com/weatherforecast/tsoukalia",
+            "id": 35,
+            "location": {
+                "name": "Tsoukalia Beach",
+                "address": "",
+                "city": "Tsoukalia",
+                "code": "84400",
+                "province": "",
+                "region": "Paros Island",
+                "country": "Greece",
+                "coordinate": {
+                    "latitude": 37.0738516118003,
+                    "longitude": 25.258854245709752
+                }
+            },
+            "metadata": {
+                "id": 2035,
+                "kind": "forecast",
+                "service": "windfinder",
+                "preferred": false
+            }
+        },
+        {   "title": "Paros - New Golden Beach - Windfinder Superforecast",
+            "url": "https://www.windfinder.com/weatherforecast/paros_new_golden_beach",
+            "id": 36,
+            "location": {
+                "name": "New Golden Beach",
+                "address": "",
+                "city": "Marpissa",
+                "code": "84400",
+                "province": "",
+                "region": "Paros Island",
+                "country": "Greece",
+                "coordinate": {
+                    "latitude": 37.014986236994666,
+                    "longitude": 25.249581523758504
+                }
+            },
+            "metadata": {
+                "id": 2036,
+                "kind": "forecast",
+                "service": "windfinder",
+                "preferred": false
+            }
+        },
+        {   "title": "Hyeres - L'Almanarre - Windguru",
+            "url": "https://www.windguru.cz/501010",
+            "id": 37,
+            "location": {
+                "name": "Spiaggia L'Almanarre",
+                "address": "",
+                "city": "Hyeres",
+                "code": "",
+                "province": "",
+                "region": "",
+                "country": "France",
+                "coordinate": {
+                    "latitude": 43.078788673320254,
+                    "longitude": 6.125307212855503
+                }
+            },
+            "metadata": {
+                "id": 2037,
+                "kind": "forecast",
+                "service": "windguru",
+                "preferred": false
+            }
+        },
+        {   "title": "Hyeres - La Mandrague - Windguru",
+            "url": "https://www.windguru.cz/48627",
+            "id": 38,
+            "location": {
+                "name": "Spiaggia La Mandrague",
+                "address": "",
+                "city": "Hyeres",
+                "code": "",
+                "province": "",
+                "region": "",
+                "country": "France",
+                "coordinate": {
+                    "latitude": 43.04929435639388,
+                    "longitude": 6.132101738516118
+                }
+            },
+            "metadata": {
+                "id": 2038,
+                "kind": "forecast",
+                "service": "windguru",
+                "preferred": false
+            }
+        }
+    ],
+    
+    "other": [
+        {   "title": "Windguru Forecasts",
+            "url": "https://www.windguru.cz",
+            "id": 1,
+            "metadata": {
+                "id": 3001,
+                "kind": "other",
+                "preferred": false
+            }
+        },
+        {   "title": "CML",
+            "url": "http://www.centrometeolombardo.com",
+            "id": 2,
+            "metadata": {
+                "id": 3002,
+                "kind": "other",
+                "service": "windguru",
+                "preferred": false
+            }
+        },
+        {   "title": "Meteo Aereonatica Militare",
+            "url": "https://www.meteoam.it/it/home",
+            "id": 3,
+            "metadata": {
+                "id": 3003,
+                "kind": "other",
+                "service": "centrometeolombardo",
+                "preferred": false
+            }
+        },
+        {   "title": "PraDeLaFam",
+            "url": "https://www.pradelafam.net",
+            "id": 4,
+            "metadata": {
+                "id": 3004,
+                "kind": "other",
+                "preferred": false
+            }
+        },
+        {   "title": "Windsurf Club Valmadrera",
+            "url": "https://wcv.it",
+            "id": 5,
+            "location": {
+                "name": "WCV",
+                "address": "Frazione Parè, 87",
+                "city": "Valmadrera",
+                "code": "23868",
+                "province": "LC",
+                "region": "Lombardia",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 45.8635483052599,
+                    "longitude": 9.365769557731724
+                }
+            },
+            "metadata": {
+                "id": 3005,
+                "kind": "other",
+                "preferred": false
+            }
+        },
+        {   "title": "Sardegna - Panoramicams Spiagge",
+            "url": "https://panoramicams.com/category/spiagge",
+            "id": 6,
+            "location": {
+                "name": "Spiagge Sardegna",
+                "address": "",
+                "city": "",
+                "code": "",
+                "province": "",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 41.190583516649504,
+                    "longitude": 9.310005761387922
+                }
+            },
+            "metadata": {
+                "id": 3006,
+                "kind": "other",
+                "service": "panoramicams",
+                "preferred": false
+            }
+        },
+        {   "title": "Sardegna - Panoramicams Spot",
+            "url": "https://panoramicams.com/surf-spot-sardegna",
+            "id": 7,
+            "location": {
+                "name": "Spot Sardegna",
+                "address": "",
+                "city": "",
+                "code": "",
+                "province": "",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 41.19171429777365,
+                    "longitude": 9.315793807891074
+                }
+            },
+            "metadata": {
+                "id": 3007,
+                "kind": "other",
+                "service": "panoramicams",
+                "preferred": false
+            }
+        },
+        {   "title": "Sardegna - Webcam Galore",
+            "url": "https://www.webcamgalore.com/Italy/Sardinia/statecam-0.html",
+            "id": 8,
+            "location": {
+                "name": "Sardegna",
+                "address": "",
+                "city": "",
+                "code": "",
+                "province": "",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 41.19472082918228,
+                    "longitude": 9.022297084425142
+                }
+            },
+            "metadata": {
+                "id": 3008,
+                "kind": "other",
+                "service": "whatsupcams",
+                "preferred": false
+            }
+        },
+        
+        
+        {   "title": "Sardegna - Lamma (HR)",
+            "url": "https://www.lamma.toscana.it/mare/modelli/vento-e-mare-hr?area=F",
+            "id": 9,
+            "location": {
+                "name": "Stretto di Bonifacio",
+                "address": "",
+                "city": "",
+                "code": "",
+                "province": "",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 41.28803783515687,
+                    "longitude": 9.236186932887637
+                }
+            },
+            "metadata": {
+                "id": 3009,
+                "kind": "other",
+                "service": "lamma",
+                "preferred": false
+            }
+        },
+        {   "title": "Sardegna - Bonifacio - Lamma Widget",
+            "url": "https://www.lamma.toscana.it/previ/ita/widget_mare_500.php?area=B&width=500&height=480&frameBorder=0&scrolling=no",
+            "id": 10,
+            "location": {
+                "name": "Vento e Mare Sardegna",
+                "address": "",
+                "city": "",
+                "code": "",
+                "province": "",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 41.190501316805545,
+                    "longitude": 9.306714967209583
+                }
+            },
+            "metadata": {
+                "id": 3010,
+                "kind": "other",
+                "service": "lamma",
+                "preferred": false
+            }
+        },
+        {   "title": "Sardegna - Bonifacio - Lamma Widget",
+            "url": "https://it.windfinder.com/webcams/sardinia_porto_pollo",
+            "id": 11,
+            "location": {
+                "name": "Sardegna",
+                "address": "",
+                "city": "",
+                "code": "",
+                "province": "",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 41.20882807766811,
+                    "longitude": 9.31917997532136
+                }
+            },
+            "metadata": {
+                "id": 3011,
+                "kind": "other",
+                "service": "lamma",
+                "preferred": false
+            }
+        },
+        
+        {   "title": "MeteoSwiss Raffiche Vento",
+            "url": "https://www.meteosvizzera.admin.ch/servizi-e-pubblicazioni/applicazioni/vento.html#tab=animation-wind-gusts",
+            "id": 12,
+            "location": {
+                "name": "MeteoSvizzera",
+                "address": "Via ai Monti 146",
+                "city": "Locarno-Monti",
+                "code": "6605",
+                "province": "CH",
+                "region": "Svizzera Italiana",
+                "country": "Swizerland",
+                "coordinate": {
+                    "latitude": 46.173196198572384,
+                    "longitude": 8.787615889426508
+                }
+            },
+            "metadata": {
+                "id": 3012,
+                "kind": "other",
+                "service": "meteoswiss",
+                "preferred": false
+            }
+        },
+        {   "title": "SurfDose",
+            "url": "https://www.surfdose.com",
+            "id": 13,
+            "metadata": {
+                "id": 3013,
+                "kind": "other",
+                "preferred": false
+            }
+        },
+
+        {   "title": "Francia - Hyeres Almanarre, Hyeres Ayguade - ProvenceMed Webcams",
+            "url": "https://www.provencemed.com/it/webcam/",
+            "id": 14,
+            "metadata": {
+                "id": 3014,
+                "kind": "other",
+                "preferred": false
+            }
+        },
+        {   "title": "Vision Environment",
+            "url": "https://www.vision-environnement.com/webcams/italia",
+            "id": 15,
+            "metadata": {
+                "id": 3015,
+                "kind": "other",
+                "service": "vision_environnement",
+                "preferred": false
+            }
+        },
+        
+        {   "title": "SpotFav Webcams",
+            "url": "https://www.spotfav.com/dashboard/home",
+            "id": 16,
+            "metadata": {
+                "id": 3016,
+                "kind": "other",
+                "preferred": false
+            }
+        }
+    ]
+}
