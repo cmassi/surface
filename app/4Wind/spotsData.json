@@ -1368,7 +1368,7 @@
             "url": "https://www.windy.com/46.167/9.374/arome?arome,gust,46.049,9.374,10,p:wind",
             "id": 23,
             "location": {
-                "name": "Windy Gera Lario",
+                "name": "Gera Lario",
                 "address": "",
                 "city": "Gera Lario",
                 "code": "22010",
@@ -1391,7 +1391,7 @@
             "url": "https://windy.app/forecast2/spot/418/Gera+Lario",
             "id": 24,
             "location": {
-                "name": "Windy Gera Lario",
+                "name": "Gera Lario",
                 "address": "",
                 "city": "Gera Lario",
                 "code": "22010",
@@ -1399,8 +1399,8 @@
                 "region": "Lombardia",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 46.16709522568314,
-                    "longitude": 9.373714858967583
+                    "latitude": 46.167228916987256,
+                    "longitude": 9.37212702954107
                 }
             },
             "metadata": {
@@ -1721,8 +1721,8 @@
                 "region": "Lombardia",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 45.86029982829358,
-                    "longitude": 9.369210858198885
+                    "latitude": 45.86395352943211,
+                    "longitude": 9.367011816597916
                 }
             },
             "metadata": {
@@ -1978,8 +1978,8 @@
                 "region": "Isola di Leucade",
                 "country": "Greece",
                 "coordinate": {
-                    "latitude": 38.631792000792466,
-                    "longitude": 20.59657495429623
+                    "latitude": 38.84035513479998,
+                    "longitude": 20.681329592340223
                 }
             },
             "metadata": {
