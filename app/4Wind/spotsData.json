@@ -2368,6 +2368,22 @@
            ]
         },
         {
+          "name": "lamma",
+          "links": [
+            { "type": "schema", "url": "lammaMeteo://" },
+            { "type": "bundle", "url": "com.opnlb.lammaMeteo://" },
+            { "type": "store", "url": "https://apps.apple.com/it/app/lamma-meteo/id577015452" }
+           ]
+        },
+        {
+          "name": "meteoam",
+          "links": [
+            { "type": "schema", "url": "meteoam://" },
+            { "type": "bundle", "url": "it.meteoam.app://" },
+            { "type": "store", "url": "https://apps.apple.com/it/app/meteo-aeronautica/id956516781" }
+           ]
+        },
+        {
           "name": "waterspeed",
           "links": [
             { "type": "schema", "url": "fb1846752685339991://" },
