@@ -2332,7 +2332,7 @@
             "links": [
               { "type": "schema", "url": "meteoswiss://" },
               { "type": "bundle", "url": "ch.admin.meteoswiss://" },
-              { "type": "store", "url": "https://apps.apple.com/ch/app/meteoswiss/id589772015" },
+              { "type": "store", "url": "https://apps.apple.com/ch/app/meteoswiss/id589772015" }
              ]
         },
         {
@@ -2340,7 +2340,7 @@
           "links": [
             { "type": "schema", "url": "com.googleusercontent.apps.1022312684287-g5shnvtnkathd4au8ggkbvo095c83trl://" },
             { "type": "bundle", "url": "net.windfinder.windfinderapp://" },
-            { "type": "store", "url": "https://apps.apple.com/it/app/windfinder-vento-e-meteo/id336829635" },
+            { "type": "store", "url": "https://apps.apple.com/it/app/windfinder-vento-e-meteo/id336829635" }
           ]
         },
         {
@@ -2348,7 +2348,7 @@
           "links": [
             { "type": "schema", "url": "windyapp://" },
             { "type": "bundle", "url": "co.windyapp.Windy://" },
-            { "type": "store", "url": "https://apps.apple.com/it/app/windy-meteo-vento-onde-mare/id997079492" },
+            { "type": "store", "url": "https://apps.apple.com/it/app/windy-meteo-vento-onde-mare/id997079492" }
            ]
         },
         {
@@ -2356,7 +2356,7 @@
           "links": [
             { "type": "schema", "url": "fb2641327169499829://" },
             { "type": "bundle", "url": "com.windytv.ios://" },
-            { "type": "store", "url": "https://apps.apple.com/it/app/windy-com-meteo-radar-mare/id1161387262" },
+            { "type": "store", "url": "https://apps.apple.com/it/app/windy-com-meteo-radar-mare/id1161387262" }
            ]
         },
         {
@@ -2364,7 +2364,7 @@
           "links": [
             { "type": "schema", "url": "meteobluet://" },
             { "type": "bundle", "url": "com.meteoblue.meteoblue-weather://" },
-            { "type": "store", "url": "https://apps.apple.com/it/app/meteoblue-meteo-mappe/id994459137" },
+            { "type": "store", "url": "https://apps.apple.com/it/app/meteoblue-meteo-mappe/id994459137" }
            ]
         },
         {
@@ -2372,7 +2372,7 @@
           "links": [
             { "type": "schema", "url": "fb1846752685339991://" },
             { "type": "bundle", "url": "TNT.Waterspeed://" },
-            { "type": "store", "url": "https://apps.apple.com/it/app/waterspeed-per-sport-acquatici/id1234093389" },
+            { "type": "store", "url": "https://apps.apple.com/it/app/waterspeed-per-sport-acquatici/id1234093389" }
            ]
         }
     ]
