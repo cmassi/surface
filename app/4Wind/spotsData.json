@@ -1657,6 +1657,28 @@
                 "preferred": false
             }
         },
+        {   "title": "Como Lake - Valmadrera - NotiWind",
+            "url": "https://www.notiwind.com",
+            "id": 2053,
+            "location": {
+                "name": "Valmadrera",
+                "address": "Frazione Parè",
+                "city": "Valmadrera",
+                "code": "23868",
+                "province": "LC",
+                "region": "Lombardia",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 45.86341946901322,
+                    "longitude": 9.367748078132667
+                }
+            },
+            "metadata": {
+                "kind": "forecast",
+                "service": "notiwind",
+                "preferred": false
+            }
+        },
         
         {   "title": "Garda Lake - Conca d'Oro - Windguru",
             "url": "https://www.windguru.cz/49193",
@@ -1903,6 +1925,28 @@
                 "preferred": false
             }
         },
+        {   "title": "Greece - Lefkada - Agios Ioannis - WindyCom",
+            "url": "https://www.windy.com/38.842/20.682/arome?arome,gust,38.842,20.682,10,p:wind",
+            "id": 2054,
+            "location": {
+                "name": "Agios Ioannis",
+                "address": "",
+                "city": "",
+                "code": "",
+                "province": "",
+                "region": "Isola di Leucade",
+                "country": "Greece",
+                "coordinate": {
+                    "latitude": 38.84196788729689,
+                    "longitude": 20.68230592093344
+                }
+            },
+            "metadata": {
+                "kind": "forecast",
+                "service": "windycom",
+                "preferred": false
+            }
+        },
         {   "title": "Greece - Lefkada - Vasiliki - WindyApp",
             "url": "https://windy.app/forecast2/spot/415539",
             "id": 2050,
@@ -1922,6 +1966,28 @@
             "metadata": {
                 "kind": "forecast",
                 "service": "windyapp",
+                "preferred": false
+            }
+        },
+        {   "title": "Greece - Lefkada - Vasiliki - WindyCom",
+            "url": "https://www.windy.com/38.631/20.600/arome?arome,gust,38.631,20.600,10,p:wind",
+            "id": 2055,
+            "location": {
+                "name": "Vasiliki",
+                "address": "",
+                "city": "",
+                "code": "",
+                "province": "",
+                "region": "Isola di Leucade",
+                "country": "Greece",
+                "coordinate": {
+                    "latitude": 38.63092422639092,
+                    "longitude": 20.600248744941872
+                }
+            },
+            "metadata": {
+                "kind": "forecast",
+                "service": "windycom",
                 "preferred": false
             }
         },
@@ -2193,10 +2259,10 @@
                 "preferred": false
             }
         },
-
+        
         {   "title": "Francia - Hyeres Almanarre, Hyeres Ayguade - ProvenceMed Webcams",
             "url": "https://www.provencemed.com/it/webcam/",
-            "id": 3014,
+            "id": 3015,
             "metadata": {
                 "kind": "other",
                 "preferred": false
@@ -2204,7 +2270,7 @@
         },
         {   "title": "Vision Environment",
             "url": "https://www.vision-environnement.com/webcams/italia",
-            "id": 3015,
+            "id": 3016,
             "metadata": {
                 "kind": "other",
                 "service": "vision_environnement",
@@ -2214,7 +2280,7 @@
         
         {   "title": "SpotFav Webcams",
             "url": "https://www.spotfav.com/dashboard/home",
-            "id": 3016,
+            "id": 3017,
             "metadata": {
                 "kind": "other",
                 "preferred": false
@@ -2252,7 +2318,7 @@
             { "type": "store", "url": "https://apps.apple.com/it/app/meteoblue-meteo-mappe/id994459137" }
            ]
         },
-        {   "name": "meteoswiss",
+        { "name": "meteoswiss",
             "links": [
               { "type": "schema", "url": "meteoswiss://" },
               { "type": "bundle", "url": "ch.admin.meteoswiss://" },
@@ -2320,6 +2386,14 @@
             { "type": "schema", "url": "fb1846752685339991://" },
             { "type": "bundle", "url": "TNT.Waterspeed://" },
             { "type": "store", "url": "https://apps.apple.com/it/app/waterspeed-per-sport-acquatici/id1234093389" }
+           ]
+        },
+        {
+          "name": "notiwind",
+          "links": [
+            { "type": "home", "url": "https://www.notiwind.com" },
+            { "type": "bundle", "url": "com.surfdose.notiwind://" },
+            { "type": "store", "url": "https://apps.apple.com/it/app/notiwind/id1286549186" }
            ]
         }
     ]
