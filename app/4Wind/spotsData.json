@@ -8,7 +8,7 @@
                 "address": "Via per campeggio (fine)",
                 "city": "Palau",
                 "code": "07020",
-                "province": "OT",
+                "province": "SS",
                 "region": "Sardegna",
                 "country": "Italy",
                 "coordinate": {
@@ -30,7 +30,7 @@
                 "address": "Via per campeggio",
                 "city": "Palau",
                 "code": "07020",
-                "province": "OT",
+                "province": "SS",
                 "region": "Sardegna",
                 "country": "Italy",
                 "coordinate": {
@@ -52,7 +52,7 @@
                 "address": "Via per campeggio",
                 "city": "Palau",
                 "code": "07020",
-                "province": "OT",
+                "province": "SS",
                 "region": "Sardegna",
                 "country": "Italy",
                 "coordinate": {
@@ -74,7 +74,7 @@
                 "address": "Località Porto Pollo, 1",
                 "city": "Palau",
                 "code": "07020",
-                "province": "OT",
+                "province": "SS",
                 "region": "Sardegna",
                 "country": "Italy",
                 "coordinate": {
@@ -96,7 +96,7 @@
                 "address": "Via per campeggio",
                 "city": "Palau",
                 "code": "07020",
-                "province": "OT",
+                "province": "SS",
                 "region": "Sardegna",
                 "country": "Italy",
                 "coordinate": {
@@ -118,7 +118,7 @@
                 "address": "Via Tramontana, 10",
                 "city": "Pittulongu",
                 "code": "07026",
-                "province": "OT",
+                "province": "SS",
                 "region": "Sardegna",
                 "country": "Italy",
                 "coordinate": {
@@ -141,7 +141,7 @@
                 "address": "Via Antonio Gramsci",
                 "city": "San Teodoro",
                 "code": "07052",
-                "province": "OT",
+                "province": "SS",
                 "region": "Sardegna",
                 "country": "Italy",
                 "coordinate": {
@@ -163,7 +163,7 @@
                 "address": "Spiaggia Marina Maria",
                 "city": "Murta Maria",
                 "code": "07026",
-                "province": "OT",
+                "province": "SS",
                 "region": "Sardegna",
                 "country": "Italy",
                 "coordinate": {
@@ -185,7 +185,7 @@
                 "address": "Via Isola Padron Fiaso",
                 "city": "Olbia",
                 "code": "07026",
-                "province": "OT",
+                "province": "SS",
                 "region": "Sardegna",
                 "country": "Italy",
                 "coordinate": {
@@ -208,7 +208,7 @@
                 "address": "Località Naracu Nieddu",
                 "city": "Aglientu",
                 "code": "07020",
-                "province": "OT",
+                "province": "SS",
                 "region": "Sardegna",
                 "country": "Italy",
                 "coordinate": {
@@ -230,7 +230,7 @@
                 "address": "Lungomare",
                 "city": "Vignola Mare",
                 "code": "07020",
-                "province": "OT",
+                "province": "SS",
                 "region": "Sardegna",
                 "country": "Italy",
                 "coordinate": {
@@ -252,7 +252,7 @@
                 "address": "Li Junchi",
                 "city": "Badesi Mare",
                 "code": "07030",
-                "province": "OT",
+                "province": "SS",
                 "region": "Sardegna",
                 "country": "Italy",
                 "coordinate": {
@@ -619,7 +619,7 @@
                 "preferred": false
             }
         },
-        {   "title": "Liguria - Sottomarina - Centro Astoria",
+        {   "title": "Veneto - Sottomarina - Centro Astoria",
             "url": "https://www.centroastoria.it/webcam/",
             "id": 1029,
             "location": {
@@ -640,7 +640,7 @@
                 "preferred": false
             }
         },
-        {   "title": "Liguria - Sottomarina - Visione Bagni Miki",
+        {   "title": "Veneto - Sottomarina - Visione Bagni Miki",
             "url": "https://www.vision-environnement.com/it/webcam/italia/venetie/3953-chioggia",
             "id": 1030,
             "location": {
@@ -830,7 +830,7 @@
                 "address": "Via per campeggio",
                 "city": "Palau",
                 "code": "07020",
-                "province": "OT",
+                "province": "SS",
                 "region": "Sardegna",
                 "country": "Italy",
                 "coordinate": {
@@ -852,7 +852,7 @@
                 "address": "Via per campeggio [W]",
                 "city": "Palau",
                 "code": "07020",
-                "province": "OT",
+                "province": "SS",
                 "region": "Sardegna",
                 "country": "Italy",
                 "coordinate": {
@@ -874,7 +874,7 @@
                 "address": "Via per campeggio",
                 "city": "Palau",
                 "code": "07020",
-                "province": "OT",
+                "province": "SS",
                 "region": "Sardegna",
                 "country": "Italy",
                 "coordinate": {
@@ -896,7 +896,7 @@
                 "address": "Via per campeggio",
                 "city": "Palau",
                 "code": "07020",
-                "province": "OT",
+                "province": "SS",
                 "region": "Sardegna",
                 "country": "Italy",
                 "coordinate": {
@@ -919,7 +919,7 @@
                 "address": "Lungomare",
                 "city": "Vignola Mare",
                 "code": "07020",
-                "province": "OT",
+                "province": "SS",
                 "region": "Sardegna",
                 "country": "Italy",
                 "coordinate": {
@@ -941,7 +941,7 @@
                 "address": "Lungomare",
                 "city": "Vignola Mare",
                 "code": "07020",
-                "province": "OT",
+                "province": "SS",
                 "region": "Sardegna",
                 "country": "Italy",
                 "coordinate": {
@@ -963,7 +963,7 @@
                 "address": "Via del Pettirosso",
                 "city": "San Teodoro",
                 "code": "07052",
-                "province": "OT",
+                "province": "SS",
                 "region": "Sardegna",
                 "country": "Italy",
                 "coordinate": {
@@ -985,7 +985,7 @@
                 "address": "Via del Pettirosso",
                 "city": "San Teodoro",
                 "code": "07052",
-                "province": "OT",
+                "province": "SS",
                 "region": "Sardegna",
                 "country": "Italy",
                 "coordinate": {
@@ -1007,7 +1007,7 @@
                 "address": "Strada Provinciale 90",
                 "city": "Aglientu",
                 "code": "07020",
-                "province": "OT",
+                "province": "SS",
                 "region": "Sardegna",
                 "country": "Italy",
                 "coordinate": {
@@ -1029,7 +1029,7 @@
                 "address": "Strada Provinciale 90",
                 "city": "Aglientu",
                 "code": "07020",
-                "province": "OT",
+                "province": "SS",
                 "region": "Sardegna",
                 "country": "Italy",
                 "coordinate": {
@@ -1048,10 +1048,10 @@
             "id": 2011,
             "location": {
                 "name": "Silvestri Surf School",
-                "address": "Via Villaggio degli Svedesi, 1",
+                "address": "Via Le Saline, 1",
                 "city": "Palau",
                 "code": "07020",
-                "province": "OT",
+                "province": "SS",
                 "region": "Sardegna",
                 "country": "Italy",
                 "coordinate": {
@@ -1072,7 +1072,7 @@
                 "address": "Capo D'Orso",
                 "city": "Palau",
                 "code": "07020",
-                "province": "OT",
+                "province": "SS",
                 "region": "Sardegna",
                 "country": "Italy",
                 "coordinate": {
@@ -1094,7 +1094,7 @@
                 "address": "Le Saline",
                 "city": "Palau",
                 "code": "07020",
-                "province": "OT",
+                "province": "SS",
                 "region": "Sardegna",
                 "country": "Italy",
                 "coordinate": {
@@ -1116,7 +1116,7 @@
                 "address": "Spiaggia Marina Maria",
                 "city": "Murta Maria",
                 "code": "07026",
-                "province": "OT",
+                "province": "SS",
                 "region": "Sardegna",
                 "country": "Italy",
                 "coordinate": {
@@ -1138,7 +1138,7 @@
                 "address": "Spiaggia Marina Maria",
                 "city": "Murta Maria",
                 "code": "07026",
-                "province": "OT",
+                "province": "SS",
                 "region": "Sardegna",
                 "country": "Italy",
                 "coordinate": {
@@ -2224,7 +2224,7 @@
             },
             "metadata": {
                 "kind": "other",
-                "service": "lamma",
+                "service": "windfinder",
                 "preferred": false
             }
         },
