@@ -2052,7 +2052,7 @@
             "id": 3002,
             "metadata": {
                 "kind": "other",
-                "service": "windguru",
+                "service": "centrometeolombardo",
                 "preferred": false
             }
         },
@@ -2061,7 +2061,7 @@
             "id": 3003,
             "metadata": {
                 "kind": "other",
-                "service": "centrometeolombardo",
+                "service": "meteoam",
                 "preferred": false
             }
         },
