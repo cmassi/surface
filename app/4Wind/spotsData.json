@@ -1043,8 +1043,8 @@
                 "preferred": false
             }
         },
-        {   "title": "Sardegna - Capo D'Orso - EasyWeather",
-            "url": "https://www.ecowitt.net/home/share?authorize=T58U8B&device_id=RWJRVXA1bnM2YkNtMEJDTjBkaW9HZz09",
+        {   "title": "Sardegna - Capo D'Orso - Silvestri",
+            "url": "https://www.silvestri.it/meteo",
             "id": 2011,
             "location": {
                 "name": "Silvestri Surf School",
@@ -2206,7 +2206,7 @@
                 "preferred": false
             }
         },
-        {   "title": "Sardegna - Bonifacio - Lamma Widget",
+        {   "title": "Sardegna - Webcams a NordEst - Windfinder",
             "url": "https://it.windfinder.com/webcams/sardinia_porto_pollo",
             "id": 3011,
             "location": {
