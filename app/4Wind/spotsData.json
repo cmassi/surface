@@ -730,7 +730,7 @@
             }
         },
         
-        {   "title": "Francia - Hyères - Visione L’Almanarre (Sito Archeologico d'Olbia)",
+        {   "title": "France - Hyères - Visione L’Almanarre (Sito Archeologico d'Olbia)",
             "url": "https://www.vision-environnement.com/live/player/hyeres30.php",
             "id": 1034,
             "location": {
@@ -752,7 +752,7 @@
                 "preferred": false
             }
         },
-        {   "title": "Francia - Hyères - L’Almanarre - Visione Les Estagnets (La Mandrague)",
+        {   "title": "France - Hyères - L’Almanarre - Visione Les Estagnets (La Mandrague)",
             "url": "https://www.vision-environnement.com/live/player/hyereskite.php",
             "id": 1035,
             "location": {
@@ -774,7 +774,7 @@
                 "preferred": false
             }
         },
-        {   "title": "Francia - Hyères - Visione Plage de l'Ayguade (La Bergerie)",
+        {   "title": "France - Hyères - Visione Plage de l'Ayguade (La Bergerie)",
             "url": "https://www.vision-environnement.com/live/player/hyeres20.php",
             "id": 1036,
             "location": {
@@ -797,7 +797,7 @@
             }
         },
         
-        {   "title": "Lanzarote - Famara",
+        {   "title": "Spain - Lanzarote - Famara",
             "url": "https://www.redstarsurf.com/famara-live-web-cam",
             "id": 1037,
             "location": {
@@ -1992,7 +1992,7 @@
             }
         },
         
-        {   "title": "Hyeres - L'Almanarre - Windguru",
+        {   "title": "France - Hyeres - L'Almanarre - Windguru",
             "url": "https://www.windguru.cz/501010",
             "id": 2051,
             "location": {
@@ -2014,7 +2014,7 @@
                 "preferred": false
             }
         },
-        {   "title": "Hyeres - La Mandrague - Windguru",
+        {   "title": "France - Hyeres - La Mandrague - Windguru",
             "url": "https://www.windguru.cz/48627",
             "id": 2052,
             "location": {
@@ -2033,6 +2033,28 @@
             "metadata": {
                 "kind": "forecast",
                 "service": "windguru",
+                "preferred": false
+            }
+        },
+        {   "title": "Holland - Aalsmeer - Isola del Surf - Windfinder",
+            "url": "https://www.wsca.nl/weerstation/#tab-f45c5f282abd6fd26bc",
+            "id": 2052,
+            "location": {
+                "name": "Windsurf Club Aalsmeer",
+                "address": "Kudelstaartseweg 20",
+                "city": "Aalsmeer",
+                "code": "1431",
+                "province": "GA",
+                "region": "",
+                "country": "Olanda",
+                "coordinate": {
+                    "latitude": 52.25262367090165,
+                    "longitude": 4.7589011321618875
+                }
+            },
+            "metadata": {
+                "kind": "forecast",
+                "service": "windfinder",
                 "preferred": false
             }
         }
@@ -2260,7 +2282,7 @@
             }
         },
         
-        {   "title": "Francia - Hyeres Almanarre, Hyeres Ayguade - ProvenceMed Webcams",
+        {   "title": "France - Hyeres Almanarre, Hyeres Ayguade - ProvenceMed Webcams",
             "url": "https://www.provencemed.com/it/webcam/",
             "id": 3015,
             "metadata": {
