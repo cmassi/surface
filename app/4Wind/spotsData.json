@@ -817,6 +817,27 @@
                 "kind": "webcam",
                 "preferred": false
             }
+        },
+        {   "title": "Holland - Aalsmeer - Isola del Surf - Heelhollandkijkt",
+            "url": "https://www.wsca.nl/weerstation",
+            "id": 1038,
+            "location": {
+                "name": "Windsurf Club Aalsmeer",
+                "address": "Kudelstaartseweg 20",
+                "city": "Aalsmeer",
+                "code": "1431",
+                "province": "GA",
+                "region": "",
+                "country": "Olanda",
+                "coordinate": {
+                    "latitude": 52.25290277230405,
+                    "longitude": 4.75808143260267
+                }
+            },
+            "metadata": {
+                "kind": "webcam",
+                "preferred": false
+            }
         }
     ],
     
@@ -2038,7 +2059,7 @@
         },
         {   "title": "Holland - Aalsmeer - Isola del Surf - Windfinder",
             "url": "https://www.wsca.nl/weerstation/#tab-f45c5f282abd6fd26bc",
-            "id": 2052,
+            "id": 2053,
             "location": {
                 "name": "Windsurf Club Aalsmeer",
                 "address": "Kudelstaartseweg 20",
@@ -2048,8 +2069,8 @@
                 "region": "",
                 "country": "Olanda",
                 "coordinate": {
-                    "latitude": 52.25262367090165,
-                    "longitude": 4.7589011321618875
+                    "latitude": 52.253642383469305,
+                    "longitude": 4.755782725807013
                 }
             },
             "metadata": {
