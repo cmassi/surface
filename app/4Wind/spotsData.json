@@ -1173,6 +1173,28 @@
                 "preferred": false
             }
         },
+        {   "title": "Sardegna - S'Antioco - SaBarra - Windguru",
+            "url": "https://www.windguru.cz/288816",
+            "id": 2058,
+            "location": {
+                "name": "Windsurfing Club SaBarra",
+                "address": "Via Ciusa, Provincia del Sulcis",
+                "city": "S'Antioco",
+                "code": "09017",
+                "province": "SU",
+                "region": "Sardegna",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 39.091653656361565,
+                    "longitude": 8.443122870080577
+                }
+            },
+            "metadata": {
+                "kind": "forecast",
+                "service": "windguru",
+                "preferred": false
+            }
+        },
         
         {   "title": "Como Lake - BrevaGuru",
             "url": "https://brevaguru.com/it/comolake_winds_forecasts/map",
@@ -1273,8 +1295,8 @@
                 "region": "Lombardia",
                 "country": "Italy",
                 "coordinate": {
-                    "latitude": 46.163038240206255,
-                    "longitude": 9.38016031866073
+                    "latitude": 46.16663300969532,
+                    "longitude": 9.37747599728683
                 }
             },
             "metadata": {
@@ -1813,6 +1835,28 @@
             }
         },
         
+        {   "title": "Liguria - Andora - Windguru",
+            "url": "https://www.windguru.cz/48982",
+            "id": 2057,
+            "location": {
+                "name": "Andora",
+                "address": "Via Vignetta 4",
+                "city": "Marina di Andora",
+                "code": "17020",
+                "province": "SV",
+                "region": "Liguria",
+                "country": "Italy",
+                "coordinate": {
+                    "latitude": 43.94625973011228,
+                    "longitude": 8.13968601017468
+                }
+            },
+            "metadata": {
+                "kind": "forecast",
+                "service": "windguru",
+                "preferred": false
+            }
+        },
         
         {   "title": "Paros - Tsoukalia - Windfinder Superforecast",
             "url": "https://www.windfinder.com/weatherforecast/tsoukalia",
@@ -2076,6 +2120,50 @@
             "metadata": {
                 "kind": "forecast",
                 "service": "windfinder",
+                "preferred": false
+            }
+        },
+        {   "title": "Brasil - Praia do Maceiò - SaBarra - Windguru",
+            "url": "https://www.windguru.cz/841074",
+            "id": 2059,
+            "location": {
+                "name": "Windsurf Club SaBarra Brasile",
+                "address": "Praia Do Maceió",
+                "city": "Camocim",
+                "code": "62400",
+                "province": "CE",
+                "region": "Ceará",
+                "country": "Brasil",
+                "coordinate": {
+                    "latitude": -2.8721251439150666,
+                    "longitude": -40.95791718699107
+                }
+            },
+            "metadata": {
+                "kind": "forecast",
+                "service": "windguru",
+                "preferred": false
+            }
+        },
+        {   "title": "Brasil - Jericoacoara - Windguru",
+            "url": "https://www.windguru.cz/561",
+            "id": 2060,
+            "location": {
+                "name": "Ticowind Jeri",
+                "address": "Rua da Praia, 30",
+                "city": "Jijoca de Jericoacoara",
+                "code": "62598",
+                "province": "CE",
+                "region": "Ceará",
+                "country": "Brasil",
+                "coordinate": {
+                    "latitude": -2.7974273,
+                    "longitude": -40.5179493
+                }
+            },
+            "metadata": {
+                "kind": "forecast",
+                "service": "windguru",
                 "preferred": false
             }
         }
